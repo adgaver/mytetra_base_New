@@ -602,6 +602,7 @@
        <record id="1647506073ri40gpr4u7" name="СОБРАТЬ ДАННЫЕ С ТАБЛИЦ С ИЗМЕНЯЮЩИМИСЯ СТОЛБЦАМИ В POWERQUERY" author="" url="https://www.excel-vba.ru/chto-umeet-excel/sobrat-dannye-s-tablic-s-izmenyayushhimisya-stolbcami-v-powerquery/" tags="Power Query, ExpandTableColumn" ctime="20220317113433" dir="1647506073qut3rcu68z" file="text.html"/>
        <record id="1648637644v49cnsj705" name="POWER QUERY ОШИБКИ №14. УДАЛИТЬ ЛИШНИЕ ПРОБЕЛЫ" author="" url="https://comrade-xl.ru/2019/12/31/power-query-udalit-lishnie-probeli/?" tags="Power Query, Clear" ctime="20220330135404" dir="1648637644sazmr69tp4" file="text.html"/>
        <record id="1648642760xdi7b2j5yj" name="POWER QUERY ПРАКТИЧЕСКИЙ №4. ТАБЛИЦА КАЛЕНДАРЯ (ТАБЛИЦА ДАТ)" author="" url="https://comrade-xl.ru/2019/09/28/powerquery-dinamicheskaya-tablitsa-dat/" tags="Power Query, WeekISO, week_num" ctime="20220330151920" dir="1648642760eau1ietnb3" file="text.html"/>
+       <record id="1649237533naiih006tj" name="Как получить несколько значений в результате запроса Power Query" author="" url="http://excel-inside.pro/ru/blog/2017/09/25/%d0%ba%d0%b0%d0%ba-%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%bd%d0%b5%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b9-%d0%b7%d0%b0%d0%bf%d1%80/" tags="" ctime="20220406123213" dir="1649237533yxch7wvag6" file="text.html"/>
       </recordtable>
      </node>
     </node>
