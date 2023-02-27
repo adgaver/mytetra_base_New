@@ -608,6 +608,7 @@
        <record id="1651225097m1qg8ni009" name="Округление в Power Query" author="" url="" tags="Power Query, Round" ctime="20220429123817" dir="16512250970yfhlz2a3u" file="text.html"/>
        <record id="1653411890dn7yubcluy" name="PBI CALENDARAUTO, CALENDAR" author="" url="" tags="PBI, CALENDAR" ctime="20220524200450" dir="16534118907v7w0hqxrj" file="text.html"/>
        <record id="1653413419rhg0bd8reh" name="PBI Рейтинг, Доля" author="" url="" tags="" ctime="20220524203019" dir="1653413419xcirib3in3" file="text.html"/>
+       <record id="16775174573bapcqrhkw" name="Как в Power Query в запросе задать условие, чтобы он оставил только данные до первой пустой строки" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=117269&amp;MID=972006#message972006" tags="Power Query, Empty" ctime="20230227200417" dir="1677517457dr149jb6lh" file="text.html"/>
       </recordtable>
      </node>
     </node>
