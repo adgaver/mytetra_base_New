@@ -9,10 +9,10 @@
     <record id="1586641291gb32dnkz1s" name="методики копирования с защищенных от копирования страниц в браузере" author="" url="" tags="" ctime="20200412004131" dir="158664129144f9ojer6r" file="text.html"/>
     <record id="1618454932nof4xy7l7h" name="15 апр. 05:48" author="" url="" tags="" ctime="20210415054852" dir="20210415054852868_16184549321eqlrf8t55" file="text.html"/>
     <record id="1632759376sk3oe1xr6d" name="Дата сохранения файла" author="" url="https://micro-solution.ru/projects/addin_vba-excel/date_save" tags="" ctime="20210927191616" dir="1632759376sookrxkt14" file="text.html"/>
-    <record id="1632846407q8nfaexh73" name="Защита проекта VBA в MS Excel&#10;&#10;" author="" url="https://habr.com/ru/post/514440/" tags="VBAProject Properties, Protection" ctime="20210928192647" dir="1632846407ld3p311p5u" file="text.html"/>
-    <record id="16397741881et48wc3nz" name="Modbus TCP Data Logging to Database&#10;&#10;" author="" url="https://accautomation.ca/modbus-tcp-data-logging-to-database/?amp" tags="modbus, VB.net" ctime="20211217234948" dir="1639774188lm3wgkt3z0" file="text.html"/>
+    <record id="1632846407q8nfaexh73" name="Защита проекта VBA в MS Excel&#xA;&#xA;" author="" url="https://habr.com/ru/post/514440/" tags="VBAProject Properties, Protection" ctime="20210928192647" dir="1632846407ld3p311p5u" file="text.html"/>
+    <record id="16397741881et48wc3nz" name="Modbus TCP Data Logging to Database&#xA;&#xA;" author="" url="https://accautomation.ca/modbus-tcp-data-logging-to-database/?amp" tags="modbus, VB.net" ctime="20211217234948" dir="1639774188lm3wgkt3z0" file="text.html"/>
    </recordtable>
-   <node crypt="" icon="" id="1544725102dlpfsm013p" name="Почитать">
+   <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_comments.svg" id="1544725102dlpfsm013p" name="Почитать">
     <recordtable>
      <record id="1544725132xccpjuna4d" name="Как работать с Microsoft Power BI — подробное руководство" author="" url="https://netpeak.net/ru/blog/kak-rabotat-s-microsoft-power-bi-podrobnoe-rukovodstvo/" tags="" ctime="20181213211852" dir="1544725132kpato7def3" file="text.html"/>
      <record id="1544726111bmtgsdll00" name="Процесс тестирования ПО. Классификация видов тестирования" author="" url="https://m.vk.com/video-54530371_456249951?list=f6dd50ab6b5ba55f95&amp;from=wall-54530371_225975" tags="" ctime="20181213213511" dir="1544726111gf6ej7xs0l" file="text.html"/>
@@ -508,7 +508,7 @@
     <recordtable>
      <record id="1570681108upj0m8eqlx" name="Справочник по VBA для Office" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/overview/" tags="VBA" ctime="20191010071828" dir="1570681108wlhti2glgl" file="text.html"/>
     </recordtable>
-    <node crypt="" icon="" id="15405273777k4m0j8e8q" name="Excel">
+    <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_calculator.svg" id="15405273777k4m0j8e8q" name="Excel">
      <recordtable>
       <record id="15405288462flobnhmp1" name="Как правильно пользоваться автосохранением MS Office" author="" url="http://perfect-excel.ru/publ/excel/razlichnye_instrumenty_excel/kak_pravilno_polzovatsja_avtosokhraneniem_ms_office/10-1-0-82" tags="автосохранение" ctime="20181026074046" dir="1540528846jtzjq97zl1" file="text.html"/>
       <record id="1545888100ckdu40sf0e" name="Как восстановить несохраненный файл Excel" author="" url="https://www.kakprosto.ru/kak-102797-kak-vosstanovit-nesohranennyy-fayl-excel" tags="" ctime="20181227082151" dir="15458881005eve30hd7p" file="text.html"/>
@@ -675,7 +675,7 @@
       <record id="1570450262ni88o65m5i" name="Сочетания клавиш в Microsoft PowerPoint" author="" url="https://winnote.ru/instructions/757-how-to-reset-windows-10-using-cloud-download.html" tags="PowerPoint, Горячие клавиши" ctime="20191007151102" dir="1570450262v5btgsfbd7" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" icon="" id="15527677997paol6re3p" name="Outlook">
+    <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_news.svg" id="15527677997paol6re3p" name="Outlook">
      <recordtable>
       <record id="15119323379ck5vq7gnd" name="Восстановление удаленных элементов в Outlook 2010 " author="" url="https://support.office.com/ru-ru/article/%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85-%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D0%BE%D0%B2-%D0%B2-Outlook-2010-cd9dfe12-8e8c-4a21-bbbf-4bd103a3f1fe" tags="Outlook, восстановление писем" ctime="20190316232319" dir="1511932337i5ddimpg85" file="text.html"/>
       <record id="1511703436auz5vd8l2t" name="Как осуществлять поиск в Microsoft Outlook 2013 " author="" url="https://webhamster.ru/mytetrashare/index/mtb0/1502189464bm9paaanu4" tags="Outlook" ctime="20190316232319" dir="1511703436t2f50rrtdz" file="text.html"/>
@@ -1517,8 +1517,8 @@
      </node>
      <node crypt="" icon="" id="1552769009ghh0jcoj1m" name="leadersoft.ru">
       <recordtable>
-       <record id="1531370328moosqy479a" name="Работа с датами DateSerial &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11959" tags="SQL Access" ctime="20190316234329" dir="1531370328x2qvhnv9eq" file="text.html"/>
-       <record id="1531370525ev1e2ik9f6" name="Автозагрузка файлов в таблицу &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11936" tags="" ctime="20190316234329" dir="1531370525b3tv25dgan" file="text.html"/>
+       <record id="1531370328moosqy479a" name="Работа с датами DateSerial &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11959" tags="SQL Access" ctime="20190316234329" dir="1531370328x2qvhnv9eq" file="text.html"/>
+       <record id="1531370525ev1e2ik9f6" name="Автозагрузка файлов в таблицу &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11936" tags="" ctime="20190316234329" dir="1531370525b3tv25dgan" file="text.html"/>
        <record id="1531370676u0mf36rxh6" name="036. Использование серийных номеров дисков" author="" url="http://www.leadersoft.ru/rus/market/db/products/60/help/849.html" tags="" ctime="20190316234329" dir="15313706766bx5ivlp4f" file="text.html"/>
        <record id="1531370719wvqo0sbg4z" name="034. Использование календаря: ActiveX Calendar" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/861.html" tags="" ctime="20190316234329" dir="1531370719ievfgibhkx" file="text.html"/>
        <record id="1531370763sb063j2ii9" name="031. Использование StatusBar в Microsoft Access" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/844.html" tags="" ctime="20190316234329" dir="15313707638eeo2rh4s6" file="text.html"/>
@@ -1532,9 +1532,9 @@
        <record id="1531371664zu1tn2humy" name="065. Открытие таблиц в ADO и DAO" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/899.html" tags="" ctime="20190316234329" dir="1531371664gpqdcgehb6" file="text.html"/>
        <record id="1531371720n1xxamsqal" name="000 Все примеры Microsoft Access - VBA" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/827.html" tags="" ctime="20190316234329" dir="1531371720ml8cs3ufsp" file="text.html"/>
        <record id="1531372808q0vebczey4" name="061. Общая информация о Windows" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/871.html" tags="" ctime="20190316234329" dir="15313728088y5iddn076" file="text.html"/>
-       <record id="15313733909fcolk2xqx" name="Диспетчер связанных таблиц &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11949" tags="" ctime="20190316234329" dir="15313733905swt5cw1zj" file="text.html"/>
-       <record id="1531373401wfn7lu0moh" name="Отправить письмо из Outlook &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11860" tags="" ctime="20190316234329" dir="15313734011aq6tadvhd" file="text.html"/>
-       <record id="1531373424ovfyyifnbs" name="Использование календаря: ActiveX Calendar &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11879" tags="" ctime="20190316234329" dir="1531373424nfeoc0lv3y" file="text.html"/>
+       <record id="15313733909fcolk2xqx" name="Диспетчер связанных таблиц &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11949" tags="" ctime="20190316234329" dir="15313733905swt5cw1zj" file="text.html"/>
+       <record id="1531373401wfn7lu0moh" name="Отправить письмо из Outlook &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11860" tags="" ctime="20190316234329" dir="15313734011aq6tadvhd" file="text.html"/>
+       <record id="1531373424ovfyyifnbs" name="Использование календаря: ActiveX Calendar &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11879" tags="" ctime="20190316234329" dir="1531373424nfeoc0lv3y" file="text.html"/>
        <record id="1531373449gze72ylt8l" name="064. Открытие бинарного файла." author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/912.html" tags="" ctime="20190316234329" dir="1531373449x7ale9tzq2" file="text.html"/>
        <record id="1531373529jub8gns755" name="085. Работа с датами DateSerial" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/840.html" tags="" ctime="20190316234329" dir="1531373529fnvi6sv1pp" file="text.html"/>
        <record id="1531373578dssdtkzu65" name="060. Обработка ошибок разными методами" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/898.html" tags="" ctime="20190316234329" dir="1531373578vzt9ytdry7" file="text.html"/>
@@ -1554,7 +1554,7 @@
        <record id="1531933194zvrmvhqwlo" name="Программное создание базы данных с помощью ADOX - Часть 2 (исходники)" author="" url="http://www.interface.ru/home.asp?artId=18110" tags="VBA, CreateDataBase, создание базы данных" ctime="20190316234330" dir="1531933194tl1aytxku6" file="text.html"/>
        <record id="1531933162c2pcwzuamz" name="Блокировка (монопольное открытие) таблицы" author="" url="http://msa.polarcom.ru/st/s0000289.htm" tags="" ctime="20190316234330" dir="1531933162f46ymhyt3x" file="text.html"/>
        <record id="1531933134ofdb6v8co0" name="Автоматическое обнуление подтаблиц в базе данных (для повышения производительности)" author="" url="http://msa.polarcom.ru/st/s0000337.htm" tags="" ctime="20190316234330" dir="1531933134ycdio6f5bu" file="text.html"/>
-       <record id="1531934076rnt3wfvm14" name="00 VBA, MS Access &#9;MS Access в примерах" author="" url="http://msa.polarcom.ru/st/f0000043.htm" tags="" ctime="20190316234330" dir="15319340763oj6dgvann" file="text.html"/>
+       <record id="1531934076rnt3wfvm14" name="00 VBA, MS Access &#x9;MS Access в примерах" author="" url="http://msa.polarcom.ru/st/f0000043.htm" tags="" ctime="20190316234330" dir="15319340763oj6dgvann" file="text.html"/>
       </recordtable>
       <node crypt="" icon="" id="1552769010m67tf8v5de" name="01 Базы Данных">
        <recordtable>
@@ -2127,7 +2127,7 @@
       </record>
       <record id="1518974958u1xycj6zqf" name="Как открыть Word из Excel макросом VBA? Запуск Word из Excel" author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="Word из Excel" ctime="20190316234331" dir="1518974958jpi7ho30um" file="text.html"/>
       <record id="15206962247kfkbwjdke" name="Границы ячеек" author="" url="http://www.cyberforum.ru/vba/thread1071873.html" tags="Границы ячеек, Borders, LineStyle" ctime="20190316234331" dir="1520696224kg4ey8fvi8" file="text.html"/>
-      <record id="15230020468h2thcxevw" name="Экспорт диаграмм из Excel в Power Point с помощью VBA&#9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/eksport-diagramm-iz-excel-v-power-point-s-pomoshhyu-vba/" tags="vba_excel, vba_powerpoint" ctime="20190316234331" dir="15230020464kbwyolc3z" file="text.html"/>
+      <record id="15230020468h2thcxevw" name="Экспорт диаграмм из Excel в Power Point с помощью VBA&#x9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/eksport-diagramm-iz-excel-v-power-point-s-pomoshhyu-vba/" tags="vba_excel, vba_powerpoint" ctime="20190316234331" dir="15230020464kbwyolc3z" file="text.html"/>
       <record id="1523184173nw4bahfc9o" name="Кнопка на ленте MS Office с изменяемой надписью" author="" url="https://officemacro.wordpress.com/2015/05/16/ribbon-getlabel/" tags="лента, Ribbon,vba" ctime="20190316234331" dir="1523184173tco3770wqm" file="text.html"/>
       <record id="15305925743tzsphb1gk" name="SaveAs.xlsb" author="" url="" tags="SaveAs.xlsb" ctime="20190316234331" dir="1530592574r65t3zqvty" file="text.html"/>
       <record id="1530611360jxt6mbr7hb" name="изменить именованный диапазон" author="" url="" tags="VBA, Names, изменить именованный диапазон" ctime="20190316234331" dir="15306113605wpvpr4fh4" file="text.html"/>
@@ -2185,7 +2185,7 @@
        <record id="1521088632ds3q7n0sq3" name="VBA Excel. Цвет текста в ячейке " author="" url="" tags="VBA, Excel, Color, Цвет, Cells" ctime="20190316234331" dir="1521088632qb4dodctzj" file="text.html"/>
        <record id="15219258234swq02ezu7" name="VBA Excel. Цвет текста (шрифта) в ячейке" author="" url="http://vremya-ne-zhdet.ru/vba-excel/tsvet-teksta-shrifta-v-yacheyke/#3" tags="Цвет, Color, RGB" ctime="20190316234331" dir="1521925823xo6yuudjgj" file="text.html"/>
        <record id="1523001452j0ygg9n051" name="CheckBox в ячейках Excel" author="" url="http://opennotes.ru/knowledge/vba-knowledge/checkbox-v-yachejkax-excel/" tags="CheckBox, Excel" ctime="20190316234331" dir="1523001452adw9hirvdn" file="text.html"/>
-       <record id="1523001914ib5c007lwv" name="Создание форматированного примечания с помощью VBA&#9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/sozdanie-formatirovannogo-primechaniya-s-pomoshhyu-vba/" tags="vba_excel, примечания" ctime="20190316234331" dir="1523001914i1fxcyk4sn" file="text.html"/>
+       <record id="1523001914ib5c007lwv" name="Создание форматированного примечания с помощью VBA&#x9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/sozdanie-formatirovannogo-primechaniya-s-pomoshhyu-vba/" tags="vba_excel, примечания" ctime="20190316234331" dir="1523001914i1fxcyk4sn" file="text.html"/>
        <record id="1530688992ib1cg1rtbf" name="Событие при выделении ячейки" author="" url="" tags="VBA, Events, Target, Cells, События" ctime="20190316234331" dir="1530688992ncao2uztnj" file="text.html"/>
        <record id="15308744716x1mg6qg72" name="m_Plus_Minus" author="" url="" tags="Plus_Minus, плюс_минус" ctime="20190316234331" dir="1530874471duk4zpzmpy" file="text.html"/>
        <record id="1562066313fh31kvqlpk" name="Очистка значения от мусора" author="" url="" tags="Trim, Application.Clean" ctime="20190702141833" dir="1562066313lg5ox8fsge" file="text.html"/>
@@ -2456,7 +2456,7 @@
       <record id="15230023484f3qtuvkz7" name="Автоматическая отправка письма через Excel" author="" url="http://opennotes.ru/knowledge/vba-knowledge/avtomaticheskaya-otpravka-pisma-cherez-excel/" tags="VBA_Outlook, отправка письма" ctime="20190316234331" dir="1523002348onwfpa4gqq" file="text.html"/>
       <record id="1523002472z9emfr079t" name="Автоматическое копирование вложений из писем в папку" author="" url="http://opennotes.ru/knowledge/vba-knowledge/avtomaticheskoe-kopirovanie-vlozhenij-iz-pisem-v-papku/" tags="vba_outlook, вложения почты, attach" ctime="20190316234331" dir="152300247218nuh8kq6e" file="text.html"/>
       <record id="1524471753av2pfore6f" name="Обработка вложенгий" author="" url="http://www.sql.ru/forum/768040/obrabotka-vseh-vhodyashhih-pisem-outlook?mid=8965669#8965669" tags="VBA, Outlook, attach" ctime="20190316234331" dir="1524471753nhoz5jrwba" file="text.html"/>
-      <record id="15244718688d4q042k7m" name="Пересылка входящих писем Outlook посредством VBA &#9;[В закладки] [Окно ответа] #2" author="" url="http://www.cyberforum.ru/vba/thread1386589.html" tags="vba, outlook, " ctime="20190316234331" dir="1524471868mfduugmih5" file="text.html"/>
+      <record id="15244718688d4q042k7m" name="Пересылка входящих писем Outlook посредством VBA &#x9;[В закладки] [Окно ответа] #2" author="" url="http://www.cyberforum.ru/vba/thread1386589.html" tags="vba, outlook, " ctime="20190316234331" dir="1524471868mfduugmih5" file="text.html"/>
       <record id="1524471916n89rqnbbn0" name="Как создать свое правило в VBA для Microsoft Outlook? Событие ItemAdd для папки Входящие" author="" url="http://www.potolook.ru/blog/p,209/" tags="VB_Outlook, rules" ctime="20190316234331" dir="1524471916wurloijpm0" file="text.html"/>
       <record id="1532092227o9fbl7xcsb" name="Посмотреть" author="" url="" tags="" ctime="20190316234331" dir="1532092227d542nm0o60" file="text.html"/>
       <record id="1532118222nm3mxcfxis" name="Поиск электронной почты Outlook (и ответа на него) с помощью Excel VBA" author="" url="https://stackoverrun.com/ru/q/9898146/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D1%87%D1%82%D1%8B-outlook-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B3%D0%BE-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-excel-vba" tags="" ctime="20190316234331" dir="1532118222qlc3a7gqgc" file="text.html"/>
@@ -2464,7 +2464,7 @@
       <record id="1532118460xmgj46mbor" name="Как отправить электронное письмо в Outlook в определенную папку" author="" url="https://stackoverrun.com/ru/q/7260322/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE-%D0%B2-outlook-%D0%B2-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%83%D1%8E-%D0%BF%D0%B0%D0%BF%D0%BA%D1%83" tags="" ctime="20190316234331" dir="1532118460dug9ulqou6" file="text.html"/>
       <record id="1532202580xbx2xixnr1" name="Событие Application.NewMailEx (Outlook)" author="" url="https://msdn.microsoft.com/ru-ru/vba/outlook-vba/articles/application-newmailex-event-outlook" tags="NewMail" ctime="20190316234331" dir="15322025801knrv4s5dg" file="text.html"/>
       <record id="1532419352xp3m8wq3mw" name="Просмотр всех папок почты" author="" url="" tags="Просмотр всех папок почты" ctime="20190316234331" dir="15324193528jjj46zvwo" file="text.html"/>
-      <record id="1533247866byrta92pcr" name="Способы интеграции MS ACCESS и MS Outlook &#9;Печать &#9;E-mail" author="" url="http://hiprog.com/index.php?option=com_content&amp;task=view&amp;id=251661546" tags="" ctime="20190316234331" dir="1533247866s67tp9dwqb" file="text.html"/>
+      <record id="1533247866byrta92pcr" name="Способы интеграции MS ACCESS и MS Outlook &#x9;Печать &#x9;E-mail" author="" url="http://hiprog.com/index.php?option=com_content&amp;task=view&amp;id=251661546" tags="" ctime="20190316234331" dir="1533247866s67tp9dwqb" file="text.html"/>
       <record id="1532202968v573fsrhfm" name="Outlook - это приложения с одним экземпляром, нет необходимости определять, открыт ли Outlook, потому что вы может работать только одна копия Outlook" author="" url="http://qaru.site/questions/3489/vba-determining-whether-an-existing-outlook-instance-is-open" tags="" ctime="20190731233117" dir="1532202968tuhbk585yj" file="text.html"/>
       <record id="1570884404wqoyt6v76b" name="Как отправить письмо со ссылкой на наши файлы" author="" url="https://excelpedia.ru/makrosi-v-excel/otpravit-pismo-so-ssilkoi-na-fail" tags="" ctime="20191012202643" dir="157088440491v435uh3w" file="text.html"/>
       <record id="158645291105v1lxpxdx" name="Как узнать список папок Outlook " author="" url="http://visualprogs.ru/states/3.html" tags="VBA_Outlook" ctime="20200409202151" dir="1586452911gtvye5i03u" file="text.html"/>
@@ -2543,7 +2543,7 @@
       <record id="1513051608mpnc6xxv7k" name="Работа с текстовыми файлами " author="" url="http://www.excel-team.ru/text_files.php" tags="VBA, Text, Текст, txt" ctime="20190731230822" dir="1513051608z0fmcrjf4h" file="text.html"/>
       <record id="1570884035rxsz6noj4q" name="Как очистить данные от непечатаемых символов" author="" url="https://excelpedia.ru/makrosi-v-excel/udalit-nepechataemie-simvoli" tags="" ctime="20191012202557" dir="1570884035vssdsc97yq" file="text.html"/>
       <record id="1570884478csrlnb333n" name="Все функции по работе с текстом" author="" url="https://excelpedia.ru/makrosi-v-excel/funkcii-po-rabote-s-tekstom" tags="" ctime="20191012203056" dir="157088447833mvmeyibu" file="text.html"/>
-      <record id="1618455041lhmzqkahit" name="Запись данных из массива в файл *.csv»&#10;" author="" url="https://studassistent.ru/vba/zapis-dannykh-iz-massiva-v-fajl-csv-vba" tags="txt, text, csv" ctime="20210415055041" dir="1618455041taend4y5m1" file="text.html"/>
+      <record id="1618455041lhmzqkahit" name="Запись данных из массива в файл *.csv»&#xA;" author="" url="https://studassistent.ru/vba/zapis-dannykh-iz-massiva-v-fajl-csv-vba" tags="txt, text, csv" ctime="20210415055041" dir="1618455041taend4y5m1" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1552769012jzj4ohzmob" name="VBA управление кодами">
