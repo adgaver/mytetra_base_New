@@ -623,6 +623,20 @@
        <record id="1677841272co1kxumpba" name="PQ_Punctuations.txt" author="" url="" tags="" ctime="20230303140112" dir="1677841272ay6kzdpr40" file="text.html"/>
        <record id="1677841344zbw86wq95n" name="PQ_Record.ToList.txt" author="" url="" tags="" ctime="20230303140224" dir="16778413449ipptjex0l" file="text.html"/>
        <record id="167784141296ghuz5moe" name="PQ_Группировка значений в отдельном столбце.txt" author="" url="" tags="" ctime="20230303140332" dir="16778414125q5ci5ywr4" file="text.html"/>
+       <record id="167784187586ffbr6zdi" name="PQ_До первой пустой строки.txt" author="" url="" tags="" ctime="20230303141115" dir="16778418757xu8epn8mm" file="text.html"/>
+       <record id="167784191060vqln54of" name="PQ_добавление начального нуля к числу (номер месяца).txt" author="" url="" tags="" ctime="20230303141150" dir="1677841910oy40r0cmew" file="text.html"/>
+       <record id="1677841947755at0zmum" name="PQ_добавление текста в конец имени столбца.txt" author="" url="" tags="" ctime="20230303141227" dir="167784194712cwmugqkr" file="text.html"/>
+       <record id="1677841991supdqb007w" name="PQ_замена символов по списку .txt" author="" url="" tags="" ctime="20230303141311" dir="16778419917kpkln5gnw" file="text.html"/>
+       <record id="1677842020vpd1sar846" name="PQ_Заменить все ошибки.txt" author="" url="" tags="" ctime="20230303141340" dir="1677842020ckjtfml2xf" file="text.html"/>
+       <record id="1677842064sodyngxrm0" name="PQ_Изменить_тип_всех_столбцов.txt" author="" url="" tags="" ctime="20230303141424" dir="16778420644iafuichzb" file="text.html"/>
+       <record id="1677842103phycugcchm" name="PQ_Как правильно разворачивать столбцы.txt" author="" url="" tags="" ctime="20230303141503" dir="167784210377lsvbg5rf" file="text.html"/>
+       <record id="1677842159535886hclk" name="PQ_Календарь_M.txt" author="" url="" tags="" ctime="20230303141559" dir="1677842159eg2e2j01yk" file="text.html"/>
+       <record id="1677842212twbat8w2am" name="PQ_наименьшее значение из указанных столбцов.txt" author="" url="" tags="" ctime="20230303141652" dir="1677842212od4oj27ob5" file="text.html"/>
+       <record id="1677842246xo6pazyveg" name="PQ_неделя ISO.txt" author="" url="" tags="" ctime="20230303141726" dir="1677842246c26reffs1a" file="text.html"/>
+       <record id="167784229517vd4cy1f2" name="PQ_Рабочих дней.txt" author="" url="" tags="" ctime="20230303141815" dir="1677842295tfe3ejcf9u" file="text.html"/>
+       <record id="167784234638devi0wml" name="PQ_разница дат.txt" author="" url="" tags="" ctime="20230303141906" dir="16778423463qjnpwirvu" file="text.html"/>
+       <record id="1677842487atkvwaviyk" name="PQ_Список дат.txt" author="" url="" tags="" ctime="20230303142127" dir="16778424879j3ne5s3yi" file="text.html"/>
+       <record id="1677842616ylt3ak1vts" name="PQ_Формат более 24х часов.txt" author="" url="" tags="" ctime="20230303142336" dir="1677842616rkgjwxezrr" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -735,6 +749,16 @@
      <recordtable>
       <record id="158148472716z4mv9cw0" name="Падение OneDrive" author="" url="http://ishutov.blogspot.com/2016/09/onedrive.html" tags="OneDrive, Error" ctime="20200212081847" dir="158148472784cw3fz1jo" file="text.html"/>
       <record id="1581484838ztrujsajf6" name="Решение проблем с синхронизацией OneDrive" author="" url="https://support.office.com/ru-ru/article/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC-%D1%81-%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B5%D0%B9-onedrive-0899b115-05f7-45ec-95b2-e4cc8c4670b2?redirectSourcePath=%252fru-ru%252farticle%252f%2525D0%2525A0%2525D0%2525B5%2525D1%252588%2525D0%2525B5%2525D0%2525BD%2525D0%2525B8%2525D0%2525B5-%2525D0%2525BF%2525D1%252580%2525D0%2525BE%2525D0%2525B1%2525D0%2525BB%2525D0%2525B5%2525D0%2525BC-%2525D1%252581-%2525D1%252581%2525D0%2525B8%2525D0%2525BD%2525D1%252585%2525D1%252580%2525D0%2525BE%2525D0%2525BD%2525D0%2525B8%2525D0%2525B7%2525D0%2525B0%2525D1%252586%2525D0%2525B8%2525D0%2525B5%2525D0%2525B9-OneDrive-%2525D0%2525B2-Windows-10-Windows-8-Windows-7-%2525D0%2525B8-Windows-Vista-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8&amp;ui=ru-RU&amp;rs=ru-RU&amp;ad=RU&amp;fromAR=1" tags="OneDrive, Sync" ctime="20200212082038" dir="1581484838in8uzjt1t0" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="167784273346ondc9st3" name="UkM1U0lNUAPjCek/jxi9AuuwZrfUtdw3YnK7nT9J/JZqiFVAfnBxp1Yj+9GPsMlF">
+     <recordtable>
+      <record id="1677842765uelzzhz5ju" name="UkM1U0lNUANyF8AnOOU0dn51xbr3TIg9iKXHytvZQHc4igXpnNkzDjvw2/q9eCG1no3pMx+KXVhijQde20JYLw==" author="" url="" tags="" ctime="20230303142605" dir="1677842765b0u45a63gf" file="text.html" crypt="1"/>
+      <record id="16778428103wo8ylug32" name="UkM1U0lNUAMtWd5hFfNaT5geBSXXXsPQ5I/QfVeMj4ONZtntgOSpIxBU2zhyguRwnM6DHa5CdspeSGP6FRQ1g5tuq8SvTI5NG+5qxXpb3/j7ebYtdktlRQ==" author="" url="" tags="" ctime="20230303142650" dir="1677842810jccd3zqkch" file="text.html" crypt="1"/>
+      <record id="1677842859iuxg9wo9m0" name="UkM1U0lNUAOvJhvfm4Dz61xaHO06rSONuWgqh3KOzAZCcrpCipxspr9TGcM4qXnK65vow66FDWbxjNgaaPC6ofH+naH50h8w" author="" url="" tags="" ctime="20230303142739" dir="1677842859ilnkl6vzyl" file="text.html" crypt="1"/>
+      <record id="1677842927hxki2fo3si" name="UkM1U0lNUAMK8zicTFfSvwaQiqY1wSy7b2h+qmACwmh9713tVVOYZ1B4B5SxQVwbgwcPc47g6Aj9dg9SsAXA2DS+nCBzCcxs" author="" url="" tags="" ctime="20230303142847" dir="16778429275gtn8zakrd" file="text.html" crypt="1"/>
+      <record id="1677843105gg5s0huq26" name="UkM1U0lNUAPz7etdM+Msb5yB9IVmKpI+l+ttsQmRrN2PY0+5d9T7EcpOUTsvb4eZgrXAUCgD7C4=" author="" url="" tags="" ctime="20230303143145" dir="1677843105gf1heeii2p" file="text.html" crypt="1"/>
+      <record id="16778438228zkqtd3x9q" name="UkM1U0lNUAOuzGyNWtdhsA6J6dEwhf6yH5UsTQ+l9x1SlmnYAOMgco2uI7hinurOBeGHHtLmMvvTd/BJ9yZvNrkXcU2E4Ft35NxSMcItq7hPfOxRV2/YqQ==" author="" url="" tags="" ctime="20230303144342" dir="16778438222twvk73jak" file="text.html" crypt="1"/>
      </recordtable>
     </node>
    </node>
