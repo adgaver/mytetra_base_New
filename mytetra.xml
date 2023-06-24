@@ -507,6 +507,7 @@
    <node crypt="" icon="" id="1540527366vl0707te2k" name="MSO">
     <recordtable>
      <record id="1570681108upj0m8eqlx" name="Справочник по VBA для Office" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/overview/" tags="VBA" ctime="20191010071828" dir="1570681108wlhti2glgl" file="text.html"/>
+     <record id="16876113611qngwtt5hj" name="Месяц в родительном падеже (VBA)" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=8&amp;TID=42009&amp;MID=355403#message355403" tags="VBA" ctime="20230624155849" dir="1687611361aaiixbk1yv" file="text.html"/>
     </recordtable>
     <node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_calculator.svg" id="15405273777k4m0j8e8q" name="Excel">
      <recordtable>
@@ -1088,7 +1089,6 @@
      <record id="1612979547yey9xeqj68" name="Распоряжайтесь окнами сами" author="" url="http://www.codenet.ru/progr/vbasic/wnd.php" tags="VBA, окна, Window" ctime="20210210205227" dir="1612979547vnk8hc5s76" file="text.html"/>
      <record id="1613646565fjgii0n9wp" name="Открыть ссылку в internetexplorer" author="" url="http://www.planetaexcel.ru" tags="VBA_IEXPLORE, internetexplorer" ctime="20210218140925" dir="16136465651ooy6nk72f" file="text.html"/>
      <record id="1615915998vj57ljs18p" name="Звездочки в поле ввода пароля" author="" url="" tags="Password, авторизация" ctime="20210316203318" dir="1615915998bmv1e8bsm0" file="text.html"/>
-     <record id="16876113611qngwtt5hj" name="Месяц в родительном падеже (VBA)" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=8&amp;TID=42009&amp;MID=355403#message355403" tags="VBA" ctime="20230624155601" dir="1687611361aaiixbk1yv" file="text.html"/>
     </recordtable>
     <node crypt="" icon="" id="1580501728o1vhkfyafa" name="SharePoint">
      <recordtable>
