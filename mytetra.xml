@@ -2593,7 +2593,19 @@
       <record id="1570884035rxsz6noj4q" name="Как очистить данные от непечатаемых символов" author="" url="https://excelpedia.ru/makrosi-v-excel/udalit-nepechataemie-simvoli" tags="" ctime="20191012202557" dir="1570884035vssdsc97yq" file="text.html"/>
       <record id="1570884478csrlnb333n" name="Все функции по работе с текстом" author="" url="https://excelpedia.ru/makrosi-v-excel/funkcii-po-rabote-s-tekstom" tags="" ctime="20191012203056" dir="157088447833mvmeyibu" file="text.html"/>
       <record id="1618455041lhmzqkahit" name="Запись данных из массива в файл *.csv»&#10;" author="" url="https://studassistent.ru/vba/zapis-dannykh-iz-massiva-v-fajl-csv-vba" tags="txt, text, csv" ctime="20210415055041" dir="1618455041taend4y5m1" file="text.html"/>
+      <record id="1692295175do2zm98s7v" name="VBA Чтение файла в Excel (txt, xml, csv, двоичный файл)" author="" url="https://analystcave.com/vba-read-file-vba/" tags="txt" ctime="20230817205935" dir="1692295175l3bj9vrxq4" file="text.html"/>
+      <record id="1692295452xxcy15eegi" name="Запись файлов в VBA (txt, xml, csv, бинарники)" author="" url="https://analystcave.com/vba-write-file-vba/" tags="txt" ctime="20230817210412" dir="16922954522ls70kjukc" file="text.html"/>
+      <record id="1692295679nca6fe70bm" name="Удалить файл VBA — удаление файлов с помощью VBA" author="" url="https://analystcave.com/vba-delete-file-deleting-files-using-vba/" tags="kill" ctime="20230817210759" dir="1692295679mckoskbwr8" file="text.html"/>
+      <record id="16922958481jgeuljm0j" name="Работа с файлами XML в VBA (VBA XML) " author="" url="https://analystcave.com/vba-xml-working-xml-files/" tags="XML, txt" ctime="20230817211048" dir="1692295848ajd7v26m6h" file="text.html"/>
+      <record id="16922960905g2tidl333" name="Объединить файлы Excel – Как объединить несколько файлов Excel" author="" url="https://analystcave.com/merge-excel-files/" tags="excel, merge" ctime="20230817211450" dir="16922960909mcspntgga" file="text.html"/>
+      <record id="1692296218zeka6b9y9t" name="VBA Download Files — загрузка файлов в Excel с помощью VBA" author="" url="https://analystcave.com/excel-downloading-files-using-vba/" tags="Download, VBA" ctime="20230817211658" dir="1692296218rk8apf9hds" file="text.html"/>
+      <record id="1692296294ldxftti3fh" name="Объединяйте файлы CSV или TXT в папку — с помощью Excel или CMD" author="" url="https://analystcave.com/merge-csv-files-or-txt-files-in-a-folder/" tags="merge, VBA" ctime="20230817211814" dir="1692296294muu16mz80v" file="text.html"/>
      </recordtable>
+     <node crypt="" id="1692295079wy6pjf2m6s" name="VBA JSON">
+      <recordtable>
+       <record id="1692294996639c7x12iz" name="Удалить текст, находящийся между двумя парными скобками, включая сами скобки — Visual Basic(Бейсик)" author="" url="https://pgusapriem.ru/udalit-tekst-nahodyashhijsya-mezhdu-dvumya-parnymi-skobkami-vklyuchaya-sami-skobki-visual-basicbejsik/" tags="txt, JSON" ctime="20230817205759" dir="1692294996c1unyhiq4v" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" icon="" id="1552769012jzj4ohzmob" name="VBA управление кодами">
      <recordtable>
