@@ -263,6 +263,11 @@
       <record id="1552768328dbbvwmmtgk" name="Открытый курс машинного обучения. Тема 2: Визуализация данных c Python" author="" url="https://m.habr.com/ru/company/ods/blog/323210/" tags="" ctime="20190729235123" dir="1552768328wvvtb4ul46" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1692877763i0rva96xf5" name="playwright">
+     <recordtable>
+      <record id="1692877876igt9s3bkbo" name="Установка браузера в определенную папку" author="" url="https://playwright.bootcss.com/python/docs/installation" tags="py, python, playwright" ctime="20230824145116" dir="1692877876qonl8xxw1j" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" icon="" id="1564433479rk5m5xt44m" name="IDE">
      <node crypt="" icon="" id="15644334793ijrxljl1a" name="Qt">
       <recordtable>
