@@ -266,6 +266,7 @@
     <node crypt="" id="1692877763i0rva96xf5" name="playwright">
      <recordtable>
       <record id="1692877876igt9s3bkbo" name="Установка браузера в определенную папку" author="" url="https://playwright.bootcss.com/python/docs/installation" tags="py, python, playwright" ctime="20230824145116" dir="1692877876qonl8xxw1j" file="text.html"/>
+      <record id="16929605636x1ed95egj" name="test" author="" url="" tags="" ctime="20230825134923" dir="1692960563g9emy7bbyd" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1564433479rk5m5xt44m" name="IDE">
