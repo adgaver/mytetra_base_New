@@ -508,6 +508,7 @@
       <record id="1693142094ozaiiob1qb" name="Как устранить «ошибку: требуется Microsoft Visual C++ 14.0 или более поздней версии» при установке пакетов Python?" author="" url="https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst" tags="python, venv" ctime="20230827161454" dir="1693142094y75bywrtsg" file="text.html"/>
       <record id="1693090022838vdzz601" name="Python с флешки, как запустить IDLE?" author="" url="https://overcoder.net/q/1362169/python-%D1%81-%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-idle" tags="path, python, переменные среды" ctime="20230827164728" dir="1693090022yrtwf3q0bz" file="text.html"/>
       <record id="1693092294emdxrz45b7" name="bat путь к диску" author="" url="" tags="bat, path, drive" ctime="20230827164732" dir="16930922940b9fjasvrr" file="text.html"/>
+      <record id="1693166703tnzrgj4k15" name="Pip - Fatal error in launcher: Unable to create process using '&quot;'" author="" url="https://stackoverflow.com/questions/37220055/pip-fatal-error-in-launcher-unable-to-create-process-using/39733705#39733705" tags="python, pip, Fatal error" ctime="20230827230503" dir="1693166703p2yt38hf71" file="text.html"/>
      </recordtable>
     </node>
    </node>
