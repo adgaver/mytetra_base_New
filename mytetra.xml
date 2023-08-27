@@ -504,6 +504,12 @@
       <record id="1692121526pk4b0evpwu" name="fn_Each_Element" author="" url="" tags="" ctime="20230815204526" dir="1692121526rbhvv787bw" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1693141995j4so11kxxv" name="venv">
+     <recordtable>
+      <record id="1693142037mxdmio3ohn" name="Как установить python на флешку и сделать его портативным" author="" url="https://www.youtube.com/watch?v=lvM9ayZOxoo&amp;t=277s" tags="python, venv" ctime="20230827161357" dir="1693142037hbp8jz5to7" file="text.html"/>
+      <record id="1693142094ozaiiob1qb" name="Как устранить «ошибку: требуется Microsoft Visual C++ 14.0 или более поздней версии» при установке пакетов Python?" author="" url="https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst" tags="python, venv" ctime="20230827161454" dir="1693142094y75bywrtsg" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" icon="" id="1545839541c2uytgmqqp" name="Видео">
     <recordtable>
