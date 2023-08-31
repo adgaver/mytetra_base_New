@@ -2260,6 +2260,7 @@
        <record id="1589553288lbv017z8zv" name="Пролистать список" author="" url="" tags="Validation, Списки, Имена, Names" ctime="20200515173448" dir="1589553288bg2nsaldgg" file="text.html"/>
        <record id="1623393393ja6lt2vk1k" name="Прокрутить до указанной ячейки, Отцентрировать экран к указанной ячейке" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=65208&amp;MID=s" tags="Offset" ctime="20210611093633" dir="1623393393bhhflscbd4" file="text.html"/>
        <record id="1627461378nds6q1aw06" name="Delete_Rows" author="" url="" tags="Excel, Delete_Rows" ctime="20210728113618" dir="1627461378ake7qv13p2" file="text.html"/>
+       <record id="1693513977t8z5gurlkb" name="Удаление дубликатов" author="" url="" tags="Delete, Duplicates, dubl, дубликаты" ctime="20230831233257" dir="1693513977fpnlk3wmfu" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" icon="" id="1552769011cmd6n1ci9j" name="Range">
