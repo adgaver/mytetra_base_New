@@ -264,7 +264,7 @@
       <record id="1552768328dbbvwmmtgk" name="Открытый курс машинного обучения. Тема 2: Визуализация данных c Python" author="" url="https://m.habr.com/ru/company/ods/blog/323210/" tags="" ctime="20190729235123" dir="1552768328wvvtb4ul46" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1692877763i0rva96xf5" name="playwright">
+    <node crypt="" icon="" id="1692877763i0rva96xf5" name="playwright">
      <recordtable>
       <record id="1692877876igt9s3bkbo" name="Установка браузера в определенную папку" author="" url="https://playwright.bootcss.com/python/docs/installation" tags="py, python, playwright" ctime="20230824145116" dir="1692877876qonl8xxw1j" file="text.html"/>
      </recordtable>
@@ -497,10 +497,19 @@
       <record id="1533842892kuom8l2ejw" name="Установка плагинов в Sublime Text" author="" url="https://sublimetext3.ru/plaginy" tags="" ctime="20190729235123" dir="1533842892zpccihly5y" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1692118404fr10mfe87u" name="Selenium">
+    <node crypt="" icon="" id="1692118404fr10mfe87u" name="Selenium">
      <recordtable>
       <record id="1692118444uufpylo1g2" name="Шпаргалка по Selenium WebDriver 4 + Python" author="" url="https://dzen.ru/a/YbYO_L2w0l7E_wK5" tags="Python, selenium" ctime="20230815195404" dir="16921184444jeza6m5xf" file="text.html"/>
       <record id="1692121526pk4b0evpwu" name="fn_Each_Element" author="" url="" tags="" ctime="20230815204526" dir="1692121526rbhvv787bw" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" icon="" id="1693141995j4so11kxxv" name="venv">
+     <recordtable>
+      <record id="1693142037mxdmio3ohn" name="Как установить python на флешку и сделать его портативным" author="" url="https://www.youtube.com/watch?v=lvM9ayZOxoo&amp;t=277s" tags="python, venv" ctime="20230827161357" dir="1693142037hbp8jz5to7" file="text.html"/>
+      <record id="1693142094ozaiiob1qb" name="Как устранить «ошибку: требуется Microsoft Visual C++ 14.0 или более поздней версии» при установке пакетов Python?" author="" url="https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst" tags="python, venv" ctime="20230827161454" dir="1693142094y75bywrtsg" file="text.html"/>
+      <record id="1693090022838vdzz601" name="Python с флешки, как запустить IDLE?" author="" url="https://overcoder.net/q/1362169/python-%D1%81-%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-idle" tags="path, python, переменные среды" ctime="20230827164728" dir="1693090022yrtwf3q0bz" file="text.html"/>
+      <record id="1693092294emdxrz45b7" name="bat путь к диску" author="" url="" tags="bat, path, drive" ctime="20230827164732" dir="16930922940b9fjasvrr" file="text.html"/>
+      <record id="1693166703tnzrgj4k15" name="Pip - Fatal error in launcher: Unable to create process using '&quot;'" author="" url="https://stackoverflow.com/questions/37220055/pip-fatal-error-in-launcher-unable-to-create-process-using/39733705#39733705" tags="python, pip, Fatal error" ctime="20230827230503" dir="1693166703p2yt38hf71" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -2607,7 +2616,7 @@
       <record id="1692296218zeka6b9y9t" name="VBA Download Files — загрузка файлов в Excel с помощью VBA" author="" url="https://analystcave.com/excel-downloading-files-using-vba/" tags="Download, VBA" ctime="20230817211658" dir="1692296218rk8apf9hds" file="text.html"/>
       <record id="1692296294ldxftti3fh" name="Объединяйте файлы CSV или TXT в папку — с помощью Excel или CMD" author="" url="https://analystcave.com/merge-csv-files-or-txt-files-in-a-folder/" tags="merge, VBA" ctime="20230817211814" dir="1692296294muu16mz80v" file="text.html"/>
      </recordtable>
-     <node crypt="" id="1692295079wy6pjf2m6s" name="VBA JSON">
+     <node crypt="" icon="" id="1692295079wy6pjf2m6s" name="VBA JSON">
       <recordtable>
        <record id="1692294996639c7x12iz" name="Удалить текст, находящийся между двумя парными скобками, включая сами скобки — Visual Basic(Бейсик)" author="" url="https://pgusapriem.ru/udalit-tekst-nahodyashhijsya-mezhdu-dvumya-parnymi-skobkami-vklyuchaya-sami-skobki-visual-basicbejsik/" tags="txt, JSON" ctime="20230817205759" dir="1692294996c1unyhiq4v" file="text.html"/>
       </recordtable>
@@ -3292,9 +3301,10 @@
       <record id="15644851081chvev0pt2" name="UkM1U0lNUAM4VdIOroHiZk0Ih9HGQbM1gGwW1zKFL8lhLvIkPcOhrf6l0MTM5zVV" author="" url="UkM1U0lNUAPPATZqy2FfUIAWBSbwlAmBK/gFZXAol2hloJTKsOAw8l5b1pHrV1erCyiJVPapgRmAlpg6EDOEuw==" tags="UkM1U0lNUAOSfiJprI8PgJ+koICEcuAKW2bM6dtEA+BoyfgQJiPqSz0Ha5yZ6Ifb" ctime="20190731215835" dir="15644851086u2cuqar4c" file="text.html" crypt="1"/>
       <record id="1564600805smlcs5zco0" name="UkM1U0lNUANCRYZW22DHIfSHQPGEcz+naExXCuWCUS74tHeV8XX1roTUw/ftxIyk0R/rGkZCqSPiGMGNlZzbwgcdr00hv7vjBhHi+GPNbRtys7gWtMXM2kSFdKWN55ED6odgTtt9TS+gE+wl/mhs+AlNZ8kHeY47" author="" url="UkM1U0lNUAPjE5rykHhn15ykoBjo0dUlCLUxkEAF20WuUn0sqyjAiZYw8PUhBPqGd2XM1J8ONZXceCTC3LOPOsTUouOmMODOQII0t2hDPz1w65SG4m1LSke8WoAK78GqejMcL/QABgQ5ixKHTgQDCA==" tags="UkM1U0lNUAPKzRPB5tsB7zSZV3KTzIB9+mpQXwrkoG/Ghd3BQCTSkgMudQyZ9eIC" ctime="20190731222101" dir="15646008055ko6d621a3" file="text.html" crypt="1"/>
       <record id="1584263172x2e8dlgo6p" name="UkM1U0lNUANv81u3mA2WsJYPpEu4DTGHk6As1vVBSVxXN9iXiIemoLQ6DqE5CYNpgDw5UJDxz8lxvg5uZY8HZyEzvGxQyxN7EUImocdQib0oGw6P9Uq6hLKIJX+gcUR3wwR4fRTUFJf/rNPG06HCTQ==" author="" url="UkM1U0lNUANV8h7DxpiItsHj9ULEVdoBZcSoJox0FOFjlxu7rnXR1wdZyxlN7KL5eCyUKsNRRY9PSXK+BbjuNiCB+hZG5KmCgazSxuCj0WTQuLUycCXarA==" tags="UkM1U0lNUAO5kaLWc5wRFN+MyX3JS2XyxHCZUjiEt5bSCAed71FCG2spKevlNoow" ctime="20200315120612" dir="1584263172gc71tfemwn" file="text.html" crypt="1"/>
-      <record id="15962905143lmfbxa33p" name="UkM1U0lNUANrh3eQfEaq4fRX2oFlW0ag7v3p/Lh/0GAEGUnUrUV2RCoBzGxRztSaex9p/wKJh8o+i2LBVfzEYhiYYPdF6cOt" author="" url="UkM1U0lNUAMGId9mwVByj2w6nsQRBLGuvcnDZO+flpr+Z+UA36XLCNdS1+EyneK7bSOozf2+Lo/B7/748mnsezM/jxy4TEAFLjyTmxqPt9c=" tags="" ctime="20200801170154" dir="15962905147ehs8rczsw" file="text.html" crypt="1"/>
+      <record id="15962905143lmfbxa33p" name="UkM1U0lNUANSYX0Ez3q/00fsjc+VSMN7xhrbiUDx/tKQpG6jrvk+CJ5cBHzzWDfllwGlQ09oHCRP1Gn0QzkyMar4GCmBIeAd" author="" url="UkM1U0lNUAM3sqyyMLIp/Re/YAbKXb+wgVY7/sApsZ36eg8tHwR05Q3QAgnJ8rGFai/NjsQxlMK885cgBnTwiBDFoe6Z56D3jrsPubNUgQU=" tags="UkM1U0lNUAPaVHszrsOmi7+zx6+w03BnAM454MfVDBons+p6ypzb21/CXoQAC2bF" ctime="20200801170154" dir="15962905147ehs8rczsw" file="text.html" crypt="1"/>
       <record id="1613362783s93kk2p4g1" name="UkM1U0lNUAMjl7FzrmwS6g8a96fFtxKozynR6fe1lWSrn751Wt4g7X82qPWZui7aKyeL+yZ/N3tCQO8RMeFDdwkSNv7BwQnOMqUl/o7oFmx+D5sIEy5qgRaHubc+qqAa" author="" url="UkM1U0lNUAM01UXoWmXTy9aktv7XYX4733MoKTO77DFeYfCoXUCFczH6pONcXTwhTY1Afkh6PkE/dKWnOynHJxJI64JS5EhA" tags="UkM1U0lNUAPFkErAoaNZ9He1Z9g5JghxDfrpls+k6FqCPpjC95Mx5uVr7gq+v8F5" ctime="20210215071943" dir="1613362783yw7zfsqb1d" file="text.html" crypt="1"/>
       <record id="16929609072jw2zh6ea5" name="UkM1U0lNUAOJvbSKiveVeHKsuoAH3XVoNnOjYxQ+DTqOoLDEiGRyuR22/IkjGqcK35zhksUOIMTjX+G6HDBOLdD3MnNt8Juh6ofPp58mhd9RwIiFjhbhp0woNNQgU4+ZnbQCzh9cAoQ=" author="" url="UkM1U0lNUANWqITqfWICpsfSKZKiVWq6AdLvvPSYXkuFgfPcke2e+2YTKJxavN2vKDZ1pplPshtX35EsBBeim9tm1g+6Cgpiasrg3yziLdcK5qmo89DkO6hcfxGGh82RxzFp3IH2qoZeDJszAlshuONASmFKn5mxFXXH+xwxjZHYfx/sKNNnMlr/aFIBz0e1" tags="UkM1U0lNUAMGNaFhSYqMJ1uf0U8QFwx7mvJU2pyRjLUNCOjdrI30PhCoQtzFWaA5" ctime="20230825140025" dir="16929609077naknh482t" file="text.html" crypt="1"/>
+      <record id="1693162460gm9qbvizp6" name="UkM1U0lNUAPYWxvxX7SNaXq35Yw5UzHlh9E9Xnts09Kt+NP/cGi5IBGOOZ5n1w/a95/vxe76mBuDluRutBp7obrEaZ8d7NXM/FXaVNmy5txyoSXoswFAnhY0zFGE8tDu1RUmT0SZv7k=" author="" url="UkM1U0lNUAO2hCbMKFxYR/SLnMfsAD0mirLFMOJdvC2yE0qu5ARJpGVVP4FZmlQGl7i2FulaT5/t6EEpd+3jttvWWey4gfFM5KZNKY6ivbMcJC7NMF0oS4Mce2BYz5kFP304UP7FBG2kC7/0hqkuOw9MgZNaVE1GaCERs3AxEGHBFdqLgrgfvGpnGWEq2MBYoGP7PIZ3ZAKSUvdfzZxBSXhSxFmKidOuRXo+di/RjLedO2mYt4WxqVAg5vLw1Q8M1AH+wDrmgIVJl3kXVrm4KcWvz5GJfC/RvDzUA/lLlZowh4FbSQT+NWDa223HcuMhYM7xCLl0X8iWLZVX4Fdi2A==" tags="UkM1U0lNUAO6m0m8njTvtZCvMFrileCp58gcUCmI6EJlCiG8UH3YwOHuMX9kOKHZ" ctime="20230827215420" dir="16931624600cwpzr1g3p" file="text.html" crypt="1"/>
      </recordtable>
      <node crypt="1" icon="" id="1564599944rt7gz319ga" name="UkM1U0lNUAM6/5gBWgSUMA8pO7hZd1xBzAu/UNPxEDb0EEcTm8MxAODTpsLgZGuQb7vvk6sddpA=">
       <recordtable>
@@ -3646,6 +3656,7 @@
     <record id="1544723870pya2gcvrlq" name="Разрешение мышки (dpi/cpi) — что это?" author="" url="http://tavalik.ru/razreshenie-myshki-dpicpi/" tags="" ctime="20181213205750" dir="15447238702ggonv85i7" file="text.html"/>
     <record id="1544726091d8jotmx7vt" name="Диагностика жёсткого диска с бесплатной программой CrystalDiskInfo" author="" url="http://tavalik.ru/diagnostika-hdd-s-crystaldiskinfo/" tags="" ctime="20190729231238" dir="1544726091js0qroswb6" file="text.html"/>
     <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows, events" ctime="20190729235537" dir="15541977379ldzkepo85" file="text.html"/>
+    <record id="1693145691yu3yx19cc9" name="Как создать ярлык с относительным путем в проводнике windows" author="" url="https://andbabichev.wordpress.com/2016/01/25/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%8F%D1%80%D0%BB%D1%8B%D0%BA-%D1%81-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%83%D1%82/" tags="windir, ярлык, link, explorer" ctime="20230827171451" dir="1693145691sdhskwi1v8" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1521314253z2ua0whw7p" name="ремонт флешек">
     <recordtable>
