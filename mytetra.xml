@@ -3035,6 +3035,17 @@
       <record id="1595097128ofb5blaquk" name="https://regexr.com/" author="" url="https://regexr.com/" tags="Регулярные выражения, RegExp" ctime="20200718213208" dir="1595097128k4nuu4ab2p" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="16934767631hx53rhtu2" name="Операции с файлами">
+     <recordtable>
+      <record id="1693476865g3qwxx9s4i" name="КАК УДАЛИТЬ ПАПКУ ИЛИ ВСЕ ФАЙЛЫ ИЗ ПАПКИ ЧЕРЕЗ VBA" author="" url="https://www.excel-vba.ru/chto-umeet-excel/kak-udalit-papku-ili-vse-fajly-iz-papki-cherez-vba/" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831131425" dir="1693476865g8527neb14" file="text.html"/>
+      <record id="1693477551cwa6xihq7j" name="VBA Переместить файл в корзину windows" author="" url="https://www.cyberforum.ru/vba/thread2874062.html" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831132551" dir="1693477551gl8c211rej" file="text.html"/>
+      <record id="16934776558u8suhhyu4" name="Доступ к VBA для удаления файла в корзину?" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.f38a48ef-64efa28d-a74c0263-74722d776562/https/stackoverflow.com/questions/46357125/access-vba-to-delete-a-file-to-the-recycle-bin" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831132735" dir="1693477655ltb7iya8xh" file="text.html"/>
+      <record id="1693478575yu4nhbfsd8" name="VBA отправить файл в корзину" author="" url="http://vbadud.blogspot.com/2008/08/vba-send-file-to-recycle-bin.html" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831134255" dir="16934785759jt381tdzk" file="text.html"/>
+      <record id="1693478747apimpvfb4d" name="Шаг 23 - Работа с каталогами" author="" url="https://firststeps.ru/vba/excel/r.php?23" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831134547" dir="1693478747p073a9l603" file="text.html"/>
+      <record id="1693479055dx0th8lo7r" name="VBA Excel. Копирование и перемещение файлов " author="" url="https://vremya-ne-zhdet.ru/vba-excel/kopirovaniye-i-peremeshcheniye-faylov/" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230831135055" dir="16934790556tder4nf3t" file="text.html"/>
+      <record id="1693479626sz5n9skq17" name="Код VBA для копирования, перемещения, удаления и управления файлами" author="" url="https://exceloffthegrid.com/vba-code-to-copy-move-delete-and-manage-files/" tags="VBA, del, delete, rd, RmDir, Kill, Attribut" ctime="20230831140026" dir="1693479626zqvq6xh7kb" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" icon="" id="1543742346v6x4qldw91" name="Разное">
     <recordtable>
