@@ -258,6 +258,7 @@
      <record id="1552768240at0b5emjcl" name="Сайт с нуля на python и django. Работа с постами на сайте. Делаем аналог livejournal." author="" url="https://vk.com/wall-165865321_334" tags="" ctime="20190729235119" dir="1552768240t62a7i18kn" file="text.html"/>
      <record id="1533764395yqz6nfivbb" name="Все о языке программирования Python: новости развития" author="" url="https://tproger.ru/tag/python/" tags="" ctime="20190729235119" dir="1533764395v0uohyim17" file="text.html"/>
      <record id="16934692167kzmzjizak" name="Передача параметров в скрипт Python из командной строки" author="" url="https://writegamepython.wordpress.com/2018/06/15/%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%b0%d1%87%d0%b0-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2-%d0%b2-%d1%81%d0%ba%d1%80%d0%b8%d0%bf%d1%82-python-%d0%b8%d0%b7-%d0%ba%d0%be%d0%bc%d0%b0/" tags="Python, param, параметр" ctime="20230831110656" dir="1693469216ue1zvabpex" file="text.html"/>
+     <record id="16935769975uf2wb6ulj" name="Отслеживаем прогресс выполнения в Python " author="" url="https://habr.com/ru/articles/483400/" tags="Python, progress bar" ctime="20230901170317" dir="1693576997ijs147ky0w" file="text.html"/>
     </recordtable>
     <node crypt="" icon="" id="1564433483c3i5diwlmq" name="Посмотреть">
      <recordtable>
