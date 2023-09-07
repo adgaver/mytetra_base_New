@@ -662,6 +662,16 @@
        <record id="1692016639r4079sef2i" name="POWER QUERY. ФИЛЬТРАЦИЯ СПИСКОМ " author="" url="https://comrade-xl.ru/2020/04/07/power-query-filtering-with-list/" tags="Power Query, Формулы М" ctime="20230814153719" dir="1692016639azvygywqmb" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="16941158014n8efsshyg" name="VBA Excel">
+      <recordtable>
+       <record id="16941158444g56kbz8dx" name="VBA Excel. Функция Shell" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-shell/" tags="Shell" ctime="20230907224404" dir="1694115844454z4mhwnb" file="text.html"/>
+       <record id="1694115910vuukrt2y46" name="VBA Excel. Открыть файл другой программы" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/otkryt-fayl-drugoy-programmy/" tags="VBA, run exe" ctime="20230907224510" dir="16941159105qfbbpi4wb" file="text.html"/>
+       <record id="1694116129nuc3jr7bnb" name="VBA Excel. Открытие сайта методом FollowHyperlink" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-workbook-followhyperlink/" tags="FollowHyperlink" ctime="20230907224849" dir="1694116129j8ngp0ya4q" file="text.html"/>
+       <record id="1694116298uctmdztp2y" name="VBA Excel. Имитация движения и кликов мыши" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/imitatsiya-dvizheniya-i-klikov-myshi/" tags="click, мышь" ctime="20230907225138" dir="16941162982wxaa6y39f" file="text.html"/>
+       <record id="1694116380lm45cmkr9p" name="VBA Excel. Определение координат элемента массива" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/opredeleniye-koordinat-elementa-massiva/" tags="array,VBA," ctime="20230907225300" dir="1694116380ydwq6aqji8" file="text.html"/>
+       <record id="1694116513ep5h44kyc6" name="VBA Excel. Расчет рабочего времени" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/raschet-rabochego-vremeni/" tags="working time" ctime="20230907225513" dir="16941165132ry4w8x0w8" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" icon="" id="1545888227ehoe0i02yk" name="Access">
      <recordtable>
