@@ -2150,7 +2150,7 @@
       </record>
       <record id="15149860754c4njp9ntq" name="Макрос форматирования заголовка таблицы" author="" url="http://excelvba.ru/code/FormatHeader" tags="FormatHeader, hat, шапка, заголовки" ctime="20190316234331" dir="15149860755khsgztd9p" file="text.html"/>
       <record id="151498814220dv3x9jce" name="Вывод информации о надстройках, установленных в Excel" author="" url="http://excelvba.ru/code/ShowAddinsList" tags="Addins, надстройки" ctime="20190316234331" dir="151498814274i1iog4n4" file="text.html"/>
-      <record id="15149891451dbkty7v04" name="Что такое функция пользователя(UDF)? " author="" url="http://www.excel-vba.ru/chto-umeet-excel/chto-takoe-funkciya-polzovatelyaudf/" tags="UDF, пользовательская функция, определенные пользователем" ctime="20190316234331" dir="1514989145fi308la8dt" file="text.html"/>
+      <record id="15149891451dbkty7v04" name="Что такое функция пользователя(UDF)? " author="" url="http://www.excel-vba.ru/chto-umeet-excel/chto-takoe-funkciya-polzovatelyaudf/" tags="UDF, пользовательские функции, определенные пользователем, EXCEL, VBA" ctime="20190316234331" dir="1514989145fi308la8dt" file="text.html"/>
       <record id="1514991185di7d7d6mdj" name="Как проверить открыта ли книга? " author="" url="http://www.excel-vba.ru/chto-umeet-excel/kak-proverit-otkryta-li-kniga/" tags="newexcel, newprocess" ctime="20190316234331" dir="1514991185pqxjin5775" file="text.html"/>
       <record id="151499201078wz7hylql" name="Как удалить книгу из самой себя " author="" url="http://www.excel-vba.ru/chto-umeet-excel/kak-udalit-knigu-iz-samoj-sebya/" tags="" ctime="20190316234331" dir="1514992010hi6pz19kff" file="text.html"/>
       <record id="1514992069qa8ar12u78" name="Как из VBA выбрать и установить принтер для Excel " author="" url="http://www.excel-vba.ru/chto-umeet-excel/kak-iz-vba-vybrat-i-ustanovit-printer-dlya-excel/" tags="Выбор принтера" ctime="20190316234331" dir="1514992069aq23f4vd5q" file="text.html">
@@ -2204,7 +2204,7 @@
       <record id="1511354363ks566yd9y4" name="Способы передачи данных из Visual Basic в Excel" author="" url="http://www.cyberforum.ru/vba/thread938579.html" tags="vba_excel" ctime="20191010100011" dir="1511354363rlgnczk9dp" file="text.html"/>
       <record id="1570878680uwr2f85wjr" name="Как определить, существует ли книга в папке" author="" url="https://excelpedia.ru/makrosi-v-excel/suschestvuet_li_kniga" tags="" ctime="20191012202330" dir="1570878680wpo6nysp78" file="text.html"/>
       <record id="1570883191j7f3rjfnqv" name="Как открыть все рабочие книги в папке" author="" url="https://excelpedia.ru/makrosi-v-excel/otkrit-vse-rabochie-knigi" tags="" ctime="20191012202441" dir="1570883191s7duh4kxsk" file="text.html"/>
-      <record id="1694072804ku2831yzfk" name="Как показывать подсказки при написании пользовательской функции в Excel?" author="" url="https://stackoverflow.com/questions/11004445/how-to-show-hints-when-writing-function-in-excel" tags="UDF, пользовательские функции, EXCEL, VBA" ctime="20230907104644" dir="1694072804s24qyko7ua" file="text.html"/>
+      <record id="1694072804ku2831yzfk" name="Как показывать подсказки при написании пользовательской функции в Excel?" author="" url="https://stackoverflow.com/questions/11004445/how-to-show-hints-when-writing-function-in-excel" tags="UDF, пользовательские функции, определенные пользователем, EXCEL, VBA" ctime="20230907104644" dir="1694072804s24qyko7ua" file="text.html"/>
      </recordtable>
      <node crypt="" icon="" id="1552769011qlz6yraj7t" name="Shapes">
       <recordtable>
