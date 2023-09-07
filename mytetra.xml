@@ -1113,7 +1113,9 @@
      <record id="1612979547yey9xeqj68" name="Распоряжайтесь окнами сами" author="" url="http://www.codenet.ru/progr/vbasic/wnd.php" tags="VBA, окна, Window" ctime="20210210205227" dir="1612979547vnk8hc5s76" file="text.html"/>
      <record id="1613646565fjgii0n9wp" name="Открыть ссылку в internetexplorer" author="" url="http://www.planetaexcel.ru" tags="VBA_IEXPLORE, internetexplorer" ctime="20210218140925" dir="16136465651ooy6nk72f" file="text.html"/>
      <record id="1615915998vj57ljs18p" name="Звездочки в поле ввода пароля" author="" url="" tags="Password, авторизация" ctime="20210316203318" dir="1615915998bmv1e8bsm0" file="text.html"/>
-     <record id="1694072619u3jwb8zgr6" name="Оператор Enum" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/enum-statement" tags="Enum, VBA" ctime="20230907104339" dir="16940726195ggnei8rre" file="text.html"/>
+     <record id="1694072619u3jwb8zgr6" name="Оператор Enum" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/enum-statement" tags="Enum, enumerated, VBA" ctime="20230907104339" dir="16940726195ggnei8rre" file="text.html"/>
+     <record id="1694079181alqzhdj1c2" name="Объявите перечислимый тип и присвойте ему значение." author="" url="https://www.codevba.com/help/enum_builder.htm" tags="Enum, enumerated, VBA" ctime="20230907123301" dir="1694079181m7qf3gefhs" file="text.html"/>
+     <record id="1694080504g17tw748ef" name="User Defined Type. Что это и как его использовать, часть 1" author="ArtCapCorn" url="https://habr.com/ru/articles/691000/" tags="VBA, Type" ctime="20230907125504" dir="169408050490cmzwm3jl" file="text.html"/>
     </recordtable>
     <node crypt="" icon="" id="1580501728o1vhkfyafa" name="SharePoint">
      <recordtable>
