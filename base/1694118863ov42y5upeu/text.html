@@ -1,0 +1,225 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'DejaVu Sans'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:xx-large; font-weight:600;">VBA Excel. Метод Range.PasteSpecial (специальная вставка)</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-style:italic;">Специальная вставка (метод PasteSpecial объекта Range) применяется в VBA Excel для вставки ячеек из буфера обмена с учетом заданных параметров.</span></p>
+<p style=" margin-top:32px; margin-bottom:6px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#fafafa;"><span style=" font-weight:600; color:#333333;">Содержание</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Metod_RangePasteSpecial"><span style=" text-decoration: underline; color:#0000ff;">1. Метод Range.PasteSpecial</span></a></p>
+<p style=" margin-top:2px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Sintaksis"><span style=" text-decoration: underline; color:#0000ff;">2. Синтаксис</span></a></p>
+<p style=" margin-top:2px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Parametry_specialnoj_vstavki"><span style=" text-decoration: underline; color:#0000ff;">3. Параметры специальной вставки</span></a></p>
+<p style=" margin-top:2px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Konstanty_XlPasteType"><span style=" text-decoration: underline; color:#0000ff;">4. Константы XlPasteType</span></a></p>
+<p style=" margin-top:2px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Konstanty_XlPasteSpecialOperation"><span style=" text-decoration: underline; color:#0000ff;">5. Константы XlPasteSpecialOperation</span></a></p>
+<p style=" margin-top:2px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://vremya-ne-zhdet.ru/vba-excel/metod-range-pastespecial/#Primery"><span style=" text-decoration: underline; color:#0000ff;">6. Примеры</span></a></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Metod_RangePasteSpecial"></a><span style=" font-size:x-large; font-weight:600;">М</span><span style=" font-size:x-large; font-weight:600;">етод Range.PasteSpecial</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f0f0f0;"><span style=" background-color:#f0f0f0;">Range.PasteSpecial (специальная вставка) – это метод, который вставляет диапазон ячеек, скопированный в буфер обмена, из буфера обмена в указанное место на рабочем листе с учетом заданных параметров специальной вставки.</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Sintaksis"></a><span style=" font-size:x-large; font-weight:600;">С</span><span style=" font-size:x-large; font-weight:600;">интаксис</span></p>
+<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:15px; font-family:'Verdana,Arial,sans'; font-size:12px; font-weight:496; background-color:#fdfdfd;"><br /></p>
+<table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0">
+<tr>
+<td bgcolor="#dfefff" style=" vertical-align:top; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e71405133150"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">1</span></p></td>
+<td style=" vertical-align:top; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e71405133150-1"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">R</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">ange</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">.</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">PasteSpecial</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;"> </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">(</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Paste</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">,</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;"> </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Operation</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">,</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;"> </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">SkipBlanks</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">,</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;"> </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Transpose</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">)</span></pre></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Специальная вставка работает только с данными ячеек, скопированными в буфер обмена методом <a href="https://vremya-ne-zhdet.ru/vba-excel/vyrezaniye-kopirovaniye-vstavka-yacheyek/"><span style=" text-decoration: underline; color:#0000ff;">Range.Copy</span></a>. При попытке применить метод Range.PasteSpecial к ячейкам, вырезанным в буфер обмена методом <a href="https://vremya-ne-zhdet.ru/vba-excel/vyrezaniye-kopirovaniye-vstavka-yacheyek/"><span style=" text-decoration: underline; color:#0000ff;">Range.Cut</span></a>, возникает ошибка.</p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Parametry_specialnoj_vstavki"></a><span style=" font-size:x-large; font-weight:600;">П</span><span style=" font-size:x-large; font-weight:600;">араметры специальной вставки</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Список параметров метода Range.PasteSpecial:</p>
+<table border="1" style=" margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0"><thead>
+<tr>
+<td width="30%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Параметры</span></p></td>
+<td width="70%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Описание</span></p></td></tr></thead>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Paste</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Необязательный параметр. Константа из коллекции XlPasteType, указывающая на часть данных вставляемого диапазона, которую следует вставить. По умолчанию вставляются все данные.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Operation</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Необязательный параметр. Константа из коллекции XlPasteSpecialOperation, указывающая на математические операции, которые следует провести со скопированными данными и данными в ячейках назначения. По умолчанию вычисления не производятся.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">SkipBlanks</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Необязательный параметр. Булево значение, которое указывает, вставлять ли в конечный диапазон пустые ячейки:</span> <span style=" font-weight:600;">True</span> – не вставлять, <span style=" font-weight:600;">False</span> – вставлять (значение по умолчанию).</p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Transpose</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Необязательный параметр. Булево значение, которое указывает, следует ли транспонировать строки и столбцы при вставке диапазона:</span> <span style=" font-weight:600;">True</span> – транспонировать, <span style=" font-weight:600;">False</span> – не транспонировать (значение по умолчанию).</p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Смотрите другой <a href="https://vremya-ne-zhdet.ru/vba-excel/metod-worksheetfunction-transpose/"><span style=" text-decoration: underline; color:#0000ff;">способ транспонировать</span></a> диапазоны ячеек и двумерные массивы.</p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Konstanty_XlPasteType"></a><span style=" font-size:x-large; font-weight:600;">К</span><span style=" font-size:x-large; font-weight:600;">онстанты XlPasteType</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Список констант из коллекции XlPasteType, которые могут быть использованы в качестве аргумента параметра Paste:</p>
+<table border="1" style=" margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0"><thead>
+<tr>
+<td width="40%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Константа</span></p></td>
+<td width="20%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Значение</span></p></td>
+<td width="40%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Описание</span></p></td></tr></thead>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteAll</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4104</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка всех данных (по умолчанию).</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteAllExceptBorders</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">7</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка всех данных, кроме границ.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteAllMergingConditionalFormats</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">14</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка всех данных со слиянием условных форматов исходного и нового диапазонов.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteAllUsingSourceTheme</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">13</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка всех данных с использованием исходной темы.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteColumnWidths</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">8</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка ширины столбцов.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteComments</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4144</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка комментариев.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteFormats</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4122</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка форматов исходного диапазона.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteFormulas</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4123</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка формул.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteFormulasAndNumberFormats</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">11</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка формул и форматов чисел.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteValidation</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">6</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка правил проверки данных из ячеек исходного диапазона в новый диапазон.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteValues</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4163</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка значений.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteValuesAndNumberFormats</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">12</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вставка значений и форматов чисел.</span></p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Konstanty_XlPasteSpecialOperation"></a><span style=" font-size:x-large; font-weight:600;">К</span><span style=" font-size:x-large; font-weight:600;">онстанты XlPasteSpecialOperation</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Список констант из коллекции XlPasteSpecialOperation, которые могут быть использованы в качестве аргумента параметра Operation:</p>
+<table border="1" style=" margin-top:0px; margin-bottom:20px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0"><thead>
+<tr>
+<td width="40%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Константа</span></p></td>
+<td width="20%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Значение</span></p></td>
+<td width="40%" bgcolor="#eaeaea" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:10;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-weight:600; background-color:#eaeaea;">Описание</span></p></td></tr></thead>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteSpecialOperationAdd</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">2</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Скопированные данные будут добавлены к значениям в ячейках назначения.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteSpecialOperationDivide</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">5</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Скопированные данные разделят значения в ячейках назначения.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteSpecialOperationMultiply</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">4</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Скопированные данные будут перемножены со значениями в ячейках назначения.</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteSpecialOperationNone</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">-4142</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Вычисления не выполняются при вставке данных (по умолчанию).</span></p></td></tr>
+<tr>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">xlPasteSpecialOperationSubtract</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">3</span></p></td>
+<td bgcolor="#fff7ec" style=" padding-left:20; padding-right:20; padding-top:20; padding-bottom:20;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" background-color:#fff7ec;">Скопированные данные будут вычтены из значений в ячейках назначения.</span></p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="Primery"></a><span style=" font-size:x-large; font-weight:600;">П</span><span style=" font-size:x-large; font-weight:600;">римеры</span></p>
+<p style=" margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Примеры копирования и специальной вставки актуальны для диапазона <span style=" font-family:'Courier New'; color:#333333; background-color:#d0effb;">&quot;A1:B8&quot;</span> активного листа, ячейки которого заполнены числами:</p>
+<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:15px; font-family:'Verdana,Arial,sans'; font-size:12px; font-weight:496; background-color:#fdfdfd;"><br /></p>
+<table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" cellspacing="2" cellpadding="0">
+<tr>
+<td bgcolor="#dfefff" style=" vertical-align:top; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">1</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">2</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">3</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">4</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">5</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">6</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">7</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">8</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">9</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">10</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#5499de;">11</span></p>
+<p align="center" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#c8e1fa;"><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#317cc5; background-color:#c8e1fa;">12</span></p></td>
+<td style=" vertical-align:top; padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-1"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">'</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">Копирование диапазона ячеек в буфер обмена:</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-2"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">R</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">ange</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">(</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#008000;">&quot;A1:B8&quot;</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">).</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000;">Copy</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-3"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000;"> </span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-4"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">'</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">Специальная вставка только значений:</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-5"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">R</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">ange</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">(</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#008000;">&quot;D1&quot;</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">).</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">PasteSpecial </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Paste</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;">:=</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000;">xlPasteValues</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-6"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000; background-color:#f7f7f7;"> </span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-7"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">'</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">Специальная вставка с делением значений ячеек конечного</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-8"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">'</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">диапазона на значения ячеек диапазона из буфера обмена:</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-9"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">R</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">ange</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">(</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#008000;">&quot;D1&quot;</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">).</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">PasteSpecial </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Operation</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;">:=</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000;">xlPasteSpecialOperationDivide</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-10"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#000000; background-color:#f7f7f7;"> </span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-11"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">'</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#ff8000;">Специальная вставка только значений с транспонированием строк и столбцов:</span></pre>
+<pre style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; background-color:#f7f7f7;"><a name="urvanov-syntax-highlighter-64fa339c79e8a558645241-12"></a><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">R</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">ange</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">(</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#008000;">&quot;G1&quot;</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">).</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#004ed0;">PasteSpecial </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Paste</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;">:=</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">xlPasteValues</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#333333;">,</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;"> </span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#002d7a;">Transpose</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#006fe0;">:=</span><span style=" font-family:'inherit'; font-size:12px; font-weight:496; color:#800080;">True</span></pre></td></tr></table>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:30px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>
