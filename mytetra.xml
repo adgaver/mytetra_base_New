@@ -466,7 +466,7 @@
       <record id="1533668103n6saxcokrv" name="python - Получение последнего элемента списка в Python" author="" url="about:reader?url=http%3A%2F%2Fqaru.site%2Fquestions%2F1280%2Fgetting-the-last-element-of-a-list-in-python" tags="" ctime="20190729235123" dir="1533668103xi4t166sjh" file="text.html"/>
       <record id="15337623509u4f4l4v3f" name="Модуль time – таймеры времени" author="" url="http://www.internet-technologies.ru/articles/modul-time-taymery-vremeni.html" tags="" ctime="20190729235123" dir="1533762350jto9xdc09x" file="text.html"/>
       <record id="1533762395e3vhxw2ept" name="Программирование метаклассов на Python" author="" url="http://www.internet-technologies.ru/articles/programmirovanie-metaklassov-na-python.html" tags="" ctime="20190729235123" dir="1533762395rw12peza1w" file="text.html"/>
-      <record id="15338444021fvxzzwdqx" name="Словари и их методы в Python" author="" url="https://tproger.ru/explain/python-dictionaries/" tags="" ctime="20190729235123" dir="1533844402oy3f6ifyrs" file="text.html"/>
+      <record id="15338444021fvxzzwdqx" name="Словари и их методы в Python" author="" url="https://tproger.ru/explain/python-dictionaries/" tags="Python" ctime="20190729235123" dir="1533844402oy3f6ifyrs" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1564433483odj0s5ir0t" name="Типы данных в Python">
