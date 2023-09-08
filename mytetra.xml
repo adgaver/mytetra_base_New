@@ -2952,7 +2952,6 @@
     <node crypt="" icon="" id="1552769013ecmoe3upy1" name="Array">
      <recordtable>
       <record id="151471902412z7ccb49b" name="Сохранение двумерного массива в файл" author="" url="http://excelvba.ru/code/SaveArray" tags="array,vba" ctime="20190316234333" dir="1514719024q8l9lbqs5v" file="text.html"/>
-      <record id="1514722435nhxafnwa1a" name="Функция VBA для транспонирования массива" author="" url="http://excelvba.ru/code/Transpose" tags="VBA, Array, Transponse, Обработка массивов" ctime="20190316234333" dir="1514722435f0k6qu49i6" file="text.html"/>
       <record id="1514722494k4fg03gq03" name="'==================== Обработка массивов " author="" url="http://excelvba.ru/code/arrays" tags="vba,array" ctime="20190316234333" dir="1514722494jbv9nrjkvf" file="text.html"/>
       <record id="15146635474db7r57u8b" name="Перенос двумерного массива на лист Excel" author="" url="http://excelvba.ru/code/Array2worksheet" tags="vba, array, excel, sheet" ctime="20190316234333" dir="1514663547i8m4ivsaey" file="text.html"/>
       <record id="1514723721ecdq03k2hn" name="Преобразование строки со значениями в массив " author="" url="http://excelvba.ru/code/ArrayOfValues" tags="array, текстовые строки, Обработка массивов" ctime="20190316234333" dir="1514723721ntx4q1dhii" file="text.html"/>
@@ -2978,6 +2977,7 @@
        </files>
       </record>
       <record id="1516786500uauzchh40m" name="Объединение столбцов в массиве" author="" url="" tags="array, string, Работа с диапазонами ячеек и листами, Обработка массивов" ctime="20190316234333" dir="1516786500er3zr75o5s" file="text.html"/>
+      <record id="1514722435nhxafnwa1a" name="Функция VBA для транспонирования массива" author="" url="http://excelvba.ru/code/Transpose" tags="перевернуть массив, array, transponse" ctime="20190316234333" dir="1514722435f0k6qu49i6" file="text.html"/>
       <record id="1518896750sz6jui0ua1" name="перевернуть массив" author="" url="" tags="перевернуть массив, array, transponse" ctime="20190316234333" dir="15188967506ijl5d0p2g" file="text.html"/>
       <record id="1518896784d2b462vwrx" name="размерность массива" author="" url="" tags="размерность массива, array, RazmerArray" ctime="20190316234333" dir="1518896784w06axio1ot" file="text.html"/>
       <record id="1529314508mif9vsfl9u" name="массив из указанного файла(листа)" author="" url="" tags="" ctime="20190316234333" dir="1529314508ocgtvnsuvn" file="text.html"/>
