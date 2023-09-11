@@ -703,6 +703,9 @@
        <record id="1694119319rhl1vatb4a" name="VBA Excel. Парсинг сайтов, html-страниц и файлов" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/parsing-saytov/" tags="VBA, Excel, Парсинг, html, msxml2.xmlhttp" ctime="20230907234159" dir="1694119319exzqd6l6m5" file="text.html"/>
        <record id="169411939363vm65c507" name="VBA Excel. Методы Count, CountA и CountBlank" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-worksheetfunction-count/" tags="VBA, Excel, Count, CountA, CountBlank" ctime="20230907234313" dir="1694119393umhpofeb2p" file="text.html"/>
        <record id="1694119460mdehw605n7" name="VBA Excel. Методы CountIf и CountIfs" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-worksheetfunction-countif/" tags="VBA, Excel, CountIf, CountIfs" ctime="20230907234420" dir="1694119460byy3wfdclg" file="text.html"/>
+       <record id="16944432128qqf8nw4y8" name="VBA Excel. Метод Range.Show" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-range-show/" tags="Excel, Range.Show, Range" ctime="20230911174012" dir="1694443212gjy63j1mxv" file="text.html"/>
+       <record id="1694443315bq0a92ihj9" name="VBA Excel. Добавление кнопки в контекстное меню" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/dobavleniye-knopki-v-kontekstnoye-menyu/" tags="CommandBars, контекстное меню" ctime="20230911174155" dir="1694443315ep94xdcl6o" file="text.html"/>
+       <record id="1694443413nqmmx9l64r" name="VBA Excel. Метод Range.Insert (вставка со сдвигом ячеек)" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-range-insert/" tags="Range.Insert, EXCEL" ctime="20230911174333" dir="1694443413astnmbxzr9" file="text.html"/>
       </recordtable>
      </node>
     </node>
