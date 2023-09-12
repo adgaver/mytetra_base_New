@@ -735,7 +735,6 @@
        <record id="1694452264jnqy4tmi0v" name="VBA Excel. Параметры и аргументы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/parametry-i-argumenty/" tags="VBA Excel, " ctime="20230911201516" dir="16944522643juqq1k2ri" file="text.html"/>
        <record id="1694452301h7v5wr33kn" name="VBA Excel. Функция StrComp (сравнение строк)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-strcomp/" tags="VBA Excel, " ctime="20230911201520" dir="1694452301rih9xmx4nd" file="text.html"/>
        <record id="1694452351371ka592xc" name="VBA Excel. Работа с текстом (функции)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/rabota-s-tekstom/" tags="VBA Excel, " ctime="20230911201529" dir="1694452351uswo5a56af" file="text.html"/>
-       <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/8/" tags="VBA Excel START" ctime="20230911201645" dir="1694452605j20h7la2qb" file="text.html"/>
        <record id="1694540848lhf9q4vd75" name="VBA Excel. Тип данных Decimal" author="" url="https://vremya-ne-zhdet.ru/vba-excel/decimal-tip-dannykh/" tags="VBA Excel, " ctime="20230912204728" dir="1694540848no9m9pixp8" file="text.html"/>
        <record id="1694540965esspz1xc2k" name="VBA Excel. Функции Space, String и StrReverse" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsii-space-string-strreverse/" tags="VBA Excel, " ctime="20230912204925" dir="1694540965sjn1nliytl" file="text.html"/>
        <record id="1694541092yujrv3kd2s" name="Кодировка (0–127)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-0127" tags="Кодировка" ctime="20230912205132" dir="1694541092cfkkyoo4bf" file="text.html"/>
@@ -752,6 +751,10 @@
        <record id="1694542599lroc820ajb" name="VBA Excel. Метод FindNext объекта Range" author="" url="https://vremya-ne-zhdet.ru/vba-excel/metod-range-findnext/" tags="VBA Excel, FindNext" ctime="20230912211639" dir="1694542599wbkvimbrxc" file="text.html"/>
        <record id="1694542643wyacmi26lb" name="VBA Excel. Метод Application.Intersect (пересечение диапазонов)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/metod-application-intersect/" tags="VBA Excel, Intersect" ctime="20230912211723" dir="1694542643d9k1ah02ro" file="text.html"/>
        <record id="1694542700qs2pdqw8hz" name="VBA Excel. Метод Application.Union (объединение диапазонов)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/metod-application-union/" tags="VBA Excel, Application.Union, range,cells" ctime="20230912211820" dir="1694542700b2b6mparyi" file="text.html"/>
+       <record id="1694542788w9ydlpcwt8" name="VBA Excel. Функция для вычисления факториала" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-dlya-vychisleniya-faktoriala/" tags="VBA Excel, факториал, Factorial" ctime="20230912211948" dir="1694542788c956yk0hpg" file="text.html"/>
+       <record id="1694542874ckhho275i1" name="VBA Excel. Сортировка таблицы (диапазона)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sortirovka-tablitsy-diapazona/" tags="VBA Excel,  sort" ctime="20230912212114" dir="16945428742c8i9y4mtf" file="text.html"/>
+       <record id="1694543017qn2ni5vxw3" name="VBA Excel. Элемент управления DTPicker" author="" url="https://vremya-ne-zhdet.ru/vba-excel/element-upravleniya-dtpicker/" tags="VBA Excel, DTPicker, Календарь" ctime="20230912212337" dir="169454301784seuixt7v" file="text.html"/>
+       <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/9/" tags="VBA Excel START" ctime="20230911201645" dir="1694452605j20h7la2qb" file="text.html"/>
       </recordtable>
      </node>
     </node>
