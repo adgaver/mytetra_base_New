@@ -716,7 +716,6 @@
        <record id="1694450224aj8sjzkpe1" name="VBA Excel. Узор (рисунок) в ячейке" author="" url="https://vremya-ne-zhdet.ru/vba-excel/uzor-v-yacheyke/" tags="VBA Excel, Cells" ctime="20230911201422" dir="1694450224rql502fyxw" file="text.html"/>
        <record id="16944503019w2qzhdzws" name="VBA Excel. Пользовательская автоформа (создание)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/polzovatelskaya-avtoforma/" tags="VBA Excel, VBA, Form, " ctime="20230911201425" dir="1694450301po1sva1q2j" file="text.html"/>
        <record id="1694450413dzf854v6p9" name="VBA Excel. Открыть папку (каталог) в проводнике" author="" url="https://vremya-ne-zhdet.ru/vba-excel/otkryt-papku-v-provodnike/" tags="VBA Excel, folder, dir, CMD, " ctime="20230911201427" dir="1694450413cfs7z07ose" file="text.html"/>
-       <record id="1694450762iglhgifqgs" name="Как в VBA правильно создавать одномерный массив. ArrayList" author="" url="https://habr.com/ru/articles/712000/" tags="VBA, DIctionary, Collection, " ctime="20230911201430" dir="1694450762gf4qmekjdn" file="text.html"/>
        <record id="1694451133akeyw6msd7" name="VBA Excel. Метод Range.Insert (вставка со сдвигом ячеек)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/metod-range-insert/" tags="VBA Excel, " ctime="20230911201433" dir="1694451133jivj7z4ly7" file="text.html"/>
        <record id="16944512879x14s6wj78" name="VBA Excel. Добавление кнопки в контекстное меню" author="" url="https://vremya-ne-zhdet.ru/vba-excel/dobavleniye-knopki-v-kontekstnoye-menyu/" tags="VBA Excel, " ctime="20230911201436" dir="1694451287jp5a6k5gqm" file="text.html"/>
        <record id="1694451340oixlq1hrzw" name="VBA Excel. Вырезание, копирование и вставка ячеек (диапазонов)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/vyrezaniye-kopirovaniye-vstavka-yacheyek/" tags="VBA Excel, " ctime="20230911201438" dir="1694451340egh2ytc2gn" file="text.html"/>
@@ -1195,6 +1194,7 @@
      <record id="1694080504g17tw748ef" name="User Defined Type. Что это и как его использовать, часть 1" author="ArtCapCorn" url="https://habr.com/ru/articles/691000/" tags="User Defined Type, Type, VBA, UDT" ctime="20230907125504" dir="169408050490cmzwm3jl" file="text.html"/>
      <record id="1694080896ki4uu0pgyl" name="User Defined Type. Что это и как его использовать, часть 2" author="ArtCapCorn" url="https://habr.com/ru/articles/691000/" tags="User Defined Type, Type, VBA, UDT" ctime="20230907130136" dir="1694080896wjr4wxfoid" file="text.html"/>
      <record id="1694207618g69s5b6uee" name="DeleteFolder_CMD" author="" url="https://www.excel-vba.ru/chto-umeet-excel/kak-udalit-papku-ili-vse-fajly-iz-papki-cherez-vba/" tags="DeleteFolder, CMD, VBA, FSO" ctime="20230909001338" dir="1694207618y1m3d05w89" file="text.html"/>
+     <record id="1694450762iglhgifqgs" name="Как в VBA правильно создавать одномерный массив. ArrayList" author="" url="https://habr.com/ru/articles/712000/" tags="VBA, DIctionary, Collection, " ctime="20230912103644" dir="1694450762gf4qmekjdn" file="text.html"/>
     </recordtable>
     <node crypt="" icon="" id="1580501728o1vhkfyafa" name="SharePoint">
      <recordtable>
