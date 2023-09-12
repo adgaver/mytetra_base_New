@@ -736,6 +736,10 @@
        <record id="1694452301h7v5wr33kn" name="VBA Excel. Функция StrComp (сравнение строк)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-strcomp/" tags="VBA Excel, " ctime="20230911201520" dir="1694452301rih9xmx4nd" file="text.html"/>
        <record id="1694452351371ka592xc" name="VBA Excel. Работа с текстом (функции)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/rabota-s-tekstom/" tags="VBA Excel, " ctime="20230911201529" dir="1694452351uswo5a56af" file="text.html"/>
        <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/8/" tags="VBA Excel START" ctime="20230911201645" dir="1694452605j20h7la2qb" file="text.html"/>
+       <record id="1694540848lhf9q4vd75" name="VBA Excel. Тип данных Decimal" author="" url="https://vremya-ne-zhdet.ru/vba-excel/decimal-tip-dannykh/" tags="VBA Excel, " ctime="20230912204728" dir="1694540848no9m9pixp8" file="text.html"/>
+       <record id="1694540965esspz1xc2k" name="VBA Excel. Функции Space, String и StrReverse" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsii-space-string-strreverse/" tags="VBA Excel, " ctime="20230912204925" dir="1694540965sjn1nliytl" file="text.html"/>
+       <record id="1694541092yujrv3kd2s" name="Кодировка (0–127)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-0127" tags="Кодировка" ctime="20230912205132" dir="1694541092cfkkyoo4bf" file="text.html"/>
+       <record id="1694541281sdw2ru95z3" name="Кодировка (128–255)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-128255" tags="" ctime="20230912205441" dir="1694541281v35a4pznkc" file="text.html"/>
       </recordtable>
      </node>
     </node>
