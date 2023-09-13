@@ -1236,6 +1236,11 @@
     <node crypt="" icon="" id="1580501728o1vhkfyafa" name="SharePoint">
      <recordtable>
       <record id="1580464891ongynu473l" name="Подключить SharePoint как сетевой диск" author="" url="https://sharepoint.stackovernet.com/ru/q/14545" tags="VBA_SharePoint" ctime="20200131231528" dir="1580464891wb5xc8uanf" file="text.html"/>
+      <record id="160417142475lhn1yput" name="Подключение папки Sharepoint как диска" author="" url="https://techfeed.net/361362/" tags="Sharepoint, WebDAV" ctime="20230913170849" dir="1604171424j77jfs23yq" file="text.html"/>
+      <record id="1604171763fxw0x7dyli" name="Подключение папки Sharepoint как диска2" author="" url="https://ru.coredump.biz/questions/1344910/get-the-content-of-a-sharepoint-folder-with-excel-vba" tags="Sharepoint, WebDAV" ctime="20230913170852" dir="1604171763g1ad1t9t5w" file="text.html"/>
+      <record id="1604172082vzeu4k8102" name="Подключение папки Sharepoint как диска3" author="" url="http://web.archive.org/web/20091008034423/http://blog.itwarlocks.com/2009/04/28/accessing-webdav-in-microsoft-word-visual-basic" tags="Sharepoint, WebDAV" ctime="20230913170854" dir="16041720826mz1qpddor" file="text.html"/>
+      <record id="1604172370ya1mq0ojnk" name="Объект WshNetwork" author="" url="https://www.script-coding.com/WSH/WshNetwork.html#3.3." tags="WshNetwork, WScript.Network" ctime="20230913170856" dir="1604172370u301zof999" file="text.html"/>
+      <record id="16041725119nmizpir9k" name="Объекты в макросах VBA в Excel, работа с объектами Wscript.Network и Wscript.Shell " author="" url="http://www.askit.ru/custom/vba_excel/lab/lab13_01_objects.htm" tags="WshNetwork, Wscript.Network, Wscript.Shell" ctime="20230913170857" dir="16041725110722r7qhjz" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1552769008wodxlvpumt" name="Меню VB-справка">
@@ -2581,15 +2586,6 @@
        <record id="1570883999n16nt0dem2" name="Как отобрать и отформатировать все формулы на листе" author="" url="https://excelpedia.ru/makrosi-v-excel/otformatirovat-formuli" tags="" ctime="20191012202519" dir="1570883999tcwm5nils5" file="text.html"/>
       </recordtable>
      </node>
-    </node>
-    <node crypt="" icon="" id="1604170815sy2z9yl5wi" name="sharepoint">
-     <recordtable>
-      <record id="160417142475lhn1yput" name="Подключение папки Sharepoint как диска" author="" url="https://techfeed.net/361362/" tags="Sharepoint, WebDAV" ctime="20201031221024" dir="1604171424j77jfs23yq" file="text.html"/>
-      <record id="1604171763fxw0x7dyli" name="Подключение папки Sharepoint как диска2" author="" url="https://ru.coredump.biz/questions/1344910/get-the-content-of-a-sharepoint-folder-with-excel-vba" tags="Sharepoint, WebDAV" ctime="20201031221603" dir="1604171763g1ad1t9t5w" file="text.html"/>
-      <record id="1604172082vzeu4k8102" name="Подключение папки Sharepoint как диска3" author="" url="http://web.archive.org/web/20091008034423/http://blog.itwarlocks.com/2009/04/28/accessing-webdav-in-microsoft-word-visual-basic" tags="Sharepoint, WebDAV" ctime="20201031222122" dir="16041720826mz1qpddor" file="text.html"/>
-      <record id="1604172370ya1mq0ojnk" name="Объект WshNetwork" author="" url="https://www.script-coding.com/WSH/WshNetwork.html#3.3." tags="WshNetwork, WScript.Network" ctime="20201031222610" dir="1604172370u301zof999" file="text.html"/>
-      <record id="16041725119nmizpir9k" name="Объекты в макросах VBA в Excel, работа с объектами Wscript.Network и Wscript.Shell " author="" url="http://www.askit.ru/custom/vba_excel/lab/lab13_01_objects.htm" tags="WshNetwork, Wscript.Network, Wscript.Shell" ctime="20201031222831" dir="16041725110722r7qhjz" file="text.html"/>
-     </recordtable>
     </node>
     <node crypt="" icon="" id="1552769014tyi6ft582c" name="PowerPoint">
      <recordtable>
