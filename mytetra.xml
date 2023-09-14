@@ -2503,6 +2503,7 @@
        <record id="1570884755q1piitbysz" name="Объект листа (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Worksheet" tags="" ctime="20191012203012" dir="1570884755dir2tvkjag" file="text.html"/>
        <record id="15711161183ssorq8zmf" name="FollowHyperlink" author="" url="" tags="followhyperlink, гиперссылки, hyperlink" ctime="20191015080838" dir="1571116118pz577is4ai" file="text.html"/>
        <record id="15829977973j4p0t6vgx" name="Определить, есть ли лист в закрытой книге с заданным именем - VBA, если да то.....если нет то... " author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=98526" tags="ExistsSheet" ctime="20200229203637" dir="1582997797romlg2mx8l" file="text.html"/>
+       <record id="1694691720fhmqgjn6nx" name="Снятие защиты с листа и книги Excel" author="microexcel.ru" url="https://microexcel.ru/snyatie-zashhity/" tags="EXCEL, Sheet, pass, sheetProtection" ctime="20230914144200" dir="1694691720h615jct0p5" file="text.html"/>
       </recordtable>
       <node crypt="" icon="" id="1552769012xbpp59kx7o" name="Поиск по листу">
        <recordtable>
