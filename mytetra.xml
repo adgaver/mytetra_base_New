@@ -734,8 +734,6 @@
        <record id="1694452351371ka592xc" name="VBA Excel. Работа с текстом (функции)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/rabota-s-tekstom/" tags="VBA Excel, " ctime="20230911201529" dir="1694452351uswo5a56af" file="text.html"/>
        <record id="1694540848lhf9q4vd75" name="VBA Excel. Тип данных Decimal" author="" url="https://vremya-ne-zhdet.ru/vba-excel/decimal-tip-dannykh/" tags="VBA Excel, " ctime="20230912204728" dir="1694540848no9m9pixp8" file="text.html"/>
        <record id="1694540965esspz1xc2k" name="VBA Excel. Функции Space, String и StrReverse" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsii-space-string-strreverse/" tags="VBA Excel, " ctime="20230912204925" dir="1694540965sjn1nliytl" file="text.html"/>
-       <record id="1694541092yujrv3kd2s" name="Кодировка (0–127)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-0127" tags="Кодировка" ctime="20230912205132" dir="1694541092cfkkyoo4bf" file="text.html"/>
-       <record id="1694541281sdw2ru95z3" name="Кодировка (128–255)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-128255" tags="Кодировка" ctime="20230912205441" dir="1694541281v35a4pznkc" file="text.html"/>
        <record id="1694541767xj6zzo44ga" name="VBA Excel. Создание файлов" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-faylov/" tags="VBA Excel" ctime="20230912210247" dir="1694541767k63pqs4f6a" file="text.html"/>
        <record id="169454183827g6tdcnic" name="VBA Excel. Удаление файлов" author="" url="https://vremya-ne-zhdet.ru/vba-excel/udaleniye-faylov/" tags="VBA Excel, " ctime="20230912210358" dir="1694541838waj7ki6k8m" file="text.html"/>
        <record id="16945418592n0lv7cv1w" name="VBA Excel. Копирование и перемещение файлов" author="" url="https://vremya-ne-zhdet.ru/vba-excel/kopirovaniye-i-peremeshcheniye-faylov/" tags="VBA Excel, move" ctime="20230912210419" dir="1694541859yd3zxuj94w" file="text.html"/>
@@ -1120,12 +1118,10 @@
        <file id="1520589126wk5b926tii" fileName="ProgBar.rar" type="file"/>
       </files>
      </record>
-     <record id="1520589233gxlonb5c5e" name="Изменение кодировки текстового файла - VBA1" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="кодировки" ctime="20190731223744" dir="1520589233k1csta92zr" file="text.html"/>
-     <record id="1520589272gc422ps3xn" name="Изменение кодировки текстового файла - VBA2" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="кодировки" ctime="20190731223744" dir="15205892720xge808qeh" file="text.html"/>
-     <record id="1520589319nqa4iyby66" name="Изменение кодировки текстового файла - VBA3" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="кодировки" ctime="20190731223744" dir="1520589319uwbamxhx2q" file="text.html"/>
-     <record id="1520589349c1cyhhrrnv" name="Изменение кодировки текстового файла - VBA4" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="кодировки" ctime="20190731223744" dir="15205893498u8jhcxopi" file="text.html"/>
-     <record id="15205894636l27smfxrd" name="в кодировке UTF8 можно читать программно текстовый файл?  [new]" author="" url="http://www.sql.ru/forum/1213973/v-kodirovke-utf8-mozhno-chitat-programmno-tekstovyy-fayl" tags="кодировки" ctime="20190731223745" dir="1520589463d1da828o85" file="text.html"/>
-     <record id="1520589571qzbcmmm9e0" name="Чтение файлов формата .txt в кодировке utf-8 - VBA" author="" url="http://www.cyberforum.ru/vba/thread1934736.html" tags="кодировки" ctime="20190731223745" dir="15205895711bt2gnadlu" file="text.html"/>
+     <record id="1520589272gc422ps3xn" name="Изменение кодировки текстового файла - VBA2" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20190731223744" dir="15205892720xge808qeh" file="text.html"/>
+     <record id="1520589349c1cyhhrrnv" name="Изменение кодировки текстового файла - VBA4" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20190731223744" dir="15205893498u8jhcxopi" file="text.html"/>
+     <record id="15205894636l27smfxrd" name="в кодировке UTF8 можно читать программно текстовый файл?  [new]" author="" url="http://www.sql.ru/forum/1213973/v-kodirovke-utf8-mozhno-chitat-programmno-tekstovyy-fayl" tags="VBA, кодировка" ctime="20190731223745" dir="1520589463d1da828o85" file="text.html"/>
+     <record id="1520589571qzbcmmm9e0" name="Чтение файлов формата .txt в кодировке utf-8 - VBA" author="" url="http://www.cyberforum.ru/vba/thread1934736.html" tags="VBA, кодировка" ctime="20190731223745" dir="15205895711bt2gnadlu" file="text.html"/>
      <record id="1520589823ohbvdiubd7" name="Получение даты и времени - Visual Basic .NET " author="" url="http://www.cyberforum.ru/vb-net/thread796935.html" tags="формат даты-времени" ctime="20190731223747" dir="1520589823sim8pvl4ju" file="text.html"/>
      <record id="1520589868stpdlx6563" name="7. ВРЕМЯ И ТАЙМЕРЫ" author="" url="http://dit.isuct.ru/IVT/sitanov/Literatura/VB6/Glava7.htm" tags="VB" ctime="20190731223747" dir="1520589868o5o5xjr8v8" file="text.html"/>
      <record id="1520589961dxyuoxn88d" name="MS Visual Studio 2010. Элементы управления" author="" url="http://turbopro.ru/index.php/visual-studio-2010/5336-ms-visual-studio-2010-elementy-upravleniya" tags="" ctime="20190731223747" dir="1520589961codgeagepp" file="text.html"/>
@@ -2991,12 +2987,12 @@
         <file id="1514578508aovuanbmzl" fileName="FromUnicode (конвертор)2.xlsm" type="file"/>
        </files>
       </record>
-      <record id="15147202031qn5sk687t" name="Отображение кодов символов для текста выделенной ячейки" author="" url="http://excelvba.ru/tools/CharCodes" tags="vba, кодировки, excel, char, codes, инструменты разработчика vba, надстройки" ctime="20190316234333" dir="1514720203pxvs07159r" file="text.html">
+      <record id="15147202031qn5sk687t" name="Отображение кодов символов для текста выделенной ячейки" author="" url="http://excelvba.ru/tools/CharCodes" tags="VBA, кодировка, excel, char, codes, инструменты разработчика vba, надстройки" ctime="20190316234333" dir="1514720203pxvs07159r" file="text.html">
        <files>
         <file id="1514720250yi93lwlptg" fileName="CharCodes.xla" type="file"/>
        </files>
       </record>
-      <record id="1514720694qiif1o5g7i" name="Макрос перекодировки (изменения кодировки) текста и файлов" author="" url="http://excelvba.ru/code/Encode" tags="vba, encode, текстовые файлы, кодировки" ctime="20190316234333" dir="151472069448psg41yxs" file="text.html"/>
+      <record id="1514720694qiif1o5g7i" name="Макрос перекодировки (изменения кодировки) текста и файлов" author="" url="http://excelvba.ru/code/Encode" tags="VBA, кодировка, encode, текстовые файлы" ctime="20190316234333" dir="151472069448psg41yxs" file="text.html"/>
       <record id="1514722349gf2pp3sv31" name="Транслитерация текстовой строки средствами VBA" author="" url="http://excelvba.ru/code/translit" tags="transit, Транслит" ctime="20190316234333" dir="1514722349exmcaikfm8" file="text.html"/>
       <record id="1514723905efmp56bkr6" name="Преобразование строки, содержащей кириллицу, в URLEncode" author="" url="http://excelvba.ru/code/URLEncode" tags="Encode" ctime="20190316234333" dir="1514723905ecprshxrny" file="text.html"/>
       <record id="1514734677xi5ncflpx4" name="Функция сохранения текста в файл, в заданной кодировке " author="" url="http://excelvba.ru/code/SaveTextToFile" tags="Текстовые файлы, Перевод и кодировка, текстовые строки" ctime="20190316234333" dir="1514734677zk81gdoq9k" file="text.html"/>
@@ -3006,8 +3002,12 @@
        </files>
       </record>
       <record id="15149846322h9ilh7001" name="Функция для добавления GET-параметра в ссылку (URL) " author="" url="http://excelvba.ru/code/URL_SetParameter" tags="Гиперссылки,URL" ctime="20190316234333" dir="151498463213y6c9asy7" file="text.html"/>
-      <record id="1514985559bc8je89iw9" name="Замена кодов символов Unicode на сами символы" author="" url="http://excelvba.ru/code/ReplaceUnicode" tags="Unicode,vba,кодировки" ctime="20190316234333" dir="1514985559bed659rhij" file="text.html"/>
-      <record id="1524050477sfq1c10zfd" name="Определить кодировку текста (Dos или Win)." author="" url="http://visualprogs.ru/sample/110.html" tags="VBA, Кодировки, " ctime="20190731232900" dir="15240504771lde9ikvsn" file="text.html"/>
+      <record id="1514985559bc8je89iw9" name="Замена кодов символов Unicode на сами символы" author="" url="http://excelvba.ru/code/ReplaceUnicode" tags="Unicode,vba,кодировка" ctime="20190316234333" dir="1514985559bed659rhij" file="text.html"/>
+      <record id="1524050477sfq1c10zfd" name="Определить кодировку текста (Dos или Win)." author="" url="http://visualprogs.ru/sample/110.html" tags="VBA, кодировка," ctime="20190731232900" dir="15240504771lde9ikvsn" file="text.html"/>
+      <record id="1694541092yujrv3kd2s" name="Кодировка (0–127)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-0127" tags="Кодировка" ctime="20230915205318" dir="1694541092cfkkyoo4bf" file="text.html"/>
+      <record id="1694541281sdw2ru95z3" name="Кодировка (128–255)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-128255" tags="Кодировка" ctime="20230915205323" dir="1694541281v35a4pznkc" file="text.html"/>
+      <record id="1520589233gxlonb5c5e" name="Изменение кодировки текстового файла - VBA1" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205500" dir="1520589233k1csta92zr" file="text.html"/>
+      <record id="1520589319nqa4iyby66" name="Изменение кодировки текстового файла - VBA3" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205507" dir="1520589319uwbamxhx2q" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1552769013qo8wmdxrvf" name="Сортировка">
@@ -3770,7 +3770,7 @@
     <record id="1518023711kj26211xhy" name="Windows 10: запрещаем автоустановку рекламных программ" author="" url="about:reader?url=https%3A%2F%2Fvk.com%2F%40windowsblog-windows-10-zapreschaem-avtoustanovku-reklamnyh-programm" tags="Windows 10" ctime="20180207201511" dir="1518023711m9saeeea0w" file="text.html"/>
     <record id="1518762677462snhgt4p" name="Клавиатурные комбинации" author="" url="https://m.vk.com/@science_newworld-klaviaturnye-kombinacii" tags="клавиатурные комбинации, горячие клавиши" ctime="20180216093117" dir="1518762677y0x2p6jgb6" file="text.html"/>
     <record id="1518807607qi94w3sc6x" name="Какой SSD лучше выбрать и почему" author="" url="https://m.vk.com/@myironcomp-kakoi-ssd-luchshe-vybrat-i-pochemu" tags="ssd" ctime="20180216220024" dir="1518807607lm6pdsztux" file="text.html"/>
-    <record id="1520234923ivi4ims5oc" name="Решаем проблему с кодировкой приложений Windows" author="" url="http://feanor184.ru/windows/reshaem-problemu-s-kodirovkoy-prilozheniy-windows.html" tags="кодировки, windows" ctime="20180305102843" dir="152023492308nyr4ucbk" file="text.html"/>
+    <record id="1520234923ivi4ims5oc" name="Решаем проблему с кодировкой приложений Windows" author="" url="http://feanor184.ru/windows/reshaem-problemu-s-kodirovkoy-prilozheniy-windows.html" tags="кодировка, windows" ctime="20180305102843" dir="152023492308nyr4ucbk" file="text.html"/>
     <record id="1520588781bfkxsssyhz" name="Самая крутая фишка почты Gmail, о которой вы не знали" author="" url="https://m.vk.com/@myironcomp-samaya-krutaya-fishka-pochty-gmail-o-kotoroi-vy-ne-znali" tags="Gmail" ctime="20180309124621" dir="1520588781utyygcsh2m" file="text.html"/>
     <record id="1520590288s2ohc4xu0f" name="Как бороться с триал-версиями программ" author="" url="http://www.trashreg.com/ru/untrial.html" tags="" ctime="20180309131128" dir="15205902880g1r1b8dpm" file="text.html"/>
     <record id="1521035067uj7sgf3lh1" name="6 скрытых ссылок Google" author="" url="https://m.vk.com/@windowsblog-6-skrytyh-ssylok-google" tags="Google" ctime="20180314164427" dir="1521035067cuntjvmx6i" file="text.html"/>
