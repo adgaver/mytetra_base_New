@@ -1118,8 +1118,6 @@
        <file id="1520589126wk5b926tii" fileName="ProgBar.rar" type="file"/>
       </files>
      </record>
-     <record id="1520589272gc422ps3xn" name="Изменение кодировки текстового файла - VBA2" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20190731223744" dir="15205892720xge808qeh" file="text.html"/>
-     <record id="1520589349c1cyhhrrnv" name="Изменение кодировки текстового файла - VBA4" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20190731223744" dir="15205893498u8jhcxopi" file="text.html"/>
      <record id="15205894636l27smfxrd" name="в кодировке UTF8 можно читать программно текстовый файл?  [new]" author="" url="http://www.sql.ru/forum/1213973/v-kodirovke-utf8-mozhno-chitat-programmno-tekstovyy-fayl" tags="VBA, кодировка" ctime="20190731223745" dir="1520589463d1da828o85" file="text.html"/>
      <record id="1520589571qzbcmmm9e0" name="Чтение файлов формата .txt в кодировке utf-8 - VBA" author="" url="http://www.cyberforum.ru/vba/thread1934736.html" tags="VBA, кодировка" ctime="20190731223745" dir="15205895711bt2gnadlu" file="text.html"/>
      <record id="1520589823ohbvdiubd7" name="Получение даты и времени - Visual Basic .NET " author="" url="http://www.cyberforum.ru/vb-net/thread796935.html" tags="формат даты-времени" ctime="20190731223747" dir="1520589823sim8pvl4ju" file="text.html"/>
@@ -1184,7 +1182,6 @@
      <record id="1523183464ioxey296lr" name="Извлечение таблиц из pdf (в excel), прив. w/vba" author="" url="http://qaru.site/questions/938389/extract-tables-from-pdf-to-excel-pref-w-vba" tags="" ctime="20190731223758" dir="1523183464v9kbdgqmdi" file="text.html"/>
      <record id="1523184533uzy6p4r3fm" name="Ping IP-адрес с кодом VBA и результаты возврата в Excel" author="" url="http://qaru.site/questions/411505/ping-ip-address-with-vba-code-and-return-results-in-excel" tags="vba, ip" ctime="20190731223758" dir="1523184533mfwkay8q86" file="text.html"/>
      <record id="152318471526420dq88g" name="Сочетания клавиш для редактора VBA" author="" url="https://officemacro.wordpress.com/2011/04/03/vbahotkeys/" tags="vba, редактор vba" ctime="20190731223758" dir="1523184715rkbf2dqt0z" file="text.html"/>
-     <record id="1524049566fy6frlbiio" name=" 3.9.3 Строковые функции" author="" url="http://www.askit.ru/custom/vba_office/m3/03_09_03_string_functions.htm" tags="VBA, Кодировки, Строковые функции" ctime="20190731223759" dir="1524049566e99aq58zqt" file="text.html"/>
      <record id="1525015211z0hwflw9he" name="Символ переноса в VBA" author="" url="http://www.excelworld.ru/forum/10-4922-1" tags="перенос строки, Chr" ctime="20190731223759" dir="1525015211w69g6ndcpy" file="text.html"/>
      <record id="1526044259umsc5vb706" name="Функция проверки правильности имени" author="" url="http://www.excel-vba.ru" tags="VB, VBA, проверка имени, CheckName" ctime="20190731223759" dir="1526044259ataj7nc03j" file="text.html"/>
      <record id="15300848456hwq1y4ro1" name="басурманский формат даты" author="" url="" tags="басурманский формат даты" ctime="20190731223759" dir="1530084845h3sxoa8jvl" file="text.html"/>
@@ -3008,6 +3005,9 @@
       <record id="1694541281sdw2ru95z3" name="Кодировка (128–255)" author="" url="https://learn.microsoft.com/ru-ru/office/vba/language/reference/user-interface-help/character-set-128255" tags="Кодировка" ctime="20230915205323" dir="1694541281v35a4pznkc" file="text.html"/>
       <record id="1520589233gxlonb5c5e" name="Изменение кодировки текстового файла - VBA1" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205500" dir="1520589233k1csta92zr" file="text.html"/>
       <record id="1520589319nqa4iyby66" name="Изменение кодировки текстового файла - VBA3" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205507" dir="1520589319uwbamxhx2q" file="text.html"/>
+      <record id="1520589272gc422ps3xn" name="Изменение кодировки текстового файла - VBA2" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205758" dir="15205892720xge808qeh" file="text.html"/>
+      <record id="1520589349c1cyhhrrnv" name="Изменение кодировки текстового файла - VBA4" author="" url="http://www.cyberforum.ru/vba/thread1974776.html" tags="VBA, кодировка" ctime="20230915205802" dir="15205893498u8jhcxopi" file="text.html"/>
+      <record id="1524049566fy6frlbiio" name=" 3.9.3 Строковые функции" author="" url="http://www.askit.ru/custom/vba_office/m3/03_09_03_string_functions.htm" tags="VBA, кодировка, Строковые функции" ctime="20230915205742" dir="1524049566e99aq58zqt" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1552769013qo8wmdxrvf" name="Сортировка">
