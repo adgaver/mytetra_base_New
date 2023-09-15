@@ -665,6 +665,8 @@
      </node>
      <node crypt="" id="16941158014n8efsshyg" name="VBA Excel">
       <recordtable>
+       <record id="1694801345ynmy0qlgq9" name="VBA Excel. Содержание рубрики" author="" url="https://vremya-ne-zhdet.ru/vba-excel/soderzhaniye-rubriki/" tags="VBA Excel" ctime="20230915210905" dir="1694801345oq7kholjhb" file="text.html"/>
+       <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/9/" tags="VBA Excel START" ctime="20230911201645" dir="1694452605j20h7la2qb" file="text.html"/>
        <record id="16941158444g56kbz8dx" name="VBA Excel. Функция Shell" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-shell/" tags="Shell" ctime="20230907224404" dir="1694115844454z4mhwnb" file="text.html"/>
        <record id="1694115910vuukrt2y46" name="VBA Excel. Открыть файл другой программы" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/otkryt-fayl-drugoy-programmy/" tags="VBA, run exe" ctime="20230907224510" dir="16941159105qfbbpi4wb" file="text.html"/>
        <record id="1694116129nuc3jr7bnb" name="VBA Excel. Открытие сайта методом FollowHyperlink" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/metod-workbook-followhyperlink/" tags="FollowHyperlink" ctime="20230907224849" dir="1694116129j8ngp0ya4q" file="text.html"/>
@@ -749,7 +751,6 @@
        <record id="1694542788w9ydlpcwt8" name="VBA Excel. Функция для вычисления факториала" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-dlya-vychisleniya-faktoriala/" tags="VBA Excel, факториал, Factorial" ctime="20230912211948" dir="1694542788c956yk0hpg" file="text.html"/>
        <record id="1694542874ckhho275i1" name="VBA Excel. Сортировка таблицы (диапазона)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sortirovka-tablitsy-diapazona/" tags="VBA Excel,  sort" ctime="20230912212114" dir="16945428742c8i9y4mtf" file="text.html"/>
        <record id="1694543017qn2ni5vxw3" name="VBA Excel. Элемент управления DTPicker" author="" url="https://vremya-ne-zhdet.ru/vba-excel/element-upravleniya-dtpicker/" tags="VBA Excel, DTPicker, Календарь" ctime="20230912212337" dir="169454301784seuixt7v" file="text.html"/>
-       <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/9/" tags="VBA Excel START" ctime="20230911201645" dir="1694452605j20h7la2qb" file="text.html"/>
        <record id="1694543166n4dhqgkqij" name="VBA Excel. Элемент управления ScrollBar (полоса прокрутки)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/element-upravleniya-scrollbar/" tags="" ctime="20230912212606" dir="1694543166ojpkzypl8u" file="text.html"/>
        <record id="1694543188ml04p1ezko" name="VBA Excel. Элемент управления CommandButton (кнопка)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/element-upravleniya-commandbutton/" tags="" ctime="20230912212628" dir="1694543188ld64gs7ic3" file="text.html"/>
        <record id="16945432329mh0yy2lea" name="VBA Excel. Свойства SelStart, SelLength, SelText (TextBox)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/svoystva-selstart-sellength-seltext/" tags="" ctime="20230912212712" dir="1694543232jf2llwzknp" file="text.html"/>
@@ -773,6 +774,20 @@
        <record id="1694598015c91jbjddxr" name="VBA Excel. Вставка рисунка в ячейку" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/vstavka-risunka-v-yacheyku/" tags="VBA Excel, Shapes, EXCEL" ctime="20230913124015" dir="1694598015hqa4yhy0xj" file="text.html"/>
       </recordtable>
      </node>
+    </node>
+    <node crypt="" id="1694800887cf7oehsl5u" name="Word">
+     <recordtable>
+      <record id="1694801301c0iynm9wwf" name="VBA Excel. Управление приложением Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/upravleniye-prilozheniyem-word/" tags="VBA, WORD" ctime="20230915210821" dir="1694801301gzstcx2238" file="text.html"/>
+      <record id="1694801198qbskpxiw7f" name="VBA Excel. Создание и открытие документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230915210638" dir="1694801198757ghmtyde" file="text.html"/>
+      <record id="16948011266lbx0gzjog" name="VBA Excel. Редактирование документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/redaktirovaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230915210526" dir="1694801126l14quzgu3o" file="text.html"/>
+      <record id="1694800972pv0qxnz0ad" name="VBA Excel. Создание таблиц в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-tablits-v-dokumente-word/" tags="VBA, WORD" ctime="20230915210252" dir="1694800972cu37sr7cxe" file="text.html"/>
+      <record id="1694800822arvwx0xukl" name="VBA Excel. Bookmarks – закладки в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/zakladki-v-dokumente-word/" tags="VBA, WORD" ctime="20230915210133" dir="16948008224kp67o5hg6" file="text.html"/>
+      <record id="1694801458j9nj7sdf7p" name="VBA Excel. Вставка таблицы Excel в документ Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/vstavka-tablitsy-excel-v-dokument-word/" tags="VBA, WORD" ctime="20230915211058" dir="1694801458ic0zxn5nfy" file="text.html"/>
+      <record id="1512822029n3umhlm11h" name="Открыть Word из Excel - Макросы в Excel " author="" url="https://analitica.jimdo.com/%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%BE%D0%B5/word-%D0%B8-excel/" tags="" ctime="20230915210719" dir="1512822029d2qv9am4q4" file="text.html"/>
+      <record id="1514387594h7xbrxqpfo" name="Как открыть Word из Excel " author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="vba , word" ctime="20230915210721" dir="1514387594gvec1bufnn" file="text.html"/>
+      <record id="1514403890v245eoojan" name="Открыть форму сразу после запуска файла с макросом" author="" url="http://msexcel-vba.ru/sample-page/" tags="" ctime="20230915210725" dir="1514403890k2qml735jd" file="text.html"/>
+      <record id="15147334633a4vmx6827" name="Загрузка информации из файлов Word (перебор страниц в документе)" author="" url="http://excelvba.ru/code/WordDocumentProperties" tags="Текстовые файлы, Документы Word, excel-word" ctime="20230915210727" dir="1514733463l11gpi6pn9" file="text.html"/>
+     </recordtable>
     </node>
     <node crypt="" icon="" id="1545888227ehoe0i02yk" name="Access">
      <recordtable>
@@ -2594,14 +2609,6 @@
       <record id="1570884957yxhgxtnq77" name="Как отправить данные Excel в PowerPoint" author="" url="https://excelpedia.ru/makrosi-v-excel/otpravit-dannie-v-powerpoint" tags="" ctime="20191012203432" dir="1570884957bvt2xypqrq" file="text.html"/>
       <record id="15805054415vyzocjeln" name="Связи PowerPoint" author="" url="https://www.sql.ru/forum/1039538/svyazi-powerpoint" tags="VBA_PowerPoint" ctime="20200201001721" dir="15805054415uhhwgto64" file="text.html"/>
       <record id="1580506650l4qyx7ry95" name="Макрос для переноса диаграм и таблиц из execl в powerpoint  " author="" url="https://www.sql.ru/forum/473286-a/makros-dlya-perenosa-diagram-i-tablic-iz-execl-v-powerpoint" tags="vba_powerpoint, slides" ctime="20200201003730" dir="1580506650lba6nemi1z" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" icon="" id="1552769012thffk4tkts" name="Word">
-     <recordtable>
-      <record id="1512822029n3umhlm11h" name="Открыть Word из Excel - Макросы в Excel " author="" url="https://analitica.jimdo.com/%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%BE%D0%B5/word-%D0%B8-excel/" tags="" ctime="20190316234332" dir="1512822029d2qv9am4q4" file="text.html"/>
-      <record id="1514387594h7xbrxqpfo" name="Как открыть Word из Excel " author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="vba , word" ctime="20190316234332" dir="1514387594gvec1bufnn" file="text.html"/>
-      <record id="1514403890v245eoojan" name="Открыть форму сразу после запуска файла с макросом" author="" url="http://msexcel-vba.ru/sample-page/" tags="" ctime="20190316234332" dir="1514403890k2qml735jd" file="text.html"/>
-      <record id="15147334633a4vmx6827" name="Загрузка информации из файлов Word (перебор страниц в документе)" author="" url="http://excelvba.ru/code/WordDocumentProperties" tags="Текстовые файлы, Документы Word, excel-word" ctime="20190316234332" dir="1514733463l11gpi6pn9" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="15527690115k6zr4d4yp" name="Outlook">
