@@ -3172,9 +3172,6 @@
 			</node>
 		</node>
 		<node crypt="" id="1694884114zi0cj3rq3i" name="test">
-			<recordtable>
-				<record id="1694884894l3jwi1y11z" name="конфигурация - Как я могу синхронизировать время..." author="" url="https://yandex.ru/search/?text=tor+cby%5Bhjybpfwbz+vt%3Ble+rjvgm.nthfvb&amp;lr=10719" tags="" ctime="20230916202134" dir="1694884894u3k2pgueti" file="text.html"/>
-			</recordtable>
 			<node crypt="" id="1694884149uyqtrmzbiv" name="Word">
 				<recordtable>
 					<record id="1694801301c0iynm9wwf" name="VBA Excel. Управление приложением Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/upravleniye-prilozheniyem-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801301gzstcx2238" file="text.html"/>
@@ -3187,8 +3184,7 @@
 					<record id="1514387594h7xbrxqpfo" name="Как открыть Word из Excel " author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="vba , word" ctime="20230916200909" dir="1514387594gvec1bufnn" file="text.html"/>
 					<record id="1514403890v245eoojan" name="Открыть форму сразу после запуска файла с макросом" author="" url="http://msexcel-vba.ru/sample-page/" tags="" ctime="20230916200909" dir="1514403890k2qml735jd" file="text.html"/>
 					<record id="15147334633a4vmx6827" name="Загрузка информации из файлов Word (перебор страниц в документе)" author="" url="http://excelvba.ru/code/WordDocumentProperties" tags="Текстовые файлы, Документы Word, excel-word" ctime="20230916200909" dir="1514733463l11gpi6pn9" file="text.html"/>
-					<record id="16948842060u2u1ra74v" name="isRights=1" author="" url="" tags="" ctime="20230916201006" dir="1694884206js5i3ldhec" file="text.html"/>
-				</recordtable>
+					<record id="16948842060u2u1ra74v" name="isRights=1" author="" url="" tags="" ctime="20230916201006" dir="1694884206js5i3ldhec" file="text.html"/></recordtable>
 			</node>
 		</node>
 		<node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
@@ -4082,14 +4078,4 @@
 			</recordtable>
 		</node>
 		<node crypt="" icon="" id="1482729291ru4mgxjbmj" name="Корзина"/>
-		<node crypt="" id="1694884880k9h58b0x1s" name="!История">
-			<node crypt="" id="1694884894vx4ew8dir5" name="2023">
-				<node crypt="" id="1694884894hj8de0zjm1" name="Сентябрь">
-					<recordtable>
-						<record id="1694884894vta76yzyty" name="001" ctime="20230916202134" dir="1694884894lfpahk0o7e" file="text.html"/>
-					</recordtable>
-				</node>
-			</node>
-		</node>
-		<node crypt="" id="1694885944mp9mcogzoh" name="@Список"><recordtable><record id="1694885981kzhmgmnwj4" name="001" ctime="20230916203941" dir="1694885981ooayne87ud" file="text.html"/></recordtable></node>
 	</content></root>
