@@ -3174,6 +3174,10 @@
    </node>
   </node>
   <node crypt="" id="1694884114zi0cj3rq3i" name="test">
+   <recordtable>
+    <record id="16948862016f6nd1cinx" name="конфигурация - Как я могу синхронизировать время..." author="" url="https://yandex.ru/search/?text=tor+cby%5Bhjybpfwbz+vt%3Ble+rjvgm.nthfvb&amp;lr=10719" tags="" ctime="20230916204321" dir="1694886201t2fyqf9vof" file="text.html"/>
+    <record id="169488661653axk8qofj" name="Могу ли я синхронизировать chrome и Tor браузер?" author="" url="https://support.google.com/chrome/thread/9127976/%D0%9C%D0%BE%D0%B3%D1%83-%D0%BB%D0%B8-%D1%8F-%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-chrome-%D0%B8-tor-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80?hl=ru" tags="" ctime="20230916205016" dir="1694886616qwuu4zjpf3" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1694884149uyqtrmzbiv" name="Word">
     <recordtable>
      <record id="1694801301c0iynm9wwf" name="VBA Excel. Управление приложением Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/upravleniye-prilozheniyem-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801301gzstcx2238" file="text.html"/>
@@ -3565,7 +3569,11 @@
     </node>
    </node>
   </node>
-  <node crypt="" id="1694885944mp9mcogzoh" name="@Список"/>
+  <node crypt="" id="1694885944mp9mcogzoh" name="@Список">
+   <recordtable>
+    <record id="1694885981kzhmgmnwj4" name="001" ctime="20230916203941" dir="1694885981ooayne87ud" file="text.html"/>
+   </recordtable>
+  </node>
   <node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
    <recordtable>
     <record id="1513170725cx68te4sk4" name="UkM1U0lNUAMSWMUwiKMftXHXUVAwSxZynw69eUkTFvvwc4VFbyve/CTbND/7l4OJSt4Mubb89wA=" author="" url="" tags="" ctime="20171213161205" dir="1513170725ejm0nkoh2s" file="text.html" crypt="1"/>
