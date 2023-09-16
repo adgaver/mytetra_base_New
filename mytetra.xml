@@ -10,7 +10,8 @@
 				<record id="1632846407q8nfaexh73" name="Защита проекта VBA в MS Excel" author="" url="https://habr.com/ru/post/514440/" tags="VBAProject Properties, Protection" ctime="20210928192647" dir="1632846407ld3p311p5u" file="text.html"/>
 				<record id="16397741881et48wc3nz" name="Modbus TCP Data Logging to Database" author="" url="https://accautomation.ca/modbus-tcp-data-logging-to-database/?amp" tags="modbus, VB.net" ctime="20211217234948" dir="1639774188lm3wgkt3z0" file="text.html"/>
 				<record id="1694450456q4eeoeb2ej" name="VBA Excel. Функции Int и Fix" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsii-int-fix/" tags="int, fix, VBA" ctime="20230911201307" dir="1694450456q0k8cv3hry" file="text.html"/>
-				<record id="169480268990ap1ozqmk" name="C:\Users\girevav\GL\1.42 Tetra\settings.ini.bak" author="" url="" tags="" ctime="20230915213129" dir="1694802689949aewuvt6" file="text.html"/></recordtable>
+				<record id="169480268990ap1ozqmk" name="C:\Users\girevav\GL\1.42 Tetra\settings.ini.bak" author="" url="" tags="" ctime="20230915213129" dir="1694802689949aewuvt6" file="text.html"/>
+			</recordtable>
 			<node crypt="" icon="/WinStyle/nocolor_icons8_Windows_10_comments.svg" id="1544725102dlpfsm013p" name="Почитать">
 				<recordtable>
 					<record id="1544725132xccpjuna4d" name="Как работать с Microsoft Power BI — подробное руководство" author="" url="https://netpeak.net/ru/blog/kak-rabotat-s-microsoft-power-bi-podrobnoe-rukovodstvo/" tags="" ctime="20181213211852" dir="1544725132kpato7def3" file="text.html"/>
@@ -773,20 +774,6 @@
 							<record id="169480152437kx8etcuh" name="VBA Excel. Открыть файл другой программы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/otkryt-fayl-drugoy-programmy/" tags="VBA, FollowHyperlink, Wscript.Shell, run" ctime="20230915211204" dir="1694801524m7yxwwt4fs" file="text.html"/>
 						</recordtable>
 					</node>
-				</node>
-				<node crypt="" id="1694800887cf7oehsl5u" name="Word">
-					<recordtable>
-						<record id="1694801301c0iynm9wwf" name="VBA Excel. Управление приложением Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/upravleniye-prilozheniyem-word/" tags="VBA, WORD" ctime="20230915210821" dir="1694801301gzstcx2238" file="text.html"/>
-						<record id="1694801198qbskpxiw7f" name="VBA Excel. Создание и открытие документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230915210638" dir="1694801198757ghmtyde" file="text.html"/>
-						<record id="16948011266lbx0gzjog" name="VBA Excel. Редактирование документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/redaktirovaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230915210526" dir="1694801126l14quzgu3o" file="text.html"/>
-						<record id="1694800972pv0qxnz0ad" name="VBA Excel. Создание таблиц в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-tablits-v-dokumente-word/" tags="VBA, WORD" ctime="20230915210252" dir="1694800972cu37sr7cxe" file="text.html"/>
-						<record id="1694800822arvwx0xukl" name="VBA Excel. Bookmarks – закладки в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/zakladki-v-dokumente-word/" tags="VBA, WORD" ctime="20230915210133" dir="16948008224kp67o5hg6" file="text.html"/>
-						<record id="1694801458j9nj7sdf7p" name="VBA Excel. Вставка таблицы Excel в документ Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/vstavka-tablitsy-excel-v-dokument-word/" tags="VBA, WORD" ctime="20230915211058" dir="1694801458ic0zxn5nfy" file="text.html"/>
-						<record id="1512822029n3umhlm11h" name="Открыть Word из Excel - Макросы в Excel " author="" url="https://analitica.jimdo.com/%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%BE%D0%B5/word-%D0%B8-excel/" tags="" ctime="20230915210719" dir="1512822029d2qv9am4q4" file="text.html"/>
-						<record id="1514387594h7xbrxqpfo" name="Как открыть Word из Excel " author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="vba , word" ctime="20230915210721" dir="1514387594gvec1bufnn" file="text.html"/>
-						<record id="1514403890v245eoojan" name="Открыть форму сразу после запуска файла с макросом" author="" url="http://msexcel-vba.ru/sample-page/" tags="" ctime="20230915210725" dir="1514403890k2qml735jd" file="text.html"/>
-						<record id="15147334633a4vmx6827" name="Загрузка информации из файлов Word (перебор страниц в документе)" author="" url="http://excelvba.ru/code/WordDocumentProperties" tags="Текстовые файлы, Документы Word, excel-word" ctime="20230915210727" dir="1514733463l11gpi6pn9" file="text.html"/>
-					</recordtable>
 				</node>
 				<node crypt="" icon="" id="1545888227ehoe0i02yk" name="Access">
 					<recordtable>
@@ -3182,6 +3169,22 @@
 					<record id="1693944491r57mref0rd" name="SHELL invoked from VBA" author="" url="http://dmcritchie.mvps.org/excel/shell.htm" tags="Shell, CMD" ctime="20230905230811" dir="1693944491zlddt62dec" file="text.html"/>
 					<record id="1693946036ne17rilrsz" name="VBA Shell" author="" url="https://vbaplanet.com/shell.php" tags="Shekk, CMD" ctime="20230905233356" dir="1693946036ln01pfxcwr" file="text.html"/>
 				</recordtable>
+			</node>
+		</node>
+		<node crypt="" id="1694884114zi0cj3rq3i" name="test">
+			<node crypt="" id="1694884149uyqtrmzbiv" name="Word">
+				<recordtable>
+					<record id="1694801301c0iynm9wwf" name="VBA Excel. Управление приложением Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/upravleniye-prilozheniyem-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801301gzstcx2238" file="text.html"/>
+					<record id="1694801198qbskpxiw7f" name="VBA Excel. Создание и открытие документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801198757ghmtyde" file="text.html"/>
+					<record id="16948011266lbx0gzjog" name="VBA Excel. Редактирование документов Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/redaktirovaniye-dokumentov-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801126l14quzgu3o" file="text.html"/>
+					<record id="1694800972pv0qxnz0ad" name="VBA Excel. Создание таблиц в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/sozdaniye-tablits-v-dokumente-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694800972cu37sr7cxe" file="text.html"/>
+					<record id="1694800822arvwx0xukl" name="VBA Excel. Bookmarks – закладки в документе Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/zakladki-v-dokumente-word/" tags="VBA, WORD" ctime="20230916200909" dir="16948008224kp67o5hg6" file="text.html"/>
+					<record id="1694801458j9nj7sdf7p" name="VBA Excel. Вставка таблицы Excel в документ Word" author="" url="https://vremya-ne-zhdet.ru/vba-excel/vstavka-tablitsy-excel-v-dokument-word/" tags="VBA, WORD" ctime="20230916200909" dir="1694801458ic0zxn5nfy" file="text.html"/>
+					<record id="1512822029n3umhlm11h" name="Открыть Word из Excel - Макросы в Excel " author="" url="https://analitica.jimdo.com/%D0%BF%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%BD%D1%83%D1%82%D0%BE%D0%B5/word-%D0%B8-excel/" tags="" ctime="20230916200909" dir="1512822029d2qv9am4q4" file="text.html"/>
+					<record id="1514387594h7xbrxqpfo" name="Как открыть Word из Excel " author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="vba , word" ctime="20230916200909" dir="1514387594gvec1bufnn" file="text.html"/>
+					<record id="1514403890v245eoojan" name="Открыть форму сразу после запуска файла с макросом" author="" url="http://msexcel-vba.ru/sample-page/" tags="" ctime="20230916200909" dir="1514403890k2qml735jd" file="text.html"/>
+					<record id="15147334633a4vmx6827" name="Загрузка информации из файлов Word (перебор страниц в документе)" author="" url="http://excelvba.ru/code/WordDocumentProperties" tags="Текстовые файлы, Документы Word, excel-word" ctime="20230916200909" dir="1514733463l11gpi6pn9" file="text.html"/>
+					<record id="16948842060u2u1ra74v" name="isRights=1" author="" url="" tags="" ctime="20230916201006" dir="1694884206js5i3ldhec" file="text.html"/></recordtable>
 			</node>
 		</node>
 		<node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
