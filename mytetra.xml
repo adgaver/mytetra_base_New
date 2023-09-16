@@ -3187,6 +3187,7 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="169489631419bablcxsv" name="!Дневник"/>
   <node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
    <recordtable>
     <record id="1513170725cx68te4sk4" name="UkM1U0lNUAMSWMUwiKMftXHXUVAwSxZynw69eUkTFvvwc4VFbyve/CTbND/7l4OJSt4Mubb89wA=" author="" url="" tags="" ctime="20171213161205" dir="1513170725ejm0nkoh2s" file="text.html" crypt="1"/>
@@ -4079,5 +4080,6 @@
    </recordtable>
   </node>
   <node crypt="" icon="" id="1482729291ru4mgxjbmj" name="Корзина"/>
+  <node crypt="" id="1694896331v7tmji95hp" name="@Список"/>
  </content>
 </root>
