@@ -3175,7 +3175,6 @@
   </node>
   <node crypt="" id="1694884114zi0cj3rq3i" name="test">
    <recordtable>
-    <record id="1694884894l3jwi1y11z" name="конфигурация - Как я могу синхронизировать время..." author="" url="https://yandex.ru/search/?text=tor+cby%5Bhjybpfwbz+vt%3Ble+rjvgm.nthfvb&amp;lr=10719" tags="" ctime="20230916202134" dir="1694884894u3k2pgueti" file="text.html"/>
     <record id="16948862016f6nd1cinx" name="конфигурация - Как я могу синхронизировать время..." author="" url="https://yandex.ru/search/?text=tor+cby%5Bhjybpfwbz+vt%3Ble+rjvgm.nthfvb&amp;lr=10719" tags="" ctime="20230916204321" dir="1694886201t2fyqf9vof" file="text.html"/>
     <record id="169488661653axk8qofj" name="Могу ли я синхронизировать chrome и Tor браузер?" author="" url="https://support.google.com/chrome/thread/9127976/%D0%9C%D0%BE%D0%B3%D1%83-%D0%BB%D0%B8-%D1%8F-%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-chrome-%D0%B8-tor-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80?hl=ru" tags="" ctime="20230916205016" dir="1694886616qwuu4zjpf3" file="text.html"/>
    </recordtable>
@@ -3194,6 +3193,386 @@
      <record id="16948842060u2u1ra74v" name="isRights=1" author="" url="" tags="" ctime="20230916201006" dir="1694884206js5i3ldhec" file="text.html"/>
     </recordtable>
    </node>
+  </node>
+  <node crypt="" icon="/Gnome/color_gnome_2_computer.svg" id="1481864368od0rjrzens" name="Комп">
+   <recordtable>
+    <record id="1513309014ws4pud7fuv" name="101 комбинация на клавиатуре" author="" url="https://vk.com/wall-81294248_58725" tags="клавиатура, keys, горячие клавиши" ctime="20171215063654" dir="15133090141mwyos49m3" file="text.html"/>
+    <record id="15159275104hcpr70i95" name="Справочник по настройкам BIOS" author="" url="https://ru.gecid.com/mboard/spravoshnik_po_nastroyikam_bios/?s=all" tags="BIOS" ctime="20180114135830" dir="1515927510kllm9yelo8" file="text.html"/>
+    <record id="1515928072znq9htkpg4" name="Как правильно замерять температуру комплектующих" author="" url="https://safezone.cc/threads/kak-pravilno-zamerjat-temperaturu-komplektujuschix.25494/" tags="" ctime="20180114140752" dir="1515928072o4hoe3s923" file="text.html"/>
+    <record id="1517124821a98iycr4am" name="скачивание сайтов" author="" url="http://www.httrack.com/page/2/en/index.html" tags="скачивание сайтов" ctime="20180128103341" dir="15171248210o5va5aeg0" file="text.html"/>
+    <record id="148186427346naxd74to" name="Как открыть общий доступ к папке в Windows(2)" author="" url="http://routerus.com/как-открыть-общий-доступ-к-папке-в-windows-7-8-10/" tags="Общий доступ, Windows, общий доступ, сеть" ctime="20180130070914" dir="14818642731jywg5podj" file="text.html"/>
+    <record id="148186427319afumuzlk" name="общий доступ к папкам и файлам Windows" author="" url="http://itbc.kiev.ua/share-files-windows/" tags="Общий доступ, Windows, общий доступ, сеть" ctime="20180130070914" dir="14818642735auyv4w77b" file="text.html">
+     <files>
+      <file id="14814583069qetmk4hu6" fileName="Как открыть общий доступ к папке Windows 7 и Windows XP.docx" type="file"/>
+     </files>
+    </record>
+    <record id="1481864273polez6djyn" name="Как настроить локальную сеть (общие файлы Android и PC)" author="" url="http://itbc.kiev.ua/wi-fi-local-network/" tags="Общий доступ, Windows, общий доступ, сеть, Android" ctime="20180130070915" dir="1481864273q9qxl37q25" file="text.html"/>
+    <record id="1512379309aotewti1op" name="Запрет программе доступ в Интернет на Windows 7" author="" url="w7seven.ru" tags="Общий доступ" ctime="20180130070915" dir="1512379309mvyllsr9ah" file="text.html"/>
+    <record id="1516949369zixjvu3e3n" name="Настройка удаленного доступа" author="" url="http://fb.ru/article/165713/udalennyiy-rabochiy-stol-windows-kak-vklyuchit-i-nastroit-udalennyiy-rabochiy-stol-windows" tags="Общий доступ, Настройка удаленного доступа, удаленное подключение, Remote Desktop" ctime="20180130070915" dir="1516949369czc6bc8rz5" file="text.html"/>
+    <record id="1481864273ik2go28e2n" name="Как обжать сетевой кабель LAN своими руками" author="" url="http://hobbyits.com/wan-lan-wi-fi/kak-obzhat-setevoj-kabel-lan-svoimi-rukami.html" tags="Windows, витая пара" ctime="20180130071118" dir="1481864273mnoifkzbbv" file="text.html"/>
+    <record id="1484404827cd62yglv3a" name="Windows на флешке" author="" url="http://www.bestfree.ru/soft/file/windows-on-flash-drive.php" tags="Windows" ctime="20180130071118" dir="14844048277zynk4l26h" file="text.html">
+     <files>
+      <file id="1484405386mywh9b6gmb" fileName="Windows на флешке.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="15066826484jx8cnfcqq" name="Как получить права администратора в Windows 7" author="" url="http://fb.ru/article/133942/kak-poluchit-prava-administratora-v-windows-polnyie-prava-administratora-windows-kak-udalit-administratora-windows" tags="Windows" ctime="20180130071118" dir="1506682648xwfigkvmm7" file="text.html"/>
+    <record id="1506683206wyhzrnlqst" name="Как в Windows 7 получить права администратора" author="" url="https://www.kakprosto.ru/kak-115884-kak-v-windows-7-poluchit-prava-administratora" tags="Windows" ctime="20180130071118" dir="1506683206f07tb5b1s4" file="text.html"/>
+    <record id="1511701627blvbo7n06h" name="Как расшифровать &quot;Синий экран смерти" author="" url="https://webhamster.ru/mytetrashare/index/mtb108/13803826093sicy6pa3o" tags="Windows" ctime="20180130071118" dir="1511701627m5gg7r92xa" file="text.html"/>
+    <record id="1511701759nae2auojv2" name="размеры материнских плат и корпусов" author="" url="https://webhamster.ru/mytetrashare/index/mtb106/1372924870fja1yb6mmw" tags="Windows" ctime="20180130071119" dir="1511701759yf61szwehz" file="text.html"/>
+    <record id="1511702799ftaxodx1ji" name="WebDAV для Яндекс.Диск " author="" url="" tags="Windows" ctime="20180130071119" dir="1511702799g5ajxuglrq" file="text.html"/>
+    <record id="1512762083s7ngnh1oqq" name="Как создать загрузочную флешку. Grub4DOS" author="" url="" tags="Windows" ctime="20180130071119" dir="1512762083j7j0jdmyt9" file="text.html"/>
+    <record id="15127621435zeoudas2q" name="Руководство по Grub4dos" author="" url="" tags="Windows" ctime="20180130071120" dir="1512762143fspn8pcrcm" file="text.html"/>
+    <record id="15128556215msik2whbs" name="Как поставить пароль на папку в Windows" author="" url="https://m.vk.com/wall-72378974_3712193" tags="Windows" ctime="20180130071120" dir="1512855621rqwj8ywa1s" file="text.html"/>
+    <record id="1513012869uvrk4v1js3" name="Загрузчик Grub4Dos: как пользоваться?" author="" url="https://www.syl.ru/article/296483/zagruzchik-grub-dos-kak-polzovatsya" tags="Windows, Grub4Dos" ctime="20180130071120" dir="1513012869bcpeeljysw" file="text.html"/>
+    <record id="1513012934nspz970uix" name="Интеграция драйверов usb 3.0 в дистрибутив windows 7" author="" url="" tags="Windows, usb 3" ctime="20180130071120" dir="1513012934e1xrffierr" file="text.html"/>
+    <record id="1514034139ndt1fyj0y8" name="Автоматический вход в Windows" author="" url="https://g-ek.com/avtomaticheskij-vxod-v-windows10-bez-vvoda-parolya" tags="Windows 10,Автоматический вход" ctime="20180130071120" dir="1514034139ap5fonv8tp" file="text.html"/>
+    <record id="1514271954gnqyjjrz4j" name="Настройка почты Gmail в Outlook 2013, 2016" author="" url="https://help.shortcut.ru/hc/ru/articles/206023447?mobile_site=true&amp;page=1#comment_203458958" tags="Windows, Outlook, Gmail" ctime="20180130071121" dir="15142719545bggu1wk9e" file="text.html"/>
+    <record id="1516852427nkfo9qzcgg" name="Сочетания клавиш в Windows" author="" url="https://support.microsoft.com/ru-ru/help/12445/windows-keyboard-shortcuts" tags="windows, горячие клавиши" ctime="20180130071121" dir="1516852427lszph0vsem" file="text.html"/>
+    <record id="14826759534r30fux9o9" name="Статьи по теме &quot;Установка линукс&quot;" author="" url="http://prostolinux.ru/tag/ustanovka-linuks/" tags="Linux" ctime="20180130071422" dir="1482675953sl71enwiuy" file="text.html"/>
+    <record id="14826758406995sj44le" name="Как восстановить GRUB?" author="" url="http://prostolinux.ru/kak-vosstanovit-grub/" tags="Linux, загрузчик, GRUB" ctime="20180130071422" dir="1482675840enqh093y6f" file="text.html"/>
+    <record id="1482675892hiixahftrh" name="Как установить Windows и Linux на одном компьютере?" author="" url="http://prostolinux.ru/kak-ustanovit-windows-i-linux/" tags="Linux" ctime="20180130071422" dir="14826758926cqylyodbl" file="text.html"/>
+    <record id="1482675796y0rgvzwfbt" name="Как автоматически подключить раздел ntfs в Linux" author="" url="http://prostolinux.ru/kak-avtomaticheski-podklyuchit-razdel-ntfs-v-linux/" tags="Linux" ctime="20180130071423" dir="14826757960l03cjzt85" file="text.html"/>
+    <record id="1482676128ufaajbh27g" name="Команды Linux" author="" url="http://prostolinux.ru/komandyi-linux/" tags="Linux" ctime="20180130071423" dir="1482676128aeqc22j59b" file="text.html"/>
+    <record id="14827572770ru924a3t6" name="Что означают папки Linux?" author="" url="http://prostolinux.ru/chto-oznachayut-papki-v-linux/" tags="Linux" ctime="20180130071424" dir="1482757277hw96ipjdne" file="text.html"/>
+    <record id="1482757378e0ul0ur1ce" name="Как очистить Linux?" author="" url="http://prostolinux.ru/kak-pochistit-linux/" tags="Linux" ctime="20180130071424" dir="1482757378s8jg9tojf0" file="text.html"/>
+    <record id="14827574740dw7fhz60g" name="Как усилить сигнал 3G модема?" author="" url="http://prostolinux.ru/kak-usilit-signal-3g-modema/" tags="Linux, 3G" ctime="20180130071424" dir="1482757474trut2uph2i" file="text.html"/>
+    <record id="1482757490gfqa0zvipl" name="Как установить Linux на флешку?" author="" url="http://prostolinux.ru/kak-ustanovit-linux-na-fleshku/" tags="Linux" ctime="20180130071424" dir="148275749077mpcygxun" file="text.html"/>
+    <record id="1482757596lxnpw5tzn6" name="Как сбросить пароль Ubuntu?" author="" url="http://prostolinux.ru/sbrosit-parol-ubuntu/" tags="Linux, Ubuntu" ctime="20180130071424" dir="1482757596sg67mlx0e5" file="text.html"/>
+    <record id="14827576527g38lxvlep" name="Каталоги и диски LInux" author="" url="" tags="Linux" ctime="20180130071424" dir="148275765247nuf2o0i6" file="text.html"/>
+    <record id="1482757728mqo67pbra5" name="Репозитории Linux" author="" url="http://prostolinux.ru/repozitorii/" tags="Linux" ctime="20180130071424" dir="14827577289fbl0gav9g" file="text.html"/>
+    <record id="1482757769pilrlqu21m" name="Основы безопасности в системах Linux" author="" url="http://prostolinux.ru/bezopasnost-linux/" tags="Linux" ctime="20180130071424" dir="1482757769t36hdwiuiu" file="text.html"/>
+    <record id="1482757806z06w84ojz7" name="Как создать загрузочную флешку с Линукс?" author="" url="http://prostolinux.ru/zagruzochnaya-fleshka-s-linux/" tags="Linux, Загрузочная флешка" ctime="20180130071424" dir="14827578066luju3l7ia" file="text.html"/>
+    <record id="1482757841qdck01b3vc" name="Как подключить сетевую папку в Linux?" author="" url="http://prostolinux.ru/podklyuchit-setevuyu-papku/" tags="Linux, сеть" ctime="20180130071425" dir="1482757841hyzanxx02r" file="text.html"/>
+    <record id="14827578780ynhi00h8t" name="Операционная система Linux, чем она лучше?" author="" url="http://prostolinux.ru/operatsionnaya-sistema-linux/" tags="Linux" ctime="20180130071425" dir="1482757878s7tul14ao8" file="text.html"/>
+    <record id="1482757961mq91xa2oui" name="Клавиатурные сочетания Linux" author="" url="http://prostolinux.ru/klaviaturnyie-kombinatsii/" tags="Linux" ctime="20180130071425" dir="1482757961ao2u9dapsc" file="text.html"/>
+    <record id="1482757978bdnc4e6la3" name="Как управлять рабочими столами?" author="" url="http://prostolinux.ru/kak-upravlyat-rabochimi-stolami/" tags="Linux" ctime="20180130071425" dir="14827579788sqnx2ni9e" file="text.html"/>
+    <record id="1482757995n16m23c83k" name="Основные преимущества операционной системы LINUX" author="" url="http://prostolinux.ru/osnovnyie-preimushhestva-operatsionnoy-sistemyi-linux/" tags="Linux" ctime="20180130071425" dir="1482757995km40dl92q7" file="text.html"/>
+    <record id="1484404722nzygvlhx4g" name="Создание загрузочной флешки © http://www.bestfree.ru/soft/sys/flash-boot.php" author="" url="http://www.bestfree.ru/soft/sys/flash-boot.php" tags="linux, xboot" ctime="20180130071425" dir="1484404722ljfarakdye" file="text.html">
+     <files>
+      <file id="1484404896ylztdp254s" fileName="Создание загрузочной флешки — бесплатная программа.pdf" type="file"/>
+     </files>
+    </record>
+    <record id="14844047368831gi98iw" name="Загрузочная флешка Linux — Лучшие варианты созданияИсточник: http://geek-nose.com/zagruzochnaya-fleshka-linux/" author="" url="http://geek-nose.com/zagruzochnaya-fleshka-linux/" tags="linux, xboot" ctime="20180130071425" dir="1484404736zv9r5wj3sl" file="text.html"/>
+    <record id="1517419696izhd7h1fos" name="Виды жестких дисков - pc-hard.ru" author="" url="about:reader?url=http%3A%2F%2Fpc-hard.ru%2Fhardarticles%2F157-hdd-characteristics-and-parameters.html" tags="hdd, sdd, жеский диск" ctime="20180131202816" dir="1517419696imy90oh2hy" file="text.html">
+     <files>
+      <file id="1517419974fu8e1bfi3z" fileName="Виды жестких дисков.docx" type="file"/>
+     </files>
+    </record>
+    <record id="1518023660d3d7syvlik" name="Исправляем ошибки в работе Windows" author="" url="about:reader?url=https%3A%2F%2Fvk.com%2F%40myironcomp-ispravlyaem-oshibki-v-rabote-windows" tags="ошибки Windows " ctime="20180207201420" dir="15180236607kknj3blna" file="text.html"/>
+    <record id="1518023711kj26211xhy" name="Windows 10: запрещаем автоустановку рекламных программ" author="" url="about:reader?url=https%3A%2F%2Fvk.com%2F%40windowsblog-windows-10-zapreschaem-avtoustanovku-reklamnyh-programm" tags="Windows 10" ctime="20180207201511" dir="1518023711m9saeeea0w" file="text.html"/>
+    <record id="1518762677462snhgt4p" name="Клавиатурные комбинации" author="" url="https://m.vk.com/@science_newworld-klaviaturnye-kombinacii" tags="клавиатурные комбинации, горячие клавиши" ctime="20180216093117" dir="1518762677y0x2p6jgb6" file="text.html"/>
+    <record id="1518807607qi94w3sc6x" name="Какой SSD лучше выбрать и почему" author="" url="https://m.vk.com/@myironcomp-kakoi-ssd-luchshe-vybrat-i-pochemu" tags="ssd" ctime="20180216220024" dir="1518807607lm6pdsztux" file="text.html"/>
+    <record id="1520234923ivi4ims5oc" name="Решаем проблему с кодировкой приложений Windows" author="" url="http://feanor184.ru/windows/reshaem-problemu-s-kodirovkoy-prilozheniy-windows.html" tags="кодировка, windows" ctime="20180305102843" dir="152023492308nyr4ucbk" file="text.html"/>
+    <record id="1520588781bfkxsssyhz" name="Самая крутая фишка почты Gmail, о которой вы не знали" author="" url="https://m.vk.com/@myironcomp-samaya-krutaya-fishka-pochty-gmail-o-kotoroi-vy-ne-znali" tags="Gmail" ctime="20180309124621" dir="1520588781utyygcsh2m" file="text.html"/>
+    <record id="1520590288s2ohc4xu0f" name="Как бороться с триал-версиями программ" author="" url="http://www.trashreg.com/ru/untrial.html" tags="" ctime="20180309131128" dir="15205902880g1r1b8dpm" file="text.html"/>
+    <record id="1521035067uj7sgf3lh1" name="6 скрытых ссылок Google" author="" url="https://m.vk.com/@windowsblog-6-skrytyh-ssylok-google" tags="Google" ctime="20180314164427" dir="1521035067cuntjvmx6i" file="text.html"/>
+    <record id="1521916756cstv3sv8i6" name="Как обрезать видео встроенными средствами Windows 10" author="" url="https://m.vk.com/@windowsblog-kak-obrezat-video-vstroennymi-sredstvami-windows-10" tags="" ctime="20180324213916" dir="1521916756f8pxi2dqsa" file="text.html"/>
+    <record id="1521991215j0mqn4s4yp" name="Стандартные методы борьбы с «невидимостью»" author="" url="http://fb.ru/article/178896/pochemu-na-fleshke-ne-vidno-faylov-i-kak-eto-ispravit" tags="атрибуты" ctime="20180325182015" dir="1521991215rp6zrfxgk8" file="text.html"/>
+    <record id="1523184105bxog778uwg" name="Где и как сохранять файлы?" author="" url="https://officemacro.wordpress.com/2013/06/20/save-files/" tags="переменные среды" ctime="20180408134145" dir="1523184105echhve1kme" file="text.html"/>
+    <record id="1523700909kp64fgrbm5" name="Тормозит браузер Google Chrome?" author="" url="https://m.vk.com/@windowsblog-tormozit-brauzer-google-chrome" tags="" ctime="20180414131509" dir="1523700909q30aynz66d" file="text.html"/>
+    <record id="152818652648suufep5m" name="Работа TeamViewer через прокси сервер" author="" url="http://www.stavpr.ru/2012/01/25/rabota-teamviewer-cherez-proksi-server/" tags="TeamViewer, прокси, proxy" ctime="20180605111526" dir="1528186526sv7m5ces0o" file="text.html"/>
+    <record id="1533408638rjk6wlfqyb" name="Быстрая настройка прокси firefox обхода блокировок без расширений." author="" url="https://pikabu.ru/story/byistraya_nastroyka_obkhoda_blokirovok_bez_rasshireniy_4201283" tags="прокси firefox, proxy" ctime="20180804215038" dir="1533408638j8qtueroge" file="text.html"/>
+    <record id="153341015662fnt5twpd" name="How to configure proxy on Firefox Android app" author="" url="https://androidscrib.com/ways-configure-proxy-firefox-android-app/" tags="прокси firefox, proxy" ctime="20180804221556" dir="1533410156nurm60qmeh" file="text.html"/>
+    <record id="1533414812hajq6fk9qa" name=" Как приручить жесткий диск в ноутбуке и не дать парковаться за 8 секунд простоя" author="" url="https://habr.com/post/414271/" tags="" ctime="20180804233332" dir="15334148123mz9l06mzx" file="text.html"/>
+    <record id="1533415343h4p5d60yx7" name="Как удалить Windows.old в Windows 10" author="" url="https://vk.com/@myironcomp-kak-udalit-windowsold-v-windows-10" tags="" ctime="20180804234223" dir="1533415343rg5q72jb2b" file="text.html"/>
+    <record id="1534193500zeckiph67t" name="Все команды Total Commander 9.0a" author="" url="http://flint-inc.ru/tcinfo/all_cmd.ru.htm" tags="Total Commander" ctime="20180813235140" dir="1534193500lywhw892dv" file="text.html"/>
+    <record id="1534347370ucgzgfz3qp" name="Меню загрузки Windows 7 и bcdedit" author="" url="http://windata.ru/windows-7/nastrojka-7/menyu-zagruzki-windows-7-i-bcdedit/" tags="bcdedit, Меню загрузки Windows, Windows" ctime="20180815183610" dir="15343473706zeib5flvi" file="text.html"/>
+    <record id="1534799323s9yeib93hg" name="Наборы колонок TC" author="" url="" tags="Total Commander" ctime="20180821000843" dir="1534799323rktrc5o1fr" file="text.html"/>
+    <record id="15371138180bvni5hock" name="Проверка Windows 10 на ошибки" author="" url="http://howwindows.ru/windows/10/proverka-windows-10-na-oshibki/" tags="" ctime="20180916190338" dir="1537113818vzblx6gi7w" file="text.html"/>
+    <record id="1543742152xy2bebv612" name="Пакетное сжатие JPEG-изображений в нескольких директориях" author="" url="https://k-gayduk.ru/blog/batch-compression.html" tags="" ctime="20181202121552" dir="1543742152494bg5lh1p" file="text.html"/>
+    <record id="1544723870pya2gcvrlq" name="Разрешение мышки (dpi/cpi) — что это?" author="" url="http://tavalik.ru/razreshenie-myshki-dpicpi/" tags="" ctime="20181213205750" dir="15447238702ggonv85i7" file="text.html"/>
+    <record id="1544726091d8jotmx7vt" name="Диагностика жёсткого диска с бесплатной программой CrystalDiskInfo" author="" url="http://tavalik.ru/diagnostika-hdd-s-crystaldiskinfo/" tags="" ctime="20190729231238" dir="1544726091js0qroswb6" file="text.html"/>
+    <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows, events" ctime="20190729235537" dir="15541977379ldzkepo85" file="text.html"/>
+    <record id="1693145691yu3yx19cc9" name="Как создать ярлык с относительным путем в проводнике windows" author="" url="https://andbabichev.wordpress.com/2016/01/25/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%8F%D1%80%D0%BB%D1%8B%D0%BA-%D1%81-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%83%D1%82/" tags="windir, ярлык, link, explorer" ctime="20230827171451" dir="1693145691sdhskwi1v8" file="text.html"/>
+   </recordtable>
+   <node crypt="" icon="" id="1521314253z2ua0whw7p" name="ремонт флешек">
+    <recordtable>
+     <record id="15213134743ku3lw5e48" name="проверка флешки H2testw v1.4" author="" url="http://www.usbdev.ru/files/h2testw/" tags="проверка флешки,ремонт флешек" ctime="20180317221739" dir="1521313474fjbollrjtc" file="text.html"/>
+     <record id="1521313671ear1739jdw" name="Инструкция по ремонту флешек CBM2098 в Chipsbank UMPTool" author="" url="http://www.usbdev.ru/articles/a_chipsbank/cbm2098umptool-repair/" tags="ремонт флешек" ctime="20180317221746" dir="1521313671iwpcz1dyhd" file="text.html"/>
+     <record id="1521314232mi7ikrbf36" name="Восстановление флэшки с контроллером фирмы Chipsbank" author="" url="https://blog.foxylab.com/vosstanovlenie-fleshki-s-kontrollerom-firmy-chipsbank/" tags="ремонт флешек" ctime="20180317221748" dir="1521314232z50vhy45yz" file="text.html"/>
+     <record id="1521315258ak81c29hc0" name="Chipsbank Technologies Co. Ltd" author="" url="http://repusb.cubava.cu/?page_id=353" tags="ремонт флешек" ctime="20180317223418" dir="1521315258k4f5drornp" file="text.html"/>
+     <record id="15217448645ypyiiwllw" name="USB Flash Drive. Технические вопросы и ремонт. Часть 2 " author="" url="http://forum.ru-board.com/topic.cgi?forum=84&amp;limit=1&amp;m=1&amp;start=2&amp;topic=3941" tags="ремонт флешек" ctime="20180322215424" dir="1521744864b71tt3yy8o" file="text.html"/>
+     <record id="15220560167ey4ro3j52" name="Как проверить флешку и MicroSD карту на ошибки и протестировать на работоспособность? Программа для проверки и тестирования флешек и SD карт: как скачать?" author="" url="http://mobilkoy.ru/kak-proverit-fleshku-i-microsd-kartu-na-oshibki-i-protestirovat-na-rabotosposobnost-programma-dlya-proverki-i-testirovaniya-fleshek-i-sd-kart-kak-skachat" tags="ремонт флешек" ctime="20180326122016" dir="1522056016pum0pc14ul" file="text.html"/>
+     <record id="1528558766ne3lcfa8pd" name="SMI MPTool SM32X \ SM34X [SMI Mass Production Tool]" author="" url="http://www.usbdev.ru/files/smi/smimptool/" tags="" ctime="20180609183926" dir="1528558766ckhemr67dh" file="text.html"/>
+     <record id="1528560956bsuwhm4q2q" name="SMI MPTool – краткая инструкция по ремонту флешек" author="" url="http://www.usbdev.ru/articles/a_smi/smimptool-repair/" tags="" ctime="20180609191556" dir="1528560956e9cls0glzv" file="text.html"/>
+     <record id="15285610034tk7c4h8qd" name="H2testw v1.4" author="" url="http://www.usbdev.ru/files/h2testw/" tags="" ctime="20180609191643" dir="1528561003uhkz0lrkic" file="text.html"/>
+     <record id="1528561107xph4xaj845" name="Как отличить подделку от оригинальной флешки" author="" url="http://www.usbdev.ru/articles/fake-detect/" tags="" ctime="20180609191827" dir="1528561107bh2gk7e8fd" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Gnome/color_gnome_2_folder-drag-accept.svg" id="1545837981f0p3o9tw95" name="backup">
+    <recordtable>
+     <record id="1545838008pn4f3sef2n" name="WinRAR: настройка автоматического резервного копирования" author="" url="https://alpinefile.ru/winrar-auto-backup-settings.html" tags="WinRAR, backup, бекап" ctime="20181226182648" dir="1545838008npxd92chb1" file="text.html"/>
+     <record id="16139294919rjzsr6c4o" name="Резервное копирование данных в домашних условиях" author="Lotto74" url="https://m.habr.com/ru/post/538938/" tags="Резервное копирование,backup" ctime="20210221204451" dir="1613929491ik019dzjpr" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" icon="/Swift/color_swift_Linkedin.svg" id="156443010875gycpqzpy" name="Windows">
+    <recordtable>
+     <record id="1552768299a3xjidpwv3" name="Переносим папку загрузки обновлений Windows 10 на другой диск." author="" url="https://vk.com/@stupid.lamer-perenosim-papku-zagruzki-obnovlenii-windows-10-na-drugoi-dis" tags="" ctime="20190729225518" dir="1552768299ki5h3w9jrn" file="text.html"/>
+     <record id="1570450515nkjzcb1tg8" name="Как вернуть Windows 10 в исходное состояние используя функцию «Загрузка из облака»" author="" url="https://winnote.ru/instructions/757-how-to-reset-windows-10-using-cloud-download.html" tags="Windows" ctime="20191007151515" dir="15704505157saizocfiw" file="text.html"/>
+     <record id="157045056389g3yy6s5l" name="Как включить (отключить) запуск окон с папками в отдельном процессе в Windows" author="" url="https://winnote.ru/instructions/603-kak-vklyuchit-otklyuchit-zapusk-okon-s-papkami-v-otdelnom-processe-v-windows.html" tags="Windows, explorer" ctime="20191007151603" dir="1570450563l0s2wbpkbh" file="text.html"/>
+     <record id="1570450594vi4r40tq4n" name="Как выполнить чистую переустановку Windows 10 используя функцию «Новый запуск»" author="" url="https://winnote.ru/instructions/605-kak-vypolnit-chistuyu-pereustanovku-windows-10-ispolzuya-funkciyu-novyy-zapusk.html" tags="Windows" ctime="20191007151634" dir="1570450594pwv7011xcf" file="text.html"/>
+     <record id="1570450708fibovn8922" name="Как проверить объем зарезервированного хранилища в Windows 10" author="" url="https://winnote.ru/instructions/589-kak-proverit-obem-zarezervirovannogo-hranilischa-v-windows-10.html" tags="Windows" ctime="20191007151828" dir="1570450708gw10g3metf" file="text.html"/>
+     <record id="15704507311wrngojymy" name="Как включить встроенную учетную запись «Администратор» в Windows 10" author="" url="https://winnote.ru/instructions/533-kak-vklyuchit-vstroennuyu-uchetnuyu-zapis-administrator-v-windows-10.html" tags="Windows" ctime="20191007151851" dir="15704507317nb6ee70za" file="text.html"/>
+     <record id="15704518856723kmkxpy" name="Как включить (отключить) функцию Наборы (Sets) в Windows 10" author="" url="https://winnote.ru/instructions/395-kak-vklyuchit-otklyuchit-funkciyu-nabory-sets-v-windows-10.html" tags="Windows" ctime="20191007153805" dir="1570451885zu5az7qjqo" file="text.html"/>
+     <record id="15704520409aplxappc4" name="Как использовать функцию Наборы (Sets) в Windows 10" author="" url="https://winnote.ru/instructions/377-kak-ispolzovat-funkciyu-nabory-sets-v-windows-10.html" tags="Windows" ctime="20191007154040" dir="1570452040n9791yfbn2" file="text.html"/>
+     <record id="1570454991lk5jlh2mwu" name="Включение вкладок (Sets) Windows 10" author="" url="https://tech-geek.ru/enable-disable-tabs-windows-10-registry/" tags="Windows" ctime="20191007162951" dir="1570454991oc98wwhkly" file="text.html"/>
+     <record id="1570455447o1hz2f2zxf" name="Как перейти на «Skip Ahead» сборки Windows 10" author="" url="https://www.comss.ru/page.php?id=4291" tags="" ctime="20191007163727" dir="1570455447cpdxjqao32" file="text.html"/>
+     <record id="1571584340dg0p7ke0m3" name="Зависает проводник на Windows 10 x64 " author="" url="https://answers.microsoft.com/ru-ru/windows/forum/all/%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B0%D0%B5%D1%82/8681a796-f2ac-4f3a-aa58-87f899149446" tags="" ctime="20191020181220" dir="1571584340oyyn74a5jd" file="text.html"/>
+     <record id="1596165453160fxtf2o8" name="Как сделать так, чтобы меню Пуск Windows 10 выглядело одинаково во всех учётных записей. " author="" url="https://m.info-mage.ru/post.aspx?id=2595" tags="StartMenu, Windows, Меню пуск" ctime="20200731061733" dir="1596165453cxsl3b5cay" file="text.html"/>
+     <record id="1596165566iriq09ne08" name="Как перенести настройки меню Пуск Windows 10 на новый компьютер " author="" url="https://windows-school.ru/blog/kak_perenesti_nastrojki_menju/2019-03-22-330" tags="StartMenu, Windows, Меню пуск" ctime="20200731061926" dir="1596165566gtlof65dz7" file="text.html"/>
+     <record id="1600744772ia59dq1df6" name="Простой способ выключать и перезагружать компьютер, не заходя в Пуск" author="" url="https://zen.yandex.ru/media/fotoblog/prostoi-sposob-bystro-vykliuchat-i-perezagrujat-kompiuter-ne-zahodia-v-pusk-5efcd94a0857e9664083e329" tags="shutdown, restart" ctime="20200922061932" dir="1600744772z1aslgp99y" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" icon="" id="1483620903ulltd76okr" name="Поисковые системы">
+   <recordtable>
+    <record id="1483620957t3ei23i338" name="Как искать в Яндексе эффективно" author="" url="http://www.kakprosto.ru/kak-7392-kak-iskat-v-yandekse-effektivno" tags="" ctime="20170105155557" dir="14836209572p2qjykm9u" file="text.html"/>
+    <record id="1483621088v9n7w2esrp" name="9 СПОСОБОВ ИСКАТЬ ИНФОРМАЦИЮ В ЯНДЕКСЕ, О КОТОРЫХ НЕ ЗНАЮТ 96% ПОЛЬЗОВАТЕЛЕЙ" author="" url="http://sekretwomen.mirtesen.ru/blog/43604380536/9-sposobov-iskat-informatsiyu-v-YAndekse,-o-kotoryih-ne-znayut-9" tags="" ctime="20170105155808" dir="1483621088u6cfnkhjse" file="text.html"/>
+    <record id="1483621328toriqlgve0" name="Как искать в Яндексе и Google правильно - открываем некоторые секреты!" author="" url="https://pomogaemkompu.temaretik.com/778264203296246025/kak-iskat-v-yandekse-i-google-pravilno-otkryvaem-nekotorye-sekrety/" tags="" ctime="20170105160208" dir="1483621328wgo0nx5gt6" file="text.html"/>
+    <record id="1483621447dg0eyz62on" name="Как искать в Яндексе" author="" url="http://youpk.ru/kak-iskat-v-yandekse/" tags="" ctime="20170105160407" dir="1483621447l7bpu5vkbp" file="text.html"/>
+    <record id="14836215185uaqw11sex" name="Как искать в Google" author="" url="http://youpk.ru/kak-iskat-v-google/" tags="" ctime="20170105160518" dir="1483621518namhh8zngo" file="text.html"/>
+    <record id="15447265953xu320y9k7" name="Изучаем скрытые возможности Google Поиска, о которых вы наверняка не знали" author="" url="https://vk.com/@windowsblog-izuchaem-skrytye-vozmozhnosti-google-poiska-o-kotoryh-vy-nav" tags="" ctime="20190729231712" dir="1544726595wuyuy7s97b" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" icon="" id="1514657968fe8zeb2k0z" name="Script">
+   <recordtable>
+    <record id="151465789017zq951mbv" name="Рецепты WMI: работа с реестром Windows" author="" url="http://www.script-coding.com/WMI_StdRegProv.html" tags="реестр,Windows" ctime="20171230211934" dir="151465789078fjrqbq3f" file="text.html"/>
+    <record id="15146579946xrfz67e03" name="Разработка скриптов" author="" url="http://www.script-coding.com/index.html" tags="" ctime="20171230211954" dir="1514657994157x4v127c" file="text.html"/>
+    <record id="1514389382fd0u3ldqh0" name="Файлы для скачивания" author="" url="http://www.script-coding.com/filez.html" tags="" ctime="20171230212024" dir="1514389382ec1iebkonf" file="text.html"/>
+    <record id="1514658515xwawgdfbcp" name="[VB6] Рассчет хеша MD5" author="" url="https://safezone.cc/threads/vb6-rasschet-xesha-md5.24065/" tags="" ctime="20171230212835" dir="151465851599d5flhigz" file="text.html"/>
+    <record id="1514658881pp0n8t7f3c" name="[VB6][WMI] Реестр - Как получить перечень подразделов" author="" url="https://safezone.cc/threads/vb6-wmi-reestr-kak-poluchit-perechen-podrazdelov.24056/" tags="Реестр" ctime="20171230213441" dir="1514658881mz90n4m5do" file="text.html"/>
+    <record id="1514658947zr3ziy6wtu" name="[VB6][WMI] Реестр - Как получить перечень параметров" author="" url="https://safezone.cc/threads/vb6-wmi-reestr-kak-poluchit-perechen-parametrov.24055/" tags="Реестр" ctime="20171230213547" dir="15146589474o1ot4xs3t" file="text.html"/>
+    <record id="1514659296qni42k7rdg" name="[VBScript] Отправка файла на FTP через контекстное меню ++ копирование ссылки в буфер обмена" author="" url="https://safezone.cc/threads/vbscript-otpravka-fajla-na-ftp-cherez-kontekstnoe-menju-kopirovanie-ssylki-v-bufer-obmena.22877/" tags="ftp" ctime="20171230214136" dir="1514659296byl6h9somz" file="text.html">
+     <files>
+      <file id="15146593423kec9zn9lb" fileName="FTP_and_ClipBoard.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514661375qye3pw576u" name="Получение пути к программе, асоциированной с расширением имени файла" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230221615" dir="1514661375ybajfqyfkr" file="text.html">
+     <files>
+      <file id="1514661385pvtiub0rkh" fileName="GetAssocTool.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514661494vayeimjbo3" name="Смена владельца и прав на папку и ее содержимое, в которой запущен батник (Full Access &lt;-&gt; Read Only)" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230221814" dir="151466149446577210tj" file="text.html">
+     <files>
+      <file id="1514661600d464n7pzyf" fileName="Access.zip" type="file"/>
+      <file id="1514661624bevgbg5qrt" fileName="icacls.exe - XP - Server 2003.zip" type="file"/>
+      <file id="151466162411b1sh6ge9" fileName="icacls.exe - Vista - Windows 7.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514661717ig4grq4h8w" name="Включение макросов в Microsoft Office 2003 - 2013" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222157" dir="1514661717fltgnkxuyx" file="text.html">
+     <files>
+      <file id="15146617236lzg168zen" fileName="Macros_on_off_2000_2003_2007_2010_2013.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514661832swiux2s8ys" name="Блокировка настроек Internet Explorer" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222352" dir="1514661832ycqbrhrcqd" file="text.html"/>
+    <record id="15146619228h2cikng0a" name="Подсчет частоты символов в бинарном файле (макрос Excel)" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222522" dir="1514661922ija2e3m3p8" file="text.html">
+     <files>
+      <file id="15146620568aiv6ent9e" fileName="Частотный анализ2.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514662130ohnykgqo17" name="Перерегистрация библиотек Internet Explorer в случае возникновения проблем невирусного характера." author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222850" dir="1514662130fyepnxh7yi" file="text.html">
+     <files>
+      <file id="1514662136krc90hbvqg" fileName="ie-rereg.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514731508vqk2ry57o9" name="Работа с FTP из VBA (без использования WinAPI)" author="" url="http://excelvba.ru/tools/FTP" tags="FTP" ctime="20171231174508" dir="1514731508nk3ga0l4hs" file="text.html">
+     <files>
+      <file id="15147315607nvfbx3awp" fileName="ftp_new_version_WinAPI.xlsb" type="file"/>
+      <file id="1514731560h71r7wf7o0" fileName="FTP_0.xls" type="file"/>
+     </files>
+    </record>
+    <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190729225158" dir="1537648909hdznqnda16" file="text.html"/>
+    <record id="1514661089e717v9gr1u" name="Блокировка / Разблокировка папок и файлов с помощью установки прав" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="Lock, Unlock" ctime="20190729233628" dir="151466108978vxsq7jdp" file="text.html">
+     <files>
+      <file id="1514661094kw5d3ldyzs" fileName="Locker NTFS.zip" type="file"/>
+     </files>
+    </record>
+    <record id="15145771060us02ljv5r" name="Документация AutoIt" author="" url="http://autoit-script.ru/autoit3_docs/" tags="AutoIt, автоматизация" ctime="20190730221340" dir="151457710612p6kctxiw" file="text.html"/>
+    <record id="151457806067sfexfb4h" name="PowerShell​" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="PowerShel" ctime="20190730221348" dir="15145780608zd4il1nsb" file="text.html">
+     <files>
+      <file id="1514578188y3sz6mapcy" fileName="ntcmds(RU).zip" type="file"/>
+      <file id="1514578188nlgby2wujn" fileName="Справочник по параметрам командной строки.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514577990y6h1xbt8s1" name="Первые шаги для пауэршельшиков" author="" url="https://habrahabr.ru/post/113913/" tags="powershell, .NET, скрипт, шелл" ctime="20190730221352" dir="1514577990xeoi9bmw45" file="text.html"/>
+    <record id="15145766920d2ajibmja" name="AutoIt" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="AutoIt, автоматизация" ctime="20190730221409" dir="1514576692jeh479qpno" file="text.html">
+     <files>
+      <file id="1514576980p4458b6o6k" fileName="ScriptWriter.zip" type="file"/>
+      <file id="1514576980dtmngdigwp" fileName="AutoItMacroGenerator.zip" type="file"/>
+      <file id="1514576980t7dv6g3m0x" fileName="Valery Ivanov_official_AutoIT_help_RU_v3.0.102.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514661176wa4m0e5ddb" name="Определение:версии, разрядности, сборки, семейства операционной системы, разрядности среды, из которой запущен Batch" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20190730221429" dir="1514661176po3m6njzc1" file="text.html">
+     <files>
+      <file id="1514661216sa29dvb5q7" fileName="SysVersion.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1517138794iw5h9bnapa" name="Бесплатная электронная библиотека" author="" url="http://housecomputer.ru/" tags="" ctime="20190730221430" dir="1517138794sk4o2p90uh" file="text.html"/>
+    <record id="1481864273pjqvch93q8" name="Пакетные (batch, bat) файлы " author="" url="http://www.windowsfaq.ru/content/category/3/7/45/" tags="bat" ctime="20190730221430" dir="14818642736niatzqo7l" file="text.html"/>
+    <record id="1481864273835vc1kapd" name="Скрипты для автоматизации рутинных операций " author="" url="http://www.windowsfaq.ru/content/category/3/25/70/" tags="windows, скрипт, bat" ctime="20190730221430" dir="14818642739t43ekn5bb" file="text.html"/>
+    <record id="1481864273uy8u20hbi4" name="Как в bat-файле создать паузу перед выполнением следующей команды? - WindowsFAQ.ru" author="" url="http://www.windowsfaq.ru/content/view/730/45/" tags="windows, скрипт, bat" ctime="20190730221430" dir="1481864273yglmwoedm6" file="text.html"/>
+    <record id="1514388906r409ircxw2" name="Nautilus Scriptilius" author="" url="http://www.script-coding.com/NautilusScript.html" tags="bash" ctime="20190730221442" dir="1514388906wn8vh29skw" file="text.html"/>
+    <record id="1514388928vf58b3mmiy" name="Дзен консоли v 1.7" author="" url="http://www.script-coding.com/Dzen_1_7.html" tags="bash" ctime="20190730221442" dir="1514388928n5ouowo6ai" file="text.html"/>
+    <record id="1514574117j44ot9vtgy" name="Справка по BAT командам. 23-11-2013" author="" url="https://safezone.cc/resources/spravka-po-bat-komandam.60/" tags="батник, bat, bash" ctime="20190730221442" dir="1514574117g32irmxlgl" file="text.html">
+     <files>
+      <file id="15145741299jdgllov1b" fileName="CMDEXE_HELP.RAR" type="file"/>
+     </files>
+    </record>
+    <record id="1514576097f9p0pj8m8g" name="Bat файл для поиска по дате в имени и сохранения файлов" author="" url="https://safezone.cc/threads/bat-fajl-dlja-poiska-po-date-v-imeni-i-soxranenija-fajlov.29433/" tags="сортировка фото, bat" ctime="20190730221442" dir="1514576097gh4fj62eqf" file="text.html"/>
+    <record id="1514576314s074r74ld6" name="Литература по батникам" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="" ctime="20190730221444" dir="1514576314opr88i2tnl" file="text.html">
+     <files>
+      <file id="1514576323q1sn97k8od" fileName="Саитов Г. comstroka.CHM.zip" type="file"/>
+     </files>
+    </record>
+    <record id="15146594932m0ue5cn8j" name="Полезные скрипты CMD/BAT" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/#post-171692" tags="" ctime="20190730221444" dir="1514659493kpmua33c6d" file="text.html"/>
+    <record id="151713873510z8xw6fe8" name="Все команды Windows одним списком" author="" url="http://housecomputer.ru/os/windows/all_windows_commands.html" tags="Windows" ctime="20190730221451" dir="1517138735mmlaj3kvwb" file="text.html"/>
+    <record id="15146606900x1001rjnt" name="Поиск альтернативных файловых потоков, которые занимают слишком много места на диске" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="WinDirStat, size" ctime="20190731152733" dir="1514660690y3vexo54wx" file="text.html">
+     <files>
+      <file id="1514660695h4dy9b925t" fileName="ScanStreams.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1596291649cj6b54180l" name="VBScript учебник" author="" url="https://www.w3bai.com/ru/asp/vbscript_default.html" tags="VBScript" ctime="20200801172049" dir="1596291649tj94x349cf" file="text.html"/>
+    <record id="1612978625kblxnm7at8" name="Объект WshShell " author="" url="http://www.script-coding.com/WSH/WshShell.html#3.6" tags="Shell" ctime="20210210203925" dir="1612978625atbb0w7yeh" file="text.html"/>
+    <record id="1613928489q3fermh364" name="Оболочка Bash — шпаргалка для начинающих" author="Kseniya Sazonova" url="https://tproger.ru/translations/bash-cheatsheet/" tags="bash" ctime="20210221202809" dir="1613928489r1xz50r484" file="text.html"/>
+    <record id="161392918461iy9uzzt5" name="Основы BASH. Часть 1 " author="" url="https://habr.com/ru/post/47163/" tags="bash" ctime="20210221203944" dir="1613929184rh8uxhpw87" file="text.html"/>
+    <record id="1613929233makmn2nzh7" name="Основы BASH. Часть 2 " author="" url="https://habr.com/ru/post/52871/" tags="bash" ctime="20210221204033" dir="1613929233csf1h45852" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" icon="" id="1514658332h6sn4rnf31" name="Win32API">
+   <recordtable>
+    <record id="1514658348elavmcdz3c" name="Win32API_First_Steps.zip" author="" url="http://www.script-coding.com/filez.html" tags="Win32API" ctime="20171230212548" dir="1514658348b7m9mrufut" file="text.html">
+     <files>
+      <file id="1514658354vet44gy439" fileName="Win32API_First_Steps.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1514664126ywbmnveijx" name="Различие в вызовах функций WinAPI в зависимости от версий Windows и Office" author="" url="http://excelvba.ru/articles/WinAPI" tags="WinAPI" ctime="20171230230206" dir="1514664126b0xaomr550" file="text.html"/>
+    <record id="15147299654tifr76aso" name="'==================== Функции WinAPI " author="" url="http://excelvba.ru/category/WinAPI" tags="WinAPI" ctime="20171231171925" dir="1514729965mh54b0bqth" file="text.html"/>
+    <record id="15230028715tx7yr6oa7" name="VBA Использование Win32 API" author="" url="http://www.mini-soft.ru/document/elektronnyy-uchebnik-po-vba-excel-17" tags="VBA Win32 API" ctime="20180406112111" dir="1523002871w5ppluzh1w" file="text.html"/>
+    <record id="1513051559auq7alekzr" name="Win32 API в VBA" author="" url="http://www.excel-team.ru/win32api_vba.php" tags="Win32, API, VBA" ctime="20190731230807" dir="1513051559ya3jovjkhk" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" icon="" id="1521833821r21uasdpnd" name="VB">
+   <recordtable>
+    <record id="1521833840tbx9xkrqoz" name="Работа с дисками в VB .NET" author="" url="http://pamirych.ru/%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%b4%d0%b8%d1%81%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323223720" dir="1521833840q509f3bcmw" file="text.html"/>
+    <record id="1521833879c8l9ck61kv" name="Динамическое создание контроллов в VB .NET" author="" url="http://pamirych.ru/%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d0%bb%d0%be%d0%b2-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323223759" dir="1521833879i95hukkmjd" file="text.html"/>
+    <record id="15218339823vxaaqt1vk" name="Как написать простейший сервис (Службу Windows) на VB .NET" author="" url="http://pamirych.ru/%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b5%d0%b9%d1%88%d0%b8%d0%b9-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81-%d1%81%d0%bb%d1%83%d0%b6%d0%b1/" tags="VB .NET" ctime="20180323223942" dir="1521833982vacx1s1av0" file="text.html"/>
+    <record id="152183402470idjt2j58" name="Преобразовать массив Int в массив String" author="" url="http://pamirych.ru/category/vb-net-faq/page/3/" tags="" ctime="20180323224024" dir="152183402425k23szbec" file="text.html"/>
+    <record id="1521834105giq650sr5x" name="Как сделать круглый ProgressBar" author="" url="http://pamirych.ru/%d0%ba%d0%b0%d0%ba-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%ba%d1%80%d1%83%d0%b3%d0%bb%d1%8b%d0%b9-progressbar/" tags="" ctime="20180323224145" dir="1521834105pyknzfzmc4" file="text.html">
+     <files>
+      <file id="1521834114ysd05e5fqg" fileName="Демонстрация.rar" type="file"/>
+      <file id="1521834114m5qb14738e" fileName="элемент управления ProgBar (dll).rar" type="file"/>
+     </files>
+    </record>
+    <record id="1521833368efbr9ek4dp" name="Работа с папками в VB .NET" author="" url="http://pamirych.ru/%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%bf%d0%b0%d0%bf%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323231447" dir="15218333684xir4yrzzq" file="text.html"/>
+    <record id="1521833293pdb7a9xsho" name="Работа с датами, временем" author="" url="" tags="VB .NET" ctime="20180323231453" dir="15218332931ge4lhxr8j" file="text.html"/>
+    <record id="1521833006rpvx1j5j4i" name="Определить, содержит ли файл определенный атрибут" author="" url="http://pamirych.ru/%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d1%8c-%d1%81%d0%be%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%82-%d0%bb%d0%b8-%d1%84%d0%b0%d0%b9%d0%bb-%d0%b0%d1%82%d1%80%d0%b8%d0%b1%d1%83%d1%82/" tags="Visual Basic .NET, VB .NET FAQ." ctime="20180323231500" dir="1521833006ev4kcn6vls" file="text.html"/>
+    <record id="1521922070vc8dhal72v" name="Конвертирование форматов изображений" author="" url="http://pamirych.ru/%d0%ba%d0%be%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%be%d0%b2-%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8/" tags="" ctime="20180324230750" dir="15219220707ty7d271tf" file="text.html"/>
+    <record id="15219222642xdhjjysu4" name="Сделать стороннее приложение поверх всех окон" author="" url="http://pamirych.ru/%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d1%81%d1%82%d0%be%d1%80%d0%be%d0%bd%d0%bd%d0%b5%d0%b5-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d1%85-2/" tags="" ctime="20180324231104" dir="15219222641446x94prn" file="text.html"/>
+    <record id="1521922307m74emjnjda" name="Установить форму поверх только родительской" author="" url="http://pamirych.ru/%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d1%8c-%d1%84%d0%be%d1%80%d0%bc%d1%83-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d1%85-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%80%d0%be%d0%b4%d0%b8%d1%82/" tags="" ctime="20180324231147" dir="1521922307qy1swavojl" file="text.html"/>
+    <record id="1521922359sn4utu1ikp" name="Как установить фокус на элемент управления, когда форма загружается в Visual Basic .NET или Visual Basic 2005" author="" url="https://support.microsoft.com/ru-ru/help/822493/how-to-set-the-focus-on-a-control-when-the-form-loads-in-visual-basic" tags="" ctime="20180324231239" dir="15219223595dsdp818wd" file="text.html"/>
+    <record id="1521922415kmr8cf05rf" name="Form.Load Event" author="" url="https://msdn.microsoft.com/en-us/library/system.windows.forms.form.load(vs.71).aspx" tags="" ctime="20180324231335" dir="15219224156r06jz1q66" file="text.html"/>
+    <record id="1521922440h8nsjj3kuz" name="Form.Load Event" author="" url="https://msdn.microsoft.com/en-us/library/system.windows.forms.form.load(v=vs.110).aspx" tags="" ctime="20180324231400" dir="1521922440xvxfrh70wi" file="text.html"/>
+    <record id="15219225343k6dobrayg" name="Метод Control.Focus ()" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.control.focus(v=vs.110).aspx" tags="" ctime="20180324231534" dir="1521922534nycfiup2yw" file="text.html"/>
+    <record id="1521922638lgpdp2ehjx" name="Класс Panel" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.panel(v=vs.110).aspx" tags="" ctime="20180324231718" dir="15219226380i3b6pyjv4" file="text.html"/>
+    <record id="1521922715kfdih49bkv" name="Класс GroupBox" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.groupbox(v=vs.110).aspx" tags="" ctime="20180324231835" dir="1521922715bp2jt1hb0e" file="text.html"/>
+    <record id="152192283632y3w7w8yx" name="Класс ProgressBar" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.progressbar(v=vs.110).aspx" tags="" ctime="20180324232036" dir="15219228369mm0qb9k87" file="text.html"/>
+    <record id="152083119827ixvyhx1b" name="Растянуть элементы на форме Windows Forms" author="" url="http://vscode.ru/articles/rastyanut-elementyi-na-forme-windows-forms.html" tags="VB, Windows Forms" ctime="20180324232154" dir="1520831198phxsqe6gzt" file="text.html"/>
+    <record id="1521085121utcblz0j94" name="Динамическое изменение размеров элементов управления вместе с формой" author="" url="http://www.cyberforum.ru/visual-basic/thread935304-page2.html" tags="vb, resizer, form" ctime="20180324232159" dir="1521085121c40qenr11j" file="text.html">
+     <files>
+      <file id="1521085504pd0s1q4vh0" fileName="t006-a.zip" type="file"/>
+      <file id="1521085504cmsxdven18" fileName="t006-b.zip" type="file"/>
+     </files>
+    </record>
+    <record id="15210873733p62joc7od" name="Управление цветом в Visual Basic 6.0" author="" url="http://sitesaid.ru/VB/cvet%20vb.html" tags="VB, Color, Цвет" ctime="20180324232213" dir="1521087373pej4pakncc" file="text.html"/>
+    <record id="1521033378yv0pj2vfje" name=" Задать шрифт, размер шрифта и цвет в TextBox" author="" url="http://www.cyberforum.ru/vb-net/thread1920285.html" tags="vb,tb,Textbox" ctime="20180324232250" dir="15210333783pv9cfa2me" file="text.html"/>
+    <record id="15208311338zzw0upc0l" name="Отображение двумерного массива на форме" author="" url="http://studassistent.ru/vb-net/otobrazhenie-dvumernogo-massiva-na-forme-visual-basic-net" tags="VB, DataGridView" ctime="20180324232254" dir="1520831133c5buofumyg" file="text.html"/>
+    <record id="1521097535oefhvwhdch" name="Что такое ScaleHeight?" author="" url="http://www.cyberforum.ru/visual-basic/thread464798.html" tags="vb, Scale" ctime="20180324232258" dir="1521097535doywi1n0jb" file="text.html"/>
+    <record id="1521693921a18mbqcpw9" name="Как придать цвет форме через код по заданным параметрам RGB " author="" url="http://www.cyberforum.ru/vb-net/thread283932.html" tags="RGB,цвет,VB" ctime="20180324232319" dir="1521693921wwfoz4o6tr" file="text.html"/>
+    <record id="1521694066hgzqf1uwtn" name="Метод Information.RGB (Int32, Int32, Int32)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.information.rgb(v=vs.110).aspx" tags="RGB, цвет, VB" ctime="20180324232322" dir="15216940663f1j9c462d" file="text.html"/>
+    <record id="1521923039p3wfkubk6a" name="Переключение между вкладками – приложение на Visual Studio" author="" url="http://vscode.ru/articles/switch-tabs-visual-studio.html" tags="" ctime="20180324232359" dir="1521923039euau4zcver" file="text.html"/>
+    <record id="1521923271cyofknapp2" name="Сжатие, изменение размеров изображений - VB" author="" url="http://studassistent.ru/visual-basic/szhatie-izmenenie-razmerov-izobrazheniy-vb" tags="" ctime="20180324232751" dir="1521923271sbfqr60aay" file="text.html"/>
+    <record id="15219235801mfwrd41uu" name="Что такое ScaleHeight? - VB" author="" url="http://www.cyberforum.ru/visual-basic/thread464798.html" tags="ScaleHeight" ctime="20180324233300" dir="1521923580a2f4uclks6" file="text.html"/>
+    <record id="15219237577p95hfsei6" name="Руководство по Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/dotnet/visual-basic/" tags="" ctime="20180324233557" dir="1521923757s0lr0xi7sq" file="text.html"/>
+    <record id="1521924082cinpu14pkj" name="Словарь Dictionary(Of T, V)" author="" url="https://metanit.com/visualbasic/tutorial/4.7.php" tags="vb,Dictionary" ctime="20180324234122" dir="1521924082rt0i5vyoud" file="text.html"/>
+    <record id="1521924273909iexth6e" name=" VB.NET Tutorial and source code" author="" url="http://vb.net-informations.com/" tags="" ctime="20180324234433" dir="15219242736klz9oxwlj" file="text.html"/>
+    <record id="1521924553e78mdsfl73" name="Чтение ini-file в Dictionary - Visual Basic .NET" author="" url="http://www.cyberforum.ru/vb-net/thread1149100.html" tags="" ctime="20180324234913" dir="15219245536myokl2zys" file="text.html">
+     <files>
+      <file id="15219249476wcos0gbst" fileName="WindowsApplication8.7z" type="file"/>
+      <file id="1521924947fy2cst0n4h" fileName="INIEditor.zip" type="file"/>
+     </files>
+    </record>
+    <record id="1521924995oazxzrsf4s" name="Метод Dictionary(Of TKey, TValue).Add (TKey, TValue)" author="" url="https://msdn.microsoft.com/ru-ru/library/k7z0zy8k(v=vs.110).aspx" tags="" ctime="20180324235635" dir="15219249957wgk34objx" file="text.html"/>
+    <record id="1521925725iesew2ra8k" name="Метод Information.RGB (Int32, Int32, Int32)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.information.rgb(v=vs.110).aspx" tags="Цвет, Color, RGB" ctime="20180325000845" dir="15219257254r82g9tett" file="text.html"/>
+    <record id="1521926020o45s3706xk" name="Практическое руководство. Запись текста в файл" author="" url="https://docs.microsoft.com/ru-ru/dotnet/standard/io/how-to-write-text-to-a-file" tags="" ctime="20180325001340" dir="1521926020abxj1g09sz" file="text.html"/>
+    <record id="1521926135gz8hk5mmx2" name="Метод FileSystem.FileExists (String)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.fileio.filesystem.fileexists(v=vs.120).aspx?cs-save-lang=1&amp;cs-lang=vb#code-snippet-1" tags="FileExists, VB" ctime="20180325001535" dir="1521926135cog38opvuy" file="text.html"/>
+    <record id="1521926568bqhkrx4zdg" name="Как проиграть MP3" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002248" dir="15219265681psr5o4pti" file="text.html"/>
+    <record id="152192662202rpvmtmm4" name="Обработка сочетания горячих клавиш" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002342" dir="1521926622yv8v9ou8oz" file="text.html"/>
+    <record id="1521926667rpsrxxuyrw" name="Подключение к Excel как к БД" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002427" dir="15219266676ztmhofe7i" file="text.html"/>
+    <record id="1521926827ky1l3eddb5" name="Перевести ПК в режим сна" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002707" dir="1521926827w5dogu5ob4" file="text.html"/>
+    <record id="1521926863mdpq68bpna" name="Получить Double-значения из строки" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="" ctime="20180325002743" dir="15219268632blgc131nl" file="text.html"/>
+    <record id="1521926930aaetfi15ck" name="Поиск файлов на диске" author="" url="http://pamirych.ru/category/vb-net-faq/page/6/" tags="" ctime="20180325002850" dir="1521926930fgvgljswmv" file="text.html"/>
+    <record id="1521926971cymx8ygdgl" name="Записать картинку в БД" author="" url="http://pamirych.ru/category/vb-net-faq/page/6/" tags="" ctime="20180325002931" dir="1521926971qj7azzph3a" file="text.html"/>
+    <record id="1523186406xf8qcp708o" name="Получить имя компьютера по его IP-адресу" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%b8%d0%bc%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d1%8c%d1%8e%d1%82%d0%b5%d1%80%d0%b0-%d0%bf%d0%be-%d0%b5%d0%b3%d0%be-ip-%d0%b0%d0%b4%d1%80%d0%b5%d1%81%d1%83/" tags="vb, ip" ctime="20180408142006" dir="1523186406l5cd1fix7p" file="text.html"/>
+    <record id="15231865053fp9e6loom" name="Сделать кнопку формы «Закрыть» (крестик) неактивной" author="" url="http://pamirych.ru/%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d1%83-%d1%84%d0%be%d1%80%d0%bc%d1%8b-%d0%b7%d0%b0%d0%ba%d1%80%d1%8b%d1%82%d1%8c-%d0%ba%d1%80%d0%b5%d1%81%d1%82%d0%b8/" tags="VB, form" ctime="20180408142145" dir="1523186505p87cllb87m" file="text.html"/>
+    <record id="15231867915vaanx23oa" name="Получить имена переменных и их значение" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b0-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b8-%d0%b8%d1%85-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd/" tags="vb, переменные" ctime="20180408142631" dir="1523186791imm1njeibi" file="text.html"/>
+    <record id="15231870405t5s5mjxbu" name="Сжатие картинок — групповая обработка (2)" author="" url="http://pamirych.ru/%d1%81%d0%b6%d0%b0%d1%82%d0%b8%d0%b5-%d0%ba%d0%b0%d1%80%d1%82%d0%b8%d0%bd%d0%be%d0%ba-%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-2/" tags="Сжатие картинок" ctime="20180408143040" dir="1523187040ux3xu9dfro" file="text.html">
+     <files>
+      <file id="1523187264879z1javam" fileName="Change-Bitmap-Size.rar" type="file"/>
+     </files>
+    </record>
+    <record id="1523187493n1rbg91pcw" name="Вывести слова, начинающиеся с большой буквы и заканчивающиеся гласной" author="" url="http://pamirych.ru/%d1%81%d0%bb%d0%be%d0%b2%d0%b0-%d1%81-%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%be%d0%b9-%d0%b1%d1%83%d0%ba%d0%b2%d1%8b/" tags="Vb, строки" ctime="20180408143813" dir="1523187493rd095eoip1" file="text.html"/>
+    <record id="1523815648wjbnd6zukk" name="Получение всех однотипных компонентов формы" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%81%d0%b5%d1%85-%d0%be%d0%b4%d0%bd%d0%be%d1%82%d0%b8%d0%bf%d0%bd%d1%8b%d1%85-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82/" tags="form, vb" ctime="20180415210728" dir="1523815648vxoekseqxu" file="text.html"/>
+    <record id="152381571091yyns43vg" name="Удалить пустые строки в конце файла" author="" url="http://pamirych.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b8%d1%82%d1%8c-%d0%bf%d1%83%d1%81%d1%82%d1%8b%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8-%d0%b2-%d0%ba%d0%be%d0%bd%d1%86%d0%b5-%d1%84%d0%b0%d0%b9%d0%bb%d0%b0/" tags="vb" ctime="20180415210830" dir="1523815710sxzy3llvr2" file="text.html"/>
+    <record id="15273370785cz3b52rec" name="Работа с процессами в VB.NET" author="" url="http://pamirych.ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%D0%BC%D0%B8-%D0%B2-vb-net/" tags="" ctime="20180526151758" dir="1527337078ac9hrntjqk" file="text.html"/>
+    <record id="1521279133k8s4isbggx" name="Развернуть окно стороннего приложения" author="" url="http://pamirych.ru/category/vb-net-faq/" tags="" ctime="20190729161957" dir="152127913328vn4939ku" file="text.html"/>
+    <record id="1583087753pbe026a05b" name="как привязать размер текста в textbox к размеру окна" author="" url="https://social.msdn.microsoft.com/Forums/ru-RU/04d1bc5a-9fac-4052-bb34-8e8e457b1f1d/108210721082-108710881080107411031079107210901100?forum=miscellaneousru" tags="Font.Size" ctime="20200301213553" dir="1583087753lrqc24sk0g" file="text.html"/>
+    <record id="1583122142t71cfn9zxu" name="Как скрыть/показать панель задач и ярлыки на рабочем столе " author="" url="http://www.cyberforum.ru/vb-net/thread450625.html" tags="DPI, разрешение экрана" ctime="20200302070902" dir="158312214246zajiqdm1" file="text.html"/>
+    <record id="1583122508fkf1qj5ld1" name="Как можно определить сколько dpi поставлено на мониторе? " author="" url="http://www.vbnet.ru/forum/show.aspx?id=141378" tags="DPI, разрешение экрана" ctime="20200302071508" dir="1583122508cxu04rttm4" file="text.html"/>
+    <record id="1583122647a024kkdb9r" name="Получить общие мониторы и разрешение экрана" author="" url="https://riptutorial.com/ru/vba/example/31840/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0" tags="DPI, разрешение экрана" ctime="20200302071727" dir="15831226474ff4kxwqdk" file="text.html"/>
+    <record id="15831232995alhanhe1h" name="Пиксели, поинты, твипы и DPI!" author="" url="https://www.cyberforum.ru/vba/thread630106.html" tags="DPI, разрешение экрана" ctime="20200302072819" dir="1583123299g9wbzwehho" file="text.html"/>
+    <record id="15831466110jrg7m1jir" name="Как определить разрешение экрана" author="" url="http://visualprogs.ru/sample/121.html" tags="DPI, разрешение экрана" ctime="20200302135651" dir="1583146611a8wj0dg4my" file="text.html"/>
+    <record id="1583146998x5gtykyk8v" name="Как программно узнать разрешение экрана " author="" url="https://www.cyberforum.ru/vba/thread428630.html" tags="DPI, разрешение экрана" ctime="20200302140318" dir="1583146998d6iylw6j9x" file="text.html"/>
+    <record id="16396697967haxx2vklf" name="Как получить элемент управления, используя его имя в Visual Basic .NET?" author="" url="https://question-it.com/questions/1536510/kak-poluchit-element-upravlenija-ispolzuja-ego-imja-v-visual-basic-net" tags="VB.NET, Controls" ctime="20211216184956" dir="16396697969eivrnfnw8" file="text.html"/>
+    <record id="1640149156iv4recenyo" name="Как измерить время выполнения фрагмента программы?" author="" url="https://www.cyberforum.ru/vb-net/thread1160580.html" tags="Timer, VB .NET" ctime="20211222075916" dir="1640149156z4dq45zza7" file="text.html"/>
+   </recordtable>
+   <node crypt="" icon="" id="15219230886efojlpbnt" name="Формы">
+    <recordtable>
+     <record id="1521926767ubh2x0z9ky" name="Подогнать текст под размер Label, сократив его точками" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180408141725" dir="152192676757lp7hqmu9" file="text.html"/>
+     <record id="15231880011z6iemuc7l" name="Форматирование цвета и шрифта ListBox и ComboBox" author="" url="" tags="vb,ListBox, ComboBox" ctime="20180408144709" dir="1523188001ppuaed5toc" file="text.html"/>
+    </recordtable>
+    <node crypt="" icon="" id="1523186259uoimqb17tu" name="DataGridView">
+     <recordtable>
+      <record id="15231861699ofkohmxj0" name="Автоподбор высоты строки в DataGridView" author="" url="http://pamirych.ru/%d0%b0%d0%b2%d1%82%d0%be%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80-%d0%b2%d1%8b%d1%81%d0%be%d1%82%d1%8b-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8-%d0%b2-datagridview-2/" tags="VB,DataGridView" ctime="20180408141744" dir="1523186169w8gaa023rs" file="text.html"/>
+      <record id="1520393511qygfrgieqo" name="Сортировка столбца DataGridView по дате - Visual Basic .NET»" author="" url="http://studassistent.ru/vb-net/sortirovka-stolbca-datagridview-po-date-visual-basic-net" tags="datagridview" ctime="20180408141846" dir="1520393511lkbx50pjtn" file="text.html"/>
+      <record id="1520310209wdxm2pslhj" name="Практическое руководство. Настройка шрифтов и цветов в элементе управления DataGridView в Windows Forms" author="" url="https://docs.microsoft.com/ru-ru/dotnet/framework/winforms/controls/how-to-set-font-and-color-styles-in-the-windows-forms-datagridview-control" tags="DataGridView" ctime="20180408141848" dir="15203102091saezw4pu6" file="text.html"/>
+      <record id="1520310342fgqwm6t3pu" name="Стили ячеек элемента управления DataGridView в Windows Forms" author="" url="https://docs.microsoft.com/ru-ru/dotnet/framework/winforms/controls/cell-styles-in-the-windows-forms-datagridview-control" tags="DataGridView" ctime="20180408141850" dir="1520310342s8k4wkh5gk" file="text.html"/>
+      <record id="1520329478h0lvdvw5nn" name="Выровнять по центру" author="" url="http://www.cyberforum.ru/vb-net/thread1013343.html" tags="DataGridView" ctime="20180408141852" dir="1520329478mgf1fbg9kx" file="text.html"/>
+      <record id="1520393254goua3lcptp" name="DataGridView. Выровнять текст в ячейке" author="" url="http://studassistent.ru/vb-net/datagridview-vyrovnyat-tekst-v-yacheyke-visual-basic-net" tags="DataGridView" ctime="20180408141854" dir="15203932542wzm8f3u28" file="text.html"/>
+      <record id="1520396105ppd9rhjr1n" name="Объект для отображения табличной информации DataGridView. Настройка свойств столбцов в DataGridView" author="" url="https://www.intuit.ru/studies/courses/502/358/lecture/8537" tags="DataGridView" ctime="20180408141857" dir="1520396105s6ipth4a3e" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" icon="" id="1530364271b5u91z9u70" name="Linux">
+   <recordtable>
+    <record id="1530365191761yssk08p" name="Абсолютная и относительная адресация. Команда cd" author="" url="https://younglinux.info/bash/cd.php" tags="Linux, cd, командная строка" ctime="20180630162631" dir="1530365191x58pw54a8l" file="text.html"/>
+    <record id="15303652664ldfgidnt8" name="Как работать в командной строке Linux" author="" url="https://younglinux.info/bash/input.php" tags="Linux, командная строка" ctime="20180630162746" dir="1530365266cbiy82dkcv" file="text.html"/>
+    <record id="1530365335ps04utp7q5" name="Командная оболочка Linux" author="" url="https://younglinux.info/bash/terminal.php" tags="командная строка, Linux" ctime="20180630162855" dir="153036533583frbtqimo" file="text.html"/>
+   </recordtable>
+  </node>
+  <node crypt="" id="1694884880k9h58b0x1s" name="!История">
+   <node crypt="" id="1694884894vx4ew8dir5" name="2023">
+    <node crypt="" id="1694884894hj8de0zjm1" name="Сентябрь">
+     <recordtable>
+      <record id="1694884894vta76yzyty" name="001" ctime="20230916202134" dir="1694884894lfpahk0o7e" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="1694885944mp9mcogzoh" name="@Список">
+   <recordtable>
+    <record id="1694885981kzhmgmnwj4" name="001" ctime="20230916203941" dir="1694885981ooayne87ud" file="text.html"/>
+   </recordtable>
   </node>
   <node crypt="1" icon="UkM1U0lNUAPFYe7VZhJlGd5yncFLzPEi7EtA/zBj4412O13eB4cmSEoGWkuXnEuILnHZmyCaPl3MF4swrp8QN1V5G2ZJmkasypFgErtte2A=" id="1481864377jkls4gce3q" name="UkM1U0lNUAMeWsTcgfrFbDYzzzmHZH/5wXp29i9CP4jqiXqXzZsdk5tAKmP7UeLH">
    <recordtable>
@@ -3719,386 +4098,6 @@
     </node>
    </node>
   </node>
-  <node crypt="" icon="/Gnome/color_gnome_2_computer.svg" id="1481864368od0rjrzens" name="Комп">
-   <recordtable>
-    <record id="1513309014ws4pud7fuv" name="101 комбинация на клавиатуре" author="" url="https://vk.com/wall-81294248_58725" tags="клавиатура, keys, горячие клавиши" ctime="20171215063654" dir="15133090141mwyos49m3" file="text.html"/>
-    <record id="15159275104hcpr70i95" name="Справочник по настройкам BIOS" author="" url="https://ru.gecid.com/mboard/spravoshnik_po_nastroyikam_bios/?s=all" tags="BIOS" ctime="20180114135830" dir="1515927510kllm9yelo8" file="text.html"/>
-    <record id="1515928072znq9htkpg4" name="Как правильно замерять температуру комплектующих" author="" url="https://safezone.cc/threads/kak-pravilno-zamerjat-temperaturu-komplektujuschix.25494/" tags="" ctime="20180114140752" dir="1515928072o4hoe3s923" file="text.html"/>
-    <record id="1517124821a98iycr4am" name="скачивание сайтов" author="" url="http://www.httrack.com/page/2/en/index.html" tags="скачивание сайтов" ctime="20180128103341" dir="15171248210o5va5aeg0" file="text.html"/>
-    <record id="148186427346naxd74to" name="Как открыть общий доступ к папке в Windows(2)" author="" url="http://routerus.com/как-открыть-общий-доступ-к-папке-в-windows-7-8-10/" tags="Общий доступ, Windows, общий доступ, сеть" ctime="20180130070914" dir="14818642731jywg5podj" file="text.html"/>
-    <record id="148186427319afumuzlk" name="общий доступ к папкам и файлам Windows" author="" url="http://itbc.kiev.ua/share-files-windows/" tags="Общий доступ, Windows, общий доступ, сеть" ctime="20180130070914" dir="14818642735auyv4w77b" file="text.html">
-     <files>
-      <file id="14814583069qetmk4hu6" fileName="Как открыть общий доступ к папке Windows 7 и Windows XP.docx" type="file"/>
-     </files>
-    </record>
-    <record id="1481864273polez6djyn" name="Как настроить локальную сеть (общие файлы Android и PC)" author="" url="http://itbc.kiev.ua/wi-fi-local-network/" tags="Общий доступ, Windows, общий доступ, сеть, Android" ctime="20180130070915" dir="1481864273q9qxl37q25" file="text.html"/>
-    <record id="1512379309aotewti1op" name="Запрет программе доступ в Интернет на Windows 7" author="" url="w7seven.ru" tags="Общий доступ" ctime="20180130070915" dir="1512379309mvyllsr9ah" file="text.html"/>
-    <record id="1516949369zixjvu3e3n" name="Настройка удаленного доступа" author="" url="http://fb.ru/article/165713/udalennyiy-rabochiy-stol-windows-kak-vklyuchit-i-nastroit-udalennyiy-rabochiy-stol-windows" tags="Общий доступ, Настройка удаленного доступа, удаленное подключение, Remote Desktop" ctime="20180130070915" dir="1516949369czc6bc8rz5" file="text.html"/>
-    <record id="1481864273ik2go28e2n" name="Как обжать сетевой кабель LAN своими руками" author="" url="http://hobbyits.com/wan-lan-wi-fi/kak-obzhat-setevoj-kabel-lan-svoimi-rukami.html" tags="Windows, витая пара" ctime="20180130071118" dir="1481864273mnoifkzbbv" file="text.html"/>
-    <record id="1484404827cd62yglv3a" name="Windows на флешке" author="" url="http://www.bestfree.ru/soft/file/windows-on-flash-drive.php" tags="Windows" ctime="20180130071118" dir="14844048277zynk4l26h" file="text.html">
-     <files>
-      <file id="1484405386mywh9b6gmb" fileName="Windows на флешке.pdf" type="file"/>
-     </files>
-    </record>
-    <record id="15066826484jx8cnfcqq" name="Как получить права администратора в Windows 7" author="" url="http://fb.ru/article/133942/kak-poluchit-prava-administratora-v-windows-polnyie-prava-administratora-windows-kak-udalit-administratora-windows" tags="Windows" ctime="20180130071118" dir="1506682648xwfigkvmm7" file="text.html"/>
-    <record id="1506683206wyhzrnlqst" name="Как в Windows 7 получить права администратора" author="" url="https://www.kakprosto.ru/kak-115884-kak-v-windows-7-poluchit-prava-administratora" tags="Windows" ctime="20180130071118" dir="1506683206f07tb5b1s4" file="text.html"/>
-    <record id="1511701627blvbo7n06h" name="Как расшифровать &quot;Синий экран смерти" author="" url="https://webhamster.ru/mytetrashare/index/mtb108/13803826093sicy6pa3o" tags="Windows" ctime="20180130071118" dir="1511701627m5gg7r92xa" file="text.html"/>
-    <record id="1511701759nae2auojv2" name="размеры материнских плат и корпусов" author="" url="https://webhamster.ru/mytetrashare/index/mtb106/1372924870fja1yb6mmw" tags="Windows" ctime="20180130071119" dir="1511701759yf61szwehz" file="text.html"/>
-    <record id="1511702799ftaxodx1ji" name="WebDAV для Яндекс.Диск " author="" url="" tags="Windows" ctime="20180130071119" dir="1511702799g5ajxuglrq" file="text.html"/>
-    <record id="1512762083s7ngnh1oqq" name="Как создать загрузочную флешку. Grub4DOS" author="" url="" tags="Windows" ctime="20180130071119" dir="1512762083j7j0jdmyt9" file="text.html"/>
-    <record id="15127621435zeoudas2q" name="Руководство по Grub4dos" author="" url="" tags="Windows" ctime="20180130071120" dir="1512762143fspn8pcrcm" file="text.html"/>
-    <record id="15128556215msik2whbs" name="Как поставить пароль на папку в Windows" author="" url="https://m.vk.com/wall-72378974_3712193" tags="Windows" ctime="20180130071120" dir="1512855621rqwj8ywa1s" file="text.html"/>
-    <record id="1513012869uvrk4v1js3" name="Загрузчик Grub4Dos: как пользоваться?" author="" url="https://www.syl.ru/article/296483/zagruzchik-grub-dos-kak-polzovatsya" tags="Windows, Grub4Dos" ctime="20180130071120" dir="1513012869bcpeeljysw" file="text.html"/>
-    <record id="1513012934nspz970uix" name="Интеграция драйверов usb 3.0 в дистрибутив windows 7" author="" url="" tags="Windows, usb 3" ctime="20180130071120" dir="1513012934e1xrffierr" file="text.html"/>
-    <record id="1514034139ndt1fyj0y8" name="Автоматический вход в Windows" author="" url="https://g-ek.com/avtomaticheskij-vxod-v-windows10-bez-vvoda-parolya" tags="Windows 10,Автоматический вход" ctime="20180130071120" dir="1514034139ap5fonv8tp" file="text.html"/>
-    <record id="1514271954gnqyjjrz4j" name="Настройка почты Gmail в Outlook 2013, 2016" author="" url="https://help.shortcut.ru/hc/ru/articles/206023447?mobile_site=true&amp;page=1#comment_203458958" tags="Windows, Outlook, Gmail" ctime="20180130071121" dir="15142719545bggu1wk9e" file="text.html"/>
-    <record id="1516852427nkfo9qzcgg" name="Сочетания клавиш в Windows" author="" url="https://support.microsoft.com/ru-ru/help/12445/windows-keyboard-shortcuts" tags="windows, горячие клавиши" ctime="20180130071121" dir="1516852427lszph0vsem" file="text.html"/>
-    <record id="14826759534r30fux9o9" name="Статьи по теме &quot;Установка линукс&quot;" author="" url="http://prostolinux.ru/tag/ustanovka-linuks/" tags="Linux" ctime="20180130071422" dir="1482675953sl71enwiuy" file="text.html"/>
-    <record id="14826758406995sj44le" name="Как восстановить GRUB?" author="" url="http://prostolinux.ru/kak-vosstanovit-grub/" tags="Linux, загрузчик, GRUB" ctime="20180130071422" dir="1482675840enqh093y6f" file="text.html"/>
-    <record id="1482675892hiixahftrh" name="Как установить Windows и Linux на одном компьютере?" author="" url="http://prostolinux.ru/kak-ustanovit-windows-i-linux/" tags="Linux" ctime="20180130071422" dir="14826758926cqylyodbl" file="text.html"/>
-    <record id="1482675796y0rgvzwfbt" name="Как автоматически подключить раздел ntfs в Linux" author="" url="http://prostolinux.ru/kak-avtomaticheski-podklyuchit-razdel-ntfs-v-linux/" tags="Linux" ctime="20180130071423" dir="14826757960l03cjzt85" file="text.html"/>
-    <record id="1482676128ufaajbh27g" name="Команды Linux" author="" url="http://prostolinux.ru/komandyi-linux/" tags="Linux" ctime="20180130071423" dir="1482676128aeqc22j59b" file="text.html"/>
-    <record id="14827572770ru924a3t6" name="Что означают папки Linux?" author="" url="http://prostolinux.ru/chto-oznachayut-papki-v-linux/" tags="Linux" ctime="20180130071424" dir="1482757277hw96ipjdne" file="text.html"/>
-    <record id="1482757378e0ul0ur1ce" name="Как очистить Linux?" author="" url="http://prostolinux.ru/kak-pochistit-linux/" tags="Linux" ctime="20180130071424" dir="1482757378s8jg9tojf0" file="text.html"/>
-    <record id="14827574740dw7fhz60g" name="Как усилить сигнал 3G модема?" author="" url="http://prostolinux.ru/kak-usilit-signal-3g-modema/" tags="Linux, 3G" ctime="20180130071424" dir="1482757474trut2uph2i" file="text.html"/>
-    <record id="1482757490gfqa0zvipl" name="Как установить Linux на флешку?" author="" url="http://prostolinux.ru/kak-ustanovit-linux-na-fleshku/" tags="Linux" ctime="20180130071424" dir="148275749077mpcygxun" file="text.html"/>
-    <record id="1482757596lxnpw5tzn6" name="Как сбросить пароль Ubuntu?" author="" url="http://prostolinux.ru/sbrosit-parol-ubuntu/" tags="Linux, Ubuntu" ctime="20180130071424" dir="1482757596sg67mlx0e5" file="text.html"/>
-    <record id="14827576527g38lxvlep" name="Каталоги и диски LInux" author="" url="" tags="Linux" ctime="20180130071424" dir="148275765247nuf2o0i6" file="text.html"/>
-    <record id="1482757728mqo67pbra5" name="Репозитории Linux" author="" url="http://prostolinux.ru/repozitorii/" tags="Linux" ctime="20180130071424" dir="14827577289fbl0gav9g" file="text.html"/>
-    <record id="1482757769pilrlqu21m" name="Основы безопасности в системах Linux" author="" url="http://prostolinux.ru/bezopasnost-linux/" tags="Linux" ctime="20180130071424" dir="1482757769t36hdwiuiu" file="text.html"/>
-    <record id="1482757806z06w84ojz7" name="Как создать загрузочную флешку с Линукс?" author="" url="http://prostolinux.ru/zagruzochnaya-fleshka-s-linux/" tags="Linux, Загрузочная флешка" ctime="20180130071424" dir="14827578066luju3l7ia" file="text.html"/>
-    <record id="1482757841qdck01b3vc" name="Как подключить сетевую папку в Linux?" author="" url="http://prostolinux.ru/podklyuchit-setevuyu-papku/" tags="Linux, сеть" ctime="20180130071425" dir="1482757841hyzanxx02r" file="text.html"/>
-    <record id="14827578780ynhi00h8t" name="Операционная система Linux, чем она лучше?" author="" url="http://prostolinux.ru/operatsionnaya-sistema-linux/" tags="Linux" ctime="20180130071425" dir="1482757878s7tul14ao8" file="text.html"/>
-    <record id="1482757961mq91xa2oui" name="Клавиатурные сочетания Linux" author="" url="http://prostolinux.ru/klaviaturnyie-kombinatsii/" tags="Linux" ctime="20180130071425" dir="1482757961ao2u9dapsc" file="text.html"/>
-    <record id="1482757978bdnc4e6la3" name="Как управлять рабочими столами?" author="" url="http://prostolinux.ru/kak-upravlyat-rabochimi-stolami/" tags="Linux" ctime="20180130071425" dir="14827579788sqnx2ni9e" file="text.html"/>
-    <record id="1482757995n16m23c83k" name="Основные преимущества операционной системы LINUX" author="" url="http://prostolinux.ru/osnovnyie-preimushhestva-operatsionnoy-sistemyi-linux/" tags="Linux" ctime="20180130071425" dir="1482757995km40dl92q7" file="text.html"/>
-    <record id="1484404722nzygvlhx4g" name="Создание загрузочной флешки © http://www.bestfree.ru/soft/sys/flash-boot.php" author="" url="http://www.bestfree.ru/soft/sys/flash-boot.php" tags="linux, xboot" ctime="20180130071425" dir="1484404722ljfarakdye" file="text.html">
-     <files>
-      <file id="1484404896ylztdp254s" fileName="Создание загрузочной флешки — бесплатная программа.pdf" type="file"/>
-     </files>
-    </record>
-    <record id="14844047368831gi98iw" name="Загрузочная флешка Linux — Лучшие варианты созданияИсточник: http://geek-nose.com/zagruzochnaya-fleshka-linux/" author="" url="http://geek-nose.com/zagruzochnaya-fleshka-linux/" tags="linux, xboot" ctime="20180130071425" dir="1484404736zv9r5wj3sl" file="text.html"/>
-    <record id="1517419696izhd7h1fos" name="Виды жестких дисков - pc-hard.ru" author="" url="about:reader?url=http%3A%2F%2Fpc-hard.ru%2Fhardarticles%2F157-hdd-characteristics-and-parameters.html" tags="hdd, sdd, жеский диск" ctime="20180131202816" dir="1517419696imy90oh2hy" file="text.html">
-     <files>
-      <file id="1517419974fu8e1bfi3z" fileName="Виды жестких дисков.docx" type="file"/>
-     </files>
-    </record>
-    <record id="1518023660d3d7syvlik" name="Исправляем ошибки в работе Windows" author="" url="about:reader?url=https%3A%2F%2Fvk.com%2F%40myironcomp-ispravlyaem-oshibki-v-rabote-windows" tags="ошибки Windows " ctime="20180207201420" dir="15180236607kknj3blna" file="text.html"/>
-    <record id="1518023711kj26211xhy" name="Windows 10: запрещаем автоустановку рекламных программ" author="" url="about:reader?url=https%3A%2F%2Fvk.com%2F%40windowsblog-windows-10-zapreschaem-avtoustanovku-reklamnyh-programm" tags="Windows 10" ctime="20180207201511" dir="1518023711m9saeeea0w" file="text.html"/>
-    <record id="1518762677462snhgt4p" name="Клавиатурные комбинации" author="" url="https://m.vk.com/@science_newworld-klaviaturnye-kombinacii" tags="клавиатурные комбинации, горячие клавиши" ctime="20180216093117" dir="1518762677y0x2p6jgb6" file="text.html"/>
-    <record id="1518807607qi94w3sc6x" name="Какой SSD лучше выбрать и почему" author="" url="https://m.vk.com/@myironcomp-kakoi-ssd-luchshe-vybrat-i-pochemu" tags="ssd" ctime="20180216220024" dir="1518807607lm6pdsztux" file="text.html"/>
-    <record id="1520234923ivi4ims5oc" name="Решаем проблему с кодировкой приложений Windows" author="" url="http://feanor184.ru/windows/reshaem-problemu-s-kodirovkoy-prilozheniy-windows.html" tags="кодировка, windows" ctime="20180305102843" dir="152023492308nyr4ucbk" file="text.html"/>
-    <record id="1520588781bfkxsssyhz" name="Самая крутая фишка почты Gmail, о которой вы не знали" author="" url="https://m.vk.com/@myironcomp-samaya-krutaya-fishka-pochty-gmail-o-kotoroi-vy-ne-znali" tags="Gmail" ctime="20180309124621" dir="1520588781utyygcsh2m" file="text.html"/>
-    <record id="1520590288s2ohc4xu0f" name="Как бороться с триал-версиями программ" author="" url="http://www.trashreg.com/ru/untrial.html" tags="" ctime="20180309131128" dir="15205902880g1r1b8dpm" file="text.html"/>
-    <record id="1521035067uj7sgf3lh1" name="6 скрытых ссылок Google" author="" url="https://m.vk.com/@windowsblog-6-skrytyh-ssylok-google" tags="Google" ctime="20180314164427" dir="1521035067cuntjvmx6i" file="text.html"/>
-    <record id="1521916756cstv3sv8i6" name="Как обрезать видео встроенными средствами Windows 10" author="" url="https://m.vk.com/@windowsblog-kak-obrezat-video-vstroennymi-sredstvami-windows-10" tags="" ctime="20180324213916" dir="1521916756f8pxi2dqsa" file="text.html"/>
-    <record id="1521991215j0mqn4s4yp" name="Стандартные методы борьбы с «невидимостью»" author="" url="http://fb.ru/article/178896/pochemu-na-fleshke-ne-vidno-faylov-i-kak-eto-ispravit" tags="атрибуты" ctime="20180325182015" dir="1521991215rp6zrfxgk8" file="text.html"/>
-    <record id="1523184105bxog778uwg" name="Где и как сохранять файлы?" author="" url="https://officemacro.wordpress.com/2013/06/20/save-files/" tags="переменные среды" ctime="20180408134145" dir="1523184105echhve1kme" file="text.html"/>
-    <record id="1523700909kp64fgrbm5" name="Тормозит браузер Google Chrome?" author="" url="https://m.vk.com/@windowsblog-tormozit-brauzer-google-chrome" tags="" ctime="20180414131509" dir="1523700909q30aynz66d" file="text.html"/>
-    <record id="152818652648suufep5m" name="Работа TeamViewer через прокси сервер" author="" url="http://www.stavpr.ru/2012/01/25/rabota-teamviewer-cherez-proksi-server/" tags="TeamViewer, прокси, proxy" ctime="20180605111526" dir="1528186526sv7m5ces0o" file="text.html"/>
-    <record id="1533408638rjk6wlfqyb" name="Быстрая настройка прокси firefox обхода блокировок без расширений." author="" url="https://pikabu.ru/story/byistraya_nastroyka_obkhoda_blokirovok_bez_rasshireniy_4201283" tags="прокси firefox, proxy" ctime="20180804215038" dir="1533408638j8qtueroge" file="text.html"/>
-    <record id="153341015662fnt5twpd" name="How to configure proxy on Firefox Android app" author="" url="https://androidscrib.com/ways-configure-proxy-firefox-android-app/" tags="прокси firefox, proxy" ctime="20180804221556" dir="1533410156nurm60qmeh" file="text.html"/>
-    <record id="1533414812hajq6fk9qa" name=" Как приручить жесткий диск в ноутбуке и не дать парковаться за 8 секунд простоя" author="" url="https://habr.com/post/414271/" tags="" ctime="20180804233332" dir="15334148123mz9l06mzx" file="text.html"/>
-    <record id="1533415343h4p5d60yx7" name="Как удалить Windows.old в Windows 10" author="" url="https://vk.com/@myironcomp-kak-udalit-windowsold-v-windows-10" tags="" ctime="20180804234223" dir="1533415343rg5q72jb2b" file="text.html"/>
-    <record id="1534193500zeckiph67t" name="Все команды Total Commander 9.0a" author="" url="http://flint-inc.ru/tcinfo/all_cmd.ru.htm" tags="Total Commander" ctime="20180813235140" dir="1534193500lywhw892dv" file="text.html"/>
-    <record id="1534347370ucgzgfz3qp" name="Меню загрузки Windows 7 и bcdedit" author="" url="http://windata.ru/windows-7/nastrojka-7/menyu-zagruzki-windows-7-i-bcdedit/" tags="bcdedit, Меню загрузки Windows, Windows" ctime="20180815183610" dir="15343473706zeib5flvi" file="text.html"/>
-    <record id="1534799323s9yeib93hg" name="Наборы колонок TC" author="" url="" tags="Total Commander" ctime="20180821000843" dir="1534799323rktrc5o1fr" file="text.html"/>
-    <record id="15371138180bvni5hock" name="Проверка Windows 10 на ошибки" author="" url="http://howwindows.ru/windows/10/proverka-windows-10-na-oshibki/" tags="" ctime="20180916190338" dir="1537113818vzblx6gi7w" file="text.html"/>
-    <record id="1543742152xy2bebv612" name="Пакетное сжатие JPEG-изображений в нескольких директориях" author="" url="https://k-gayduk.ru/blog/batch-compression.html" tags="" ctime="20181202121552" dir="1543742152494bg5lh1p" file="text.html"/>
-    <record id="1544723870pya2gcvrlq" name="Разрешение мышки (dpi/cpi) — что это?" author="" url="http://tavalik.ru/razreshenie-myshki-dpicpi/" tags="" ctime="20181213205750" dir="15447238702ggonv85i7" file="text.html"/>
-    <record id="1544726091d8jotmx7vt" name="Диагностика жёсткого диска с бесплатной программой CrystalDiskInfo" author="" url="http://tavalik.ru/diagnostika-hdd-s-crystaldiskinfo/" tags="" ctime="20190729231238" dir="1544726091js0qroswb6" file="text.html"/>
-    <record id="1554197737151rhlqrlv" name="10 критически важных event ID для мониторинга " author="" url="https://habr.com/ru/company/netwrix/blog/148501/" tags="events_windows, events" ctime="20190729235537" dir="15541977379ldzkepo85" file="text.html"/>
-    <record id="1693145691yu3yx19cc9" name="Как создать ярлык с относительным путем в проводнике windows" author="" url="https://andbabichev.wordpress.com/2016/01/25/%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%8F%D1%80%D0%BB%D1%8B%D0%BA-%D1%81-%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D0%BF%D1%83%D1%82/" tags="windir, ярлык, link, explorer" ctime="20230827171451" dir="1693145691sdhskwi1v8" file="text.html"/>
-   </recordtable>
-   <node crypt="" icon="" id="1521314253z2ua0whw7p" name="ремонт флешек">
-    <recordtable>
-     <record id="15213134743ku3lw5e48" name="проверка флешки H2testw v1.4" author="" url="http://www.usbdev.ru/files/h2testw/" tags="проверка флешки,ремонт флешек" ctime="20180317221739" dir="1521313474fjbollrjtc" file="text.html"/>
-     <record id="1521313671ear1739jdw" name="Инструкция по ремонту флешек CBM2098 в Chipsbank UMPTool" author="" url="http://www.usbdev.ru/articles/a_chipsbank/cbm2098umptool-repair/" tags="ремонт флешек" ctime="20180317221746" dir="1521313671iwpcz1dyhd" file="text.html"/>
-     <record id="1521314232mi7ikrbf36" name="Восстановление флэшки с контроллером фирмы Chipsbank" author="" url="https://blog.foxylab.com/vosstanovlenie-fleshki-s-kontrollerom-firmy-chipsbank/" tags="ремонт флешек" ctime="20180317221748" dir="1521314232z50vhy45yz" file="text.html"/>
-     <record id="1521315258ak81c29hc0" name="Chipsbank Technologies Co. Ltd" author="" url="http://repusb.cubava.cu/?page_id=353" tags="ремонт флешек" ctime="20180317223418" dir="1521315258k4f5drornp" file="text.html"/>
-     <record id="15217448645ypyiiwllw" name="USB Flash Drive. Технические вопросы и ремонт. Часть 2 " author="" url="http://forum.ru-board.com/topic.cgi?forum=84&amp;limit=1&amp;m=1&amp;start=2&amp;topic=3941" tags="ремонт флешек" ctime="20180322215424" dir="1521744864b71tt3yy8o" file="text.html"/>
-     <record id="15220560167ey4ro3j52" name="Как проверить флешку и MicroSD карту на ошибки и протестировать на работоспособность? Программа для проверки и тестирования флешек и SD карт: как скачать?" author="" url="http://mobilkoy.ru/kak-proverit-fleshku-i-microsd-kartu-na-oshibki-i-protestirovat-na-rabotosposobnost-programma-dlya-proverki-i-testirovaniya-fleshek-i-sd-kart-kak-skachat" tags="ремонт флешек" ctime="20180326122016" dir="1522056016pum0pc14ul" file="text.html"/>
-     <record id="1528558766ne3lcfa8pd" name="SMI MPTool SM32X \ SM34X [SMI Mass Production Tool]" author="" url="http://www.usbdev.ru/files/smi/smimptool/" tags="" ctime="20180609183926" dir="1528558766ckhemr67dh" file="text.html"/>
-     <record id="1528560956bsuwhm4q2q" name="SMI MPTool – краткая инструкция по ремонту флешек" author="" url="http://www.usbdev.ru/articles/a_smi/smimptool-repair/" tags="" ctime="20180609191556" dir="1528560956e9cls0glzv" file="text.html"/>
-     <record id="15285610034tk7c4h8qd" name="H2testw v1.4" author="" url="http://www.usbdev.ru/files/h2testw/" tags="" ctime="20180609191643" dir="1528561003uhkz0lrkic" file="text.html"/>
-     <record id="1528561107xph4xaj845" name="Как отличить подделку от оригинальной флешки" author="" url="http://www.usbdev.ru/articles/fake-detect/" tags="" ctime="20180609191827" dir="1528561107bh2gk7e8fd" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" icon="/Gnome/color_gnome_2_folder-drag-accept.svg" id="1545837981f0p3o9tw95" name="backup">
-    <recordtable>
-     <record id="1545838008pn4f3sef2n" name="WinRAR: настройка автоматического резервного копирования" author="" url="https://alpinefile.ru/winrar-auto-backup-settings.html" tags="WinRAR, backup, бекап" ctime="20181226182648" dir="1545838008npxd92chb1" file="text.html"/>
-     <record id="16139294919rjzsr6c4o" name="Резервное копирование данных в домашних условиях" author="Lotto74" url="https://m.habr.com/ru/post/538938/" tags="Резервное копирование,backup" ctime="20210221204451" dir="1613929491ik019dzjpr" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" icon="/Swift/color_swift_Linkedin.svg" id="156443010875gycpqzpy" name="Windows">
-    <recordtable>
-     <record id="1552768299a3xjidpwv3" name="Переносим папку загрузки обновлений Windows 10 на другой диск." author="" url="https://vk.com/@stupid.lamer-perenosim-papku-zagruzki-obnovlenii-windows-10-na-drugoi-dis" tags="" ctime="20190729225518" dir="1552768299ki5h3w9jrn" file="text.html"/>
-     <record id="1570450515nkjzcb1tg8" name="Как вернуть Windows 10 в исходное состояние используя функцию «Загрузка из облака»" author="" url="https://winnote.ru/instructions/757-how-to-reset-windows-10-using-cloud-download.html" tags="Windows" ctime="20191007151515" dir="15704505157saizocfiw" file="text.html"/>
-     <record id="157045056389g3yy6s5l" name="Как включить (отключить) запуск окон с папками в отдельном процессе в Windows" author="" url="https://winnote.ru/instructions/603-kak-vklyuchit-otklyuchit-zapusk-okon-s-papkami-v-otdelnom-processe-v-windows.html" tags="Windows, explorer" ctime="20191007151603" dir="1570450563l0s2wbpkbh" file="text.html"/>
-     <record id="1570450594vi4r40tq4n" name="Как выполнить чистую переустановку Windows 10 используя функцию «Новый запуск»" author="" url="https://winnote.ru/instructions/605-kak-vypolnit-chistuyu-pereustanovku-windows-10-ispolzuya-funkciyu-novyy-zapusk.html" tags="Windows" ctime="20191007151634" dir="1570450594pwv7011xcf" file="text.html"/>
-     <record id="1570450708fibovn8922" name="Как проверить объем зарезервированного хранилища в Windows 10" author="" url="https://winnote.ru/instructions/589-kak-proverit-obem-zarezervirovannogo-hranilischa-v-windows-10.html" tags="Windows" ctime="20191007151828" dir="1570450708gw10g3metf" file="text.html"/>
-     <record id="15704507311wrngojymy" name="Как включить встроенную учетную запись «Администратор» в Windows 10" author="" url="https://winnote.ru/instructions/533-kak-vklyuchit-vstroennuyu-uchetnuyu-zapis-administrator-v-windows-10.html" tags="Windows" ctime="20191007151851" dir="15704507317nb6ee70za" file="text.html"/>
-     <record id="15704518856723kmkxpy" name="Как включить (отключить) функцию Наборы (Sets) в Windows 10" author="" url="https://winnote.ru/instructions/395-kak-vklyuchit-otklyuchit-funkciyu-nabory-sets-v-windows-10.html" tags="Windows" ctime="20191007153805" dir="1570451885zu5az7qjqo" file="text.html"/>
-     <record id="15704520409aplxappc4" name="Как использовать функцию Наборы (Sets) в Windows 10" author="" url="https://winnote.ru/instructions/377-kak-ispolzovat-funkciyu-nabory-sets-v-windows-10.html" tags="Windows" ctime="20191007154040" dir="1570452040n9791yfbn2" file="text.html"/>
-     <record id="1570454991lk5jlh2mwu" name="Включение вкладок (Sets) Windows 10" author="" url="https://tech-geek.ru/enable-disable-tabs-windows-10-registry/" tags="Windows" ctime="20191007162951" dir="1570454991oc98wwhkly" file="text.html"/>
-     <record id="1570455447o1hz2f2zxf" name="Как перейти на «Skip Ahead» сборки Windows 10" author="" url="https://www.comss.ru/page.php?id=4291" tags="" ctime="20191007163727" dir="1570455447cpdxjqao32" file="text.html"/>
-     <record id="1571584340dg0p7ke0m3" name="Зависает проводник на Windows 10 x64 " author="" url="https://answers.microsoft.com/ru-ru/windows/forum/all/%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B0%D0%B5%D1%82/8681a796-f2ac-4f3a-aa58-87f899149446" tags="" ctime="20191020181220" dir="1571584340oyyn74a5jd" file="text.html"/>
-     <record id="1596165453160fxtf2o8" name="Как сделать так, чтобы меню Пуск Windows 10 выглядело одинаково во всех учётных записей. " author="" url="https://m.info-mage.ru/post.aspx?id=2595" tags="StartMenu, Windows, Меню пуск" ctime="20200731061733" dir="1596165453cxsl3b5cay" file="text.html"/>
-     <record id="1596165566iriq09ne08" name="Как перенести настройки меню Пуск Windows 10 на новый компьютер " author="" url="https://windows-school.ru/blog/kak_perenesti_nastrojki_menju/2019-03-22-330" tags="StartMenu, Windows, Меню пуск" ctime="20200731061926" dir="1596165566gtlof65dz7" file="text.html"/>
-     <record id="1600744772ia59dq1df6" name="Простой способ выключать и перезагружать компьютер, не заходя в Пуск" author="" url="https://zen.yandex.ru/media/fotoblog/prostoi-sposob-bystro-vykliuchat-i-perezagrujat-kompiuter-ne-zahodia-v-pusk-5efcd94a0857e9664083e329" tags="shutdown, restart" ctime="20200922061932" dir="1600744772z1aslgp99y" file="text.html"/>
-    </recordtable>
-   </node>
-  </node>
-  <node crypt="" icon="" id="1483620903ulltd76okr" name="Поисковые системы">
-   <recordtable>
-    <record id="1483620957t3ei23i338" name="Как искать в Яндексе эффективно" author="" url="http://www.kakprosto.ru/kak-7392-kak-iskat-v-yandekse-effektivno" tags="" ctime="20170105155557" dir="14836209572p2qjykm9u" file="text.html"/>
-    <record id="1483621088v9n7w2esrp" name="9 СПОСОБОВ ИСКАТЬ ИНФОРМАЦИЮ В ЯНДЕКСЕ, О КОТОРЫХ НЕ ЗНАЮТ 96% ПОЛЬЗОВАТЕЛЕЙ" author="" url="http://sekretwomen.mirtesen.ru/blog/43604380536/9-sposobov-iskat-informatsiyu-v-YAndekse,-o-kotoryih-ne-znayut-9" tags="" ctime="20170105155808" dir="1483621088u6cfnkhjse" file="text.html"/>
-    <record id="1483621328toriqlgve0" name="Как искать в Яндексе и Google правильно - открываем некоторые секреты!" author="" url="https://pomogaemkompu.temaretik.com/778264203296246025/kak-iskat-v-yandekse-i-google-pravilno-otkryvaem-nekotorye-sekrety/" tags="" ctime="20170105160208" dir="1483621328wgo0nx5gt6" file="text.html"/>
-    <record id="1483621447dg0eyz62on" name="Как искать в Яндексе" author="" url="http://youpk.ru/kak-iskat-v-yandekse/" tags="" ctime="20170105160407" dir="1483621447l7bpu5vkbp" file="text.html"/>
-    <record id="14836215185uaqw11sex" name="Как искать в Google" author="" url="http://youpk.ru/kak-iskat-v-google/" tags="" ctime="20170105160518" dir="1483621518namhh8zngo" file="text.html"/>
-    <record id="15447265953xu320y9k7" name="Изучаем скрытые возможности Google Поиска, о которых вы наверняка не знали" author="" url="https://vk.com/@windowsblog-izuchaem-skrytye-vozmozhnosti-google-poiska-o-kotoryh-vy-nav" tags="" ctime="20190729231712" dir="1544726595wuyuy7s97b" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" icon="" id="1514657968fe8zeb2k0z" name="Script">
-   <recordtable>
-    <record id="151465789017zq951mbv" name="Рецепты WMI: работа с реестром Windows" author="" url="http://www.script-coding.com/WMI_StdRegProv.html" tags="реестр,Windows" ctime="20171230211934" dir="151465789078fjrqbq3f" file="text.html"/>
-    <record id="15146579946xrfz67e03" name="Разработка скриптов" author="" url="http://www.script-coding.com/index.html" tags="" ctime="20171230211954" dir="1514657994157x4v127c" file="text.html"/>
-    <record id="1514389382fd0u3ldqh0" name="Файлы для скачивания" author="" url="http://www.script-coding.com/filez.html" tags="" ctime="20171230212024" dir="1514389382ec1iebkonf" file="text.html"/>
-    <record id="1514658515xwawgdfbcp" name="[VB6] Рассчет хеша MD5" author="" url="https://safezone.cc/threads/vb6-rasschet-xesha-md5.24065/" tags="" ctime="20171230212835" dir="151465851599d5flhigz" file="text.html"/>
-    <record id="1514658881pp0n8t7f3c" name="[VB6][WMI] Реестр - Как получить перечень подразделов" author="" url="https://safezone.cc/threads/vb6-wmi-reestr-kak-poluchit-perechen-podrazdelov.24056/" tags="Реестр" ctime="20171230213441" dir="1514658881mz90n4m5do" file="text.html"/>
-    <record id="1514658947zr3ziy6wtu" name="[VB6][WMI] Реестр - Как получить перечень параметров" author="" url="https://safezone.cc/threads/vb6-wmi-reestr-kak-poluchit-perechen-parametrov.24055/" tags="Реестр" ctime="20171230213547" dir="15146589474o1ot4xs3t" file="text.html"/>
-    <record id="1514659296qni42k7rdg" name="[VBScript] Отправка файла на FTP через контекстное меню ++ копирование ссылки в буфер обмена" author="" url="https://safezone.cc/threads/vbscript-otpravka-fajla-na-ftp-cherez-kontekstnoe-menju-kopirovanie-ssylki-v-bufer-obmena.22877/" tags="ftp" ctime="20171230214136" dir="1514659296byl6h9somz" file="text.html">
-     <files>
-      <file id="15146593423kec9zn9lb" fileName="FTP_and_ClipBoard.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661375qye3pw576u" name="Получение пути к программе, асоциированной с расширением имени файла" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230221615" dir="1514661375ybajfqyfkr" file="text.html">
-     <files>
-      <file id="1514661385pvtiub0rkh" fileName="GetAssocTool.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661494vayeimjbo3" name="Смена владельца и прав на папку и ее содержимое, в которой запущен батник (Full Access &lt;-&gt; Read Only)" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230221814" dir="151466149446577210tj" file="text.html">
-     <files>
-      <file id="1514661600d464n7pzyf" fileName="Access.zip" type="file"/>
-      <file id="1514661624bevgbg5qrt" fileName="icacls.exe - XP - Server 2003.zip" type="file"/>
-      <file id="151466162411b1sh6ge9" fileName="icacls.exe - Vista - Windows 7.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661717ig4grq4h8w" name="Включение макросов в Microsoft Office 2003 - 2013" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222157" dir="1514661717fltgnkxuyx" file="text.html">
-     <files>
-      <file id="15146617236lzg168zen" fileName="Macros_on_off_2000_2003_2007_2010_2013.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661832swiux2s8ys" name="Блокировка настроек Internet Explorer" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222352" dir="1514661832ycqbrhrcqd" file="text.html"/>
-    <record id="15146619228h2cikng0a" name="Подсчет частоты символов в бинарном файле (макрос Excel)" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222522" dir="1514661922ija2e3m3p8" file="text.html">
-     <files>
-      <file id="15146620568aiv6ent9e" fileName="Частотный анализ2.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514662130ohnykgqo17" name="Перерегистрация библиотек Internet Explorer в случае возникновения проблем невирусного характера." author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20171230222850" dir="1514662130fyepnxh7yi" file="text.html">
-     <files>
-      <file id="1514662136krc90hbvqg" fileName="ie-rereg.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514731508vqk2ry57o9" name="Работа с FTP из VBA (без использования WinAPI)" author="" url="http://excelvba.ru/tools/FTP" tags="FTP" ctime="20171231174508" dir="1514731508nk3ga0l4hs" file="text.html">
-     <files>
-      <file id="15147315607nvfbx3awp" fileName="ftp_new_version_WinAPI.xlsb" type="file"/>
-      <file id="1514731560h71r7wf7o0" fileName="FTP_0.xls" type="file"/>
-     </files>
-    </record>
-    <record id="1537648909o4cq17pz9l" name="Backup баз данных с помощью командной строки WinRAR." author="" url="http://www.cyberforum.ru/ms-access/thread60797-page3.html" tags="" ctime="20190729225158" dir="1537648909hdznqnda16" file="text.html"/>
-    <record id="1514661089e717v9gr1u" name="Блокировка / Разблокировка папок и файлов с помощью установки прав" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="Lock, Unlock" ctime="20190729233628" dir="151466108978vxsq7jdp" file="text.html">
-     <files>
-      <file id="1514661094kw5d3ldyzs" fileName="Locker NTFS.zip" type="file"/>
-     </files>
-    </record>
-    <record id="15145771060us02ljv5r" name="Документация AutoIt" author="" url="http://autoit-script.ru/autoit3_docs/" tags="AutoIt, автоматизация" ctime="20190730221340" dir="151457710612p6kctxiw" file="text.html"/>
-    <record id="151457806067sfexfb4h" name="PowerShell​" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="PowerShel" ctime="20190730221348" dir="15145780608zd4il1nsb" file="text.html">
-     <files>
-      <file id="1514578188y3sz6mapcy" fileName="ntcmds(RU).zip" type="file"/>
-      <file id="1514578188nlgby2wujn" fileName="Справочник по параметрам командной строки.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514577990y6h1xbt8s1" name="Первые шаги для пауэршельшиков" author="" url="https://habrahabr.ru/post/113913/" tags="powershell, .NET, скрипт, шелл" ctime="20190730221352" dir="1514577990xeoi9bmw45" file="text.html"/>
-    <record id="15145766920d2ajibmja" name="AutoIt" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="AutoIt, автоматизация" ctime="20190730221409" dir="1514576692jeh479qpno" file="text.html">
-     <files>
-      <file id="1514576980p4458b6o6k" fileName="ScriptWriter.zip" type="file"/>
-      <file id="1514576980dtmngdigwp" fileName="AutoItMacroGenerator.zip" type="file"/>
-      <file id="1514576980t7dv6g3m0x" fileName="Valery Ivanov_official_AutoIT_help_RU_v3.0.102.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514661176wa4m0e5ddb" name="Определение:версии, разрядности, сборки, семейства операционной системы, разрядности среды, из которой запущен Batch" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/" tags="" ctime="20190730221429" dir="1514661176po3m6njzc1" file="text.html">
-     <files>
-      <file id="1514661216sa29dvb5q7" fileName="SysVersion.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1517138794iw5h9bnapa" name="Бесплатная электронная библиотека" author="" url="http://housecomputer.ru/" tags="" ctime="20190730221430" dir="1517138794sk4o2p90uh" file="text.html"/>
-    <record id="1481864273pjqvch93q8" name="Пакетные (batch, bat) файлы " author="" url="http://www.windowsfaq.ru/content/category/3/7/45/" tags="bat" ctime="20190730221430" dir="14818642736niatzqo7l" file="text.html"/>
-    <record id="1481864273835vc1kapd" name="Скрипты для автоматизации рутинных операций " author="" url="http://www.windowsfaq.ru/content/category/3/25/70/" tags="windows, скрипт, bat" ctime="20190730221430" dir="14818642739t43ekn5bb" file="text.html"/>
-    <record id="1481864273uy8u20hbi4" name="Как в bat-файле создать паузу перед выполнением следующей команды? - WindowsFAQ.ru" author="" url="http://www.windowsfaq.ru/content/view/730/45/" tags="windows, скрипт, bat" ctime="20190730221430" dir="1481864273yglmwoedm6" file="text.html"/>
-    <record id="1514388906r409ircxw2" name="Nautilus Scriptilius" author="" url="http://www.script-coding.com/NautilusScript.html" tags="bash" ctime="20190730221442" dir="1514388906wn8vh29skw" file="text.html"/>
-    <record id="1514388928vf58b3mmiy" name="Дзен консоли v 1.7" author="" url="http://www.script-coding.com/Dzen_1_7.html" tags="bash" ctime="20190730221442" dir="1514388928n5ouowo6ai" file="text.html"/>
-    <record id="1514574117j44ot9vtgy" name="Справка по BAT командам. 23-11-2013" author="" url="https://safezone.cc/resources/spravka-po-bat-komandam.60/" tags="батник, bat, bash" ctime="20190730221442" dir="1514574117g32irmxlgl" file="text.html">
-     <files>
-      <file id="15145741299jdgllov1b" fileName="CMDEXE_HELP.RAR" type="file"/>
-     </files>
-    </record>
-    <record id="1514576097f9p0pj8m8g" name="Bat файл для поиска по дате в имени и сохранения файлов" author="" url="https://safezone.cc/threads/bat-fajl-dlja-poiska-po-date-v-imeni-i-soxranenija-fajlov.29433/" tags="сортировка фото, bat" ctime="20190730221442" dir="1514576097gh4fj62eqf" file="text.html"/>
-    <record id="1514576314s074r74ld6" name="Литература по батникам" author="" url="https://safezone.cc/threads/literatura-po-batnikam.22343/" tags="" ctime="20190730221444" dir="1514576314opr88i2tnl" file="text.html">
-     <files>
-      <file id="1514576323q1sn97k8od" fileName="Саитов Г. comstroka.CHM.zip" type="file"/>
-     </files>
-    </record>
-    <record id="15146594932m0ue5cn8j" name="Полезные скрипты CMD/BAT" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/#post-171692" tags="" ctime="20190730221444" dir="1514659493kpmua33c6d" file="text.html"/>
-    <record id="151713873510z8xw6fe8" name="Все команды Windows одним списком" author="" url="http://housecomputer.ru/os/windows/all_windows_commands.html" tags="Windows" ctime="20190730221451" dir="1517138735mmlaj3kvwb" file="text.html"/>
-    <record id="15146606900x1001rjnt" name="Поиск альтернативных файловых потоков, которые занимают слишком много места на диске" author="" url="https://safezone.cc/threads/poleznye-skripty-cmd-bat.22373/page-2" tags="WinDirStat, size" ctime="20190731152733" dir="1514660690y3vexo54wx" file="text.html">
-     <files>
-      <file id="1514660695h4dy9b925t" fileName="ScanStreams.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1596291649cj6b54180l" name="VBScript учебник" author="" url="https://www.w3bai.com/ru/asp/vbscript_default.html" tags="VBScript" ctime="20200801172049" dir="1596291649tj94x349cf" file="text.html"/>
-    <record id="1612978625kblxnm7at8" name="Объект WshShell " author="" url="http://www.script-coding.com/WSH/WshShell.html#3.6" tags="Shell" ctime="20210210203925" dir="1612978625atbb0w7yeh" file="text.html"/>
-    <record id="1613928489q3fermh364" name="Оболочка Bash — шпаргалка для начинающих" author="Kseniya Sazonova" url="https://tproger.ru/translations/bash-cheatsheet/" tags="bash" ctime="20210221202809" dir="1613928489r1xz50r484" file="text.html"/>
-    <record id="161392918461iy9uzzt5" name="Основы BASH. Часть 1 " author="" url="https://habr.com/ru/post/47163/" tags="bash" ctime="20210221203944" dir="1613929184rh8uxhpw87" file="text.html"/>
-    <record id="1613929233makmn2nzh7" name="Основы BASH. Часть 2 " author="" url="https://habr.com/ru/post/52871/" tags="bash" ctime="20210221204033" dir="1613929233csf1h45852" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" icon="" id="1514658332h6sn4rnf31" name="Win32API">
-   <recordtable>
-    <record id="1514658348elavmcdz3c" name="Win32API_First_Steps.zip" author="" url="http://www.script-coding.com/filez.html" tags="Win32API" ctime="20171230212548" dir="1514658348b7m9mrufut" file="text.html">
-     <files>
-      <file id="1514658354vet44gy439" fileName="Win32API_First_Steps.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1514664126ywbmnveijx" name="Различие в вызовах функций WinAPI в зависимости от версий Windows и Office" author="" url="http://excelvba.ru/articles/WinAPI" tags="WinAPI" ctime="20171230230206" dir="1514664126b0xaomr550" file="text.html"/>
-    <record id="15147299654tifr76aso" name="'==================== Функции WinAPI " author="" url="http://excelvba.ru/category/WinAPI" tags="WinAPI" ctime="20171231171925" dir="1514729965mh54b0bqth" file="text.html"/>
-    <record id="15230028715tx7yr6oa7" name="VBA Использование Win32 API" author="" url="http://www.mini-soft.ru/document/elektronnyy-uchebnik-po-vba-excel-17" tags="VBA Win32 API" ctime="20180406112111" dir="1523002871w5ppluzh1w" file="text.html"/>
-    <record id="1513051559auq7alekzr" name="Win32 API в VBA" author="" url="http://www.excel-team.ru/win32api_vba.php" tags="Win32, API, VBA" ctime="20190731230807" dir="1513051559ya3jovjkhk" file="text.html"/>
-   </recordtable>
-  </node>
-  <node crypt="" icon="" id="1521833821r21uasdpnd" name="VB">
-   <recordtable>
-    <record id="1521833840tbx9xkrqoz" name="Работа с дисками в VB .NET" author="" url="http://pamirych.ru/%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%b4%d0%b8%d1%81%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323223720" dir="1521833840q509f3bcmw" file="text.html"/>
-    <record id="1521833879c8l9ck61kv" name="Динамическое создание контроллов в VB .NET" author="" url="http://pamirych.ru/%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bd%d1%82%d1%80%d0%be%d0%bb%d0%bb%d0%be%d0%b2-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323223759" dir="1521833879i95hukkmjd" file="text.html"/>
-    <record id="15218339823vxaaqt1vk" name="Как написать простейший сервис (Службу Windows) на VB .NET" author="" url="http://pamirych.ru/%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b5%d0%b9%d1%88%d0%b8%d0%b9-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81-%d1%81%d0%bb%d1%83%d0%b6%d0%b1/" tags="VB .NET" ctime="20180323223942" dir="1521833982vacx1s1av0" file="text.html"/>
-    <record id="152183402470idjt2j58" name="Преобразовать массив Int в массив String" author="" url="http://pamirych.ru/category/vb-net-faq/page/3/" tags="" ctime="20180323224024" dir="152183402425k23szbec" file="text.html"/>
-    <record id="1521834105giq650sr5x" name="Как сделать круглый ProgressBar" author="" url="http://pamirych.ru/%d0%ba%d0%b0%d0%ba-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%ba%d1%80%d1%83%d0%b3%d0%bb%d1%8b%d0%b9-progressbar/" tags="" ctime="20180323224145" dir="1521834105pyknzfzmc4" file="text.html">
-     <files>
-      <file id="1521834114ysd05e5fqg" fileName="Демонстрация.rar" type="file"/>
-      <file id="1521834114m5qb14738e" fileName="элемент управления ProgBar (dll).rar" type="file"/>
-     </files>
-    </record>
-    <record id="1521833368efbr9ek4dp" name="Работа с папками в VB .NET" author="" url="http://pamirych.ru/%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0-%d1%81-%d0%bf%d0%b0%d0%bf%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b2-vb-net/" tags="VB .NET" ctime="20180323231447" dir="15218333684xir4yrzzq" file="text.html"/>
-    <record id="1521833293pdb7a9xsho" name="Работа с датами, временем" author="" url="" tags="VB .NET" ctime="20180323231453" dir="15218332931ge4lhxr8j" file="text.html"/>
-    <record id="1521833006rpvx1j5j4i" name="Определить, содержит ли файл определенный атрибут" author="" url="http://pamirych.ru/%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d1%8c-%d1%81%d0%be%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d1%82-%d0%bb%d0%b8-%d1%84%d0%b0%d0%b9%d0%bb-%d0%b0%d1%82%d1%80%d0%b8%d0%b1%d1%83%d1%82/" tags="Visual Basic .NET, VB .NET FAQ." ctime="20180323231500" dir="1521833006ev4kcn6vls" file="text.html"/>
-    <record id="1521922070vc8dhal72v" name="Конвертирование форматов изображений" author="" url="http://pamirych.ru/%d0%ba%d0%be%d0%bd%d0%b2%d0%b5%d1%80%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%82%d0%be%d0%b2-%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8/" tags="" ctime="20180324230750" dir="15219220707ty7d271tf" file="text.html"/>
-    <record id="15219222642xdhjjysu4" name="Сделать стороннее приложение поверх всех окон" author="" url="http://pamirych.ru/%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d1%81%d1%82%d0%be%d1%80%d0%be%d0%bd%d0%bd%d0%b5%d0%b5-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d1%85-2/" tags="" ctime="20180324231104" dir="15219222641446x94prn" file="text.html"/>
-    <record id="1521922307m74emjnjda" name="Установить форму поверх только родительской" author="" url="http://pamirych.ru/%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%b8%d1%82%d1%8c-%d1%84%d0%be%d1%80%d0%bc%d1%83-%d0%bf%d0%be%d0%b2%d0%b5%d1%80%d1%85-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%80%d0%be%d0%b4%d0%b8%d1%82/" tags="" ctime="20180324231147" dir="1521922307qy1swavojl" file="text.html"/>
-    <record id="1521922359sn4utu1ikp" name="Как установить фокус на элемент управления, когда форма загружается в Visual Basic .NET или Visual Basic 2005" author="" url="https://support.microsoft.com/ru-ru/help/822493/how-to-set-the-focus-on-a-control-when-the-form-loads-in-visual-basic" tags="" ctime="20180324231239" dir="15219223595dsdp818wd" file="text.html"/>
-    <record id="1521922415kmr8cf05rf" name="Form.Load Event" author="" url="https://msdn.microsoft.com/en-us/library/system.windows.forms.form.load(vs.71).aspx" tags="" ctime="20180324231335" dir="15219224156r06jz1q66" file="text.html"/>
-    <record id="1521922440h8nsjj3kuz" name="Form.Load Event" author="" url="https://msdn.microsoft.com/en-us/library/system.windows.forms.form.load(v=vs.110).aspx" tags="" ctime="20180324231400" dir="1521922440xvxfrh70wi" file="text.html"/>
-    <record id="15219225343k6dobrayg" name="Метод Control.Focus ()" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.control.focus(v=vs.110).aspx" tags="" ctime="20180324231534" dir="1521922534nycfiup2yw" file="text.html"/>
-    <record id="1521922638lgpdp2ehjx" name="Класс Panel" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.panel(v=vs.110).aspx" tags="" ctime="20180324231718" dir="15219226380i3b6pyjv4" file="text.html"/>
-    <record id="1521922715kfdih49bkv" name="Класс GroupBox" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.groupbox(v=vs.110).aspx" tags="" ctime="20180324231835" dir="1521922715bp2jt1hb0e" file="text.html"/>
-    <record id="152192283632y3w7w8yx" name="Класс ProgressBar" author="" url="https://msdn.microsoft.com/ru-ru/library/system.windows.forms.progressbar(v=vs.110).aspx" tags="" ctime="20180324232036" dir="15219228369mm0qb9k87" file="text.html"/>
-    <record id="152083119827ixvyhx1b" name="Растянуть элементы на форме Windows Forms" author="" url="http://vscode.ru/articles/rastyanut-elementyi-na-forme-windows-forms.html" tags="VB, Windows Forms" ctime="20180324232154" dir="1520831198phxsqe6gzt" file="text.html"/>
-    <record id="1521085121utcblz0j94" name="Динамическое изменение размеров элементов управления вместе с формой" author="" url="http://www.cyberforum.ru/visual-basic/thread935304-page2.html" tags="vb, resizer, form" ctime="20180324232159" dir="1521085121c40qenr11j" file="text.html">
-     <files>
-      <file id="1521085504pd0s1q4vh0" fileName="t006-a.zip" type="file"/>
-      <file id="1521085504cmsxdven18" fileName="t006-b.zip" type="file"/>
-     </files>
-    </record>
-    <record id="15210873733p62joc7od" name="Управление цветом в Visual Basic 6.0" author="" url="http://sitesaid.ru/VB/cvet%20vb.html" tags="VB, Color, Цвет" ctime="20180324232213" dir="1521087373pej4pakncc" file="text.html"/>
-    <record id="1521033378yv0pj2vfje" name=" Задать шрифт, размер шрифта и цвет в TextBox" author="" url="http://www.cyberforum.ru/vb-net/thread1920285.html" tags="vb,tb,Textbox" ctime="20180324232250" dir="15210333783pv9cfa2me" file="text.html"/>
-    <record id="15208311338zzw0upc0l" name="Отображение двумерного массива на форме" author="" url="http://studassistent.ru/vb-net/otobrazhenie-dvumernogo-massiva-na-forme-visual-basic-net" tags="VB, DataGridView" ctime="20180324232254" dir="1520831133c5buofumyg" file="text.html"/>
-    <record id="1521097535oefhvwhdch" name="Что такое ScaleHeight?" author="" url="http://www.cyberforum.ru/visual-basic/thread464798.html" tags="vb, Scale" ctime="20180324232258" dir="1521097535doywi1n0jb" file="text.html"/>
-    <record id="1521693921a18mbqcpw9" name="Как придать цвет форме через код по заданным параметрам RGB " author="" url="http://www.cyberforum.ru/vb-net/thread283932.html" tags="RGB,цвет,VB" ctime="20180324232319" dir="1521693921wwfoz4o6tr" file="text.html"/>
-    <record id="1521694066hgzqf1uwtn" name="Метод Information.RGB (Int32, Int32, Int32)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.information.rgb(v=vs.110).aspx" tags="RGB, цвет, VB" ctime="20180324232322" dir="15216940663f1j9c462d" file="text.html"/>
-    <record id="1521923039p3wfkubk6a" name="Переключение между вкладками – приложение на Visual Studio" author="" url="http://vscode.ru/articles/switch-tabs-visual-studio.html" tags="" ctime="20180324232359" dir="1521923039euau4zcver" file="text.html"/>
-    <record id="1521923271cyofknapp2" name="Сжатие, изменение размеров изображений - VB" author="" url="http://studassistent.ru/visual-basic/szhatie-izmenenie-razmerov-izobrazheniy-vb" tags="" ctime="20180324232751" dir="1521923271sbfqr60aay" file="text.html"/>
-    <record id="15219235801mfwrd41uu" name="Что такое ScaleHeight? - VB" author="" url="http://www.cyberforum.ru/visual-basic/thread464798.html" tags="ScaleHeight" ctime="20180324233300" dir="1521923580a2f4uclks6" file="text.html"/>
-    <record id="15219237577p95hfsei6" name="Руководство по Visual Basic" author="" url="https://docs.microsoft.com/ru-ru/dotnet/visual-basic/" tags="" ctime="20180324233557" dir="1521923757s0lr0xi7sq" file="text.html"/>
-    <record id="1521924082cinpu14pkj" name="Словарь Dictionary(Of T, V)" author="" url="https://metanit.com/visualbasic/tutorial/4.7.php" tags="vb,Dictionary" ctime="20180324234122" dir="1521924082rt0i5vyoud" file="text.html"/>
-    <record id="1521924273909iexth6e" name=" VB.NET Tutorial and source code" author="" url="http://vb.net-informations.com/" tags="" ctime="20180324234433" dir="15219242736klz9oxwlj" file="text.html"/>
-    <record id="1521924553e78mdsfl73" name="Чтение ini-file в Dictionary - Visual Basic .NET" author="" url="http://www.cyberforum.ru/vb-net/thread1149100.html" tags="" ctime="20180324234913" dir="15219245536myokl2zys" file="text.html">
-     <files>
-      <file id="15219249476wcos0gbst" fileName="WindowsApplication8.7z" type="file"/>
-      <file id="1521924947fy2cst0n4h" fileName="INIEditor.zip" type="file"/>
-     </files>
-    </record>
-    <record id="1521924995oazxzrsf4s" name="Метод Dictionary(Of TKey, TValue).Add (TKey, TValue)" author="" url="https://msdn.microsoft.com/ru-ru/library/k7z0zy8k(v=vs.110).aspx" tags="" ctime="20180324235635" dir="15219249957wgk34objx" file="text.html"/>
-    <record id="1521925725iesew2ra8k" name="Метод Information.RGB (Int32, Int32, Int32)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.information.rgb(v=vs.110).aspx" tags="Цвет, Color, RGB" ctime="20180325000845" dir="15219257254r82g9tett" file="text.html"/>
-    <record id="1521926020o45s3706xk" name="Практическое руководство. Запись текста в файл" author="" url="https://docs.microsoft.com/ru-ru/dotnet/standard/io/how-to-write-text-to-a-file" tags="" ctime="20180325001340" dir="1521926020abxj1g09sz" file="text.html"/>
-    <record id="1521926135gz8hk5mmx2" name="Метод FileSystem.FileExists (String)" author="" url="https://msdn.microsoft.com/ru-ru/library/microsoft.visualbasic.fileio.filesystem.fileexists(v=vs.120).aspx?cs-save-lang=1&amp;cs-lang=vb#code-snippet-1" tags="FileExists, VB" ctime="20180325001535" dir="1521926135cog38opvuy" file="text.html"/>
-    <record id="1521926568bqhkrx4zdg" name="Как проиграть MP3" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002248" dir="15219265681psr5o4pti" file="text.html"/>
-    <record id="152192662202rpvmtmm4" name="Обработка сочетания горячих клавиш" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002342" dir="1521926622yv8v9ou8oz" file="text.html"/>
-    <record id="1521926667rpsrxxuyrw" name="Подключение к Excel как к БД" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002427" dir="15219266676ztmhofe7i" file="text.html"/>
-    <record id="1521926827ky1l3eddb5" name="Перевести ПК в режим сна" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180325002707" dir="1521926827w5dogu5ob4" file="text.html"/>
-    <record id="1521926863mdpq68bpna" name="Получить Double-значения из строки" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="" ctime="20180325002743" dir="15219268632blgc131nl" file="text.html"/>
-    <record id="1521926930aaetfi15ck" name="Поиск файлов на диске" author="" url="http://pamirych.ru/category/vb-net-faq/page/6/" tags="" ctime="20180325002850" dir="1521926930fgvgljswmv" file="text.html"/>
-    <record id="1521926971cymx8ygdgl" name="Записать картинку в БД" author="" url="http://pamirych.ru/category/vb-net-faq/page/6/" tags="" ctime="20180325002931" dir="1521926971qj7azzph3a" file="text.html"/>
-    <record id="1523186406xf8qcp708o" name="Получить имя компьютера по его IP-адресу" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%b8%d0%bc%d1%8f-%d0%ba%d0%be%d0%bc%d0%bf%d1%8c%d1%8e%d1%82%d0%b5%d1%80%d0%b0-%d0%bf%d0%be-%d0%b5%d0%b3%d0%be-ip-%d0%b0%d0%b4%d1%80%d0%b5%d1%81%d1%83/" tags="vb, ip" ctime="20180408142006" dir="1523186406l5cd1fix7p" file="text.html"/>
-    <record id="15231865053fp9e6loom" name="Сделать кнопку формы «Закрыть» (крестик) неактивной" author="" url="http://pamirych.ru/%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d1%83-%d1%84%d0%be%d1%80%d0%bc%d1%8b-%d0%b7%d0%b0%d0%ba%d1%80%d1%8b%d1%82%d1%8c-%d0%ba%d1%80%d0%b5%d1%81%d1%82%d0%b8/" tags="VB, form" ctime="20180408142145" dir="1523186505p87cllb87m" file="text.html"/>
-    <record id="15231867915vaanx23oa" name="Получить имена переменных и их значение" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b8%d1%82%d1%8c-%d0%b8%d0%bc%d0%b5%d0%bd%d0%b0-%d0%bf%d0%b5%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%bd%d1%8b%d1%85-%d0%b8-%d0%b8%d1%85-%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd/" tags="vb, переменные" ctime="20180408142631" dir="1523186791imm1njeibi" file="text.html"/>
-    <record id="15231870405t5s5mjxbu" name="Сжатие картинок — групповая обработка (2)" author="" url="http://pamirych.ru/%d1%81%d0%b6%d0%b0%d1%82%d0%b8%d0%b5-%d0%ba%d0%b0%d1%80%d1%82%d0%b8%d0%bd%d0%be%d0%ba-%d0%b3%d1%80%d1%83%d0%bf%d0%bf%d0%be%d0%b2%d0%b0%d1%8f-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-2/" tags="Сжатие картинок" ctime="20180408143040" dir="1523187040ux3xu9dfro" file="text.html">
-     <files>
-      <file id="1523187264879z1javam" fileName="Change-Bitmap-Size.rar" type="file"/>
-     </files>
-    </record>
-    <record id="1523187493n1rbg91pcw" name="Вывести слова, начинающиеся с большой буквы и заканчивающиеся гласной" author="" url="http://pamirych.ru/%d1%81%d0%bb%d0%be%d0%b2%d0%b0-%d1%81-%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%be%d0%b9-%d0%b1%d1%83%d0%ba%d0%b2%d1%8b/" tags="Vb, строки" ctime="20180408143813" dir="1523187493rd095eoip1" file="text.html"/>
-    <record id="1523815648wjbnd6zukk" name="Получение всех однотипных компонентов формы" author="" url="http://pamirych.ru/%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d1%81%d0%b5%d1%85-%d0%be%d0%b4%d0%bd%d0%be%d1%82%d0%b8%d0%bf%d0%bd%d1%8b%d1%85-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82/" tags="form, vb" ctime="20180415210728" dir="1523815648vxoekseqxu" file="text.html"/>
-    <record id="152381571091yyns43vg" name="Удалить пустые строки в конце файла" author="" url="http://pamirych.ru/%d1%83%d0%b4%d0%b0%d0%bb%d0%b8%d1%82%d1%8c-%d0%bf%d1%83%d1%81%d1%82%d1%8b%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8-%d0%b2-%d0%ba%d0%be%d0%bd%d1%86%d0%b5-%d1%84%d0%b0%d0%b9%d0%bb%d0%b0/" tags="vb" ctime="20180415210830" dir="1523815710sxzy3llvr2" file="text.html"/>
-    <record id="15273370785cz3b52rec" name="Работа с процессами в VB.NET" author="" url="http://pamirych.ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B0%D0%BC%D0%B8-%D0%B2-vb-net/" tags="" ctime="20180526151758" dir="1527337078ac9hrntjqk" file="text.html"/>
-    <record id="1521279133k8s4isbggx" name="Развернуть окно стороннего приложения" author="" url="http://pamirych.ru/category/vb-net-faq/" tags="" ctime="20190729161957" dir="152127913328vn4939ku" file="text.html"/>
-    <record id="1583087753pbe026a05b" name="как привязать размер текста в textbox к размеру окна" author="" url="https://social.msdn.microsoft.com/Forums/ru-RU/04d1bc5a-9fac-4052-bb34-8e8e457b1f1d/108210721082-108710881080107411031079107210901100?forum=miscellaneousru" tags="Font.Size" ctime="20200301213553" dir="1583087753lrqc24sk0g" file="text.html"/>
-    <record id="1583122142t71cfn9zxu" name="Как скрыть/показать панель задач и ярлыки на рабочем столе " author="" url="http://www.cyberforum.ru/vb-net/thread450625.html" tags="DPI, разрешение экрана" ctime="20200302070902" dir="158312214246zajiqdm1" file="text.html"/>
-    <record id="1583122508fkf1qj5ld1" name="Как можно определить сколько dpi поставлено на мониторе? " author="" url="http://www.vbnet.ru/forum/show.aspx?id=141378" tags="DPI, разрешение экрана" ctime="20200302071508" dir="1583122508cxu04rttm4" file="text.html"/>
-    <record id="1583122647a024kkdb9r" name="Получить общие мониторы и разрешение экрана" author="" url="https://riptutorial.com/ru/vba/example/31840/%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D0%BC%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80%D1%8B-%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0" tags="DPI, разрешение экрана" ctime="20200302071727" dir="15831226474ff4kxwqdk" file="text.html"/>
-    <record id="15831232995alhanhe1h" name="Пиксели, поинты, твипы и DPI!" author="" url="https://www.cyberforum.ru/vba/thread630106.html" tags="DPI, разрешение экрана" ctime="20200302072819" dir="1583123299g9wbzwehho" file="text.html"/>
-    <record id="15831466110jrg7m1jir" name="Как определить разрешение экрана" author="" url="http://visualprogs.ru/sample/121.html" tags="DPI, разрешение экрана" ctime="20200302135651" dir="1583146611a8wj0dg4my" file="text.html"/>
-    <record id="1583146998x5gtykyk8v" name="Как программно узнать разрешение экрана " author="" url="https://www.cyberforum.ru/vba/thread428630.html" tags="DPI, разрешение экрана" ctime="20200302140318" dir="1583146998d6iylw6j9x" file="text.html"/>
-    <record id="16396697967haxx2vklf" name="Как получить элемент управления, используя его имя в Visual Basic .NET?" author="" url="https://question-it.com/questions/1536510/kak-poluchit-element-upravlenija-ispolzuja-ego-imja-v-visual-basic-net" tags="VB.NET, Controls" ctime="20211216184956" dir="16396697969eivrnfnw8" file="text.html"/>
-    <record id="1640149156iv4recenyo" name="Как измерить время выполнения фрагмента программы?" author="" url="https://www.cyberforum.ru/vb-net/thread1160580.html" tags="Timer, VB .NET" ctime="20211222075916" dir="1640149156z4dq45zza7" file="text.html"/>
-   </recordtable>
-   <node crypt="" icon="" id="15219230886efojlpbnt" name="Формы">
-    <recordtable>
-     <record id="1521926767ubh2x0z9ky" name="Подогнать текст под размер Label, сократив его точками" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180408141725" dir="152192676757lp7hqmu9" file="text.html"/>
-     <record id="15231880011z6iemuc7l" name="Форматирование цвета и шрифта ListBox и ComboBox" author="" url="" tags="vb,ListBox, ComboBox" ctime="20180408144709" dir="1523188001ppuaed5toc" file="text.html"/>
-    </recordtable>
-    <node crypt="" icon="" id="1523186259uoimqb17tu" name="DataGridView">
-     <recordtable>
-      <record id="15231861699ofkohmxj0" name="Автоподбор высоты строки в DataGridView" author="" url="http://pamirych.ru/%d0%b0%d0%b2%d1%82%d0%be%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80-%d0%b2%d1%8b%d1%81%d0%be%d1%82%d1%8b-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8-%d0%b2-datagridview-2/" tags="VB,DataGridView" ctime="20180408141744" dir="1523186169w8gaa023rs" file="text.html"/>
-      <record id="1520393511qygfrgieqo" name="Сортировка столбца DataGridView по дате - Visual Basic .NET»" author="" url="http://studassistent.ru/vb-net/sortirovka-stolbca-datagridview-po-date-visual-basic-net" tags="datagridview" ctime="20180408141846" dir="1520393511lkbx50pjtn" file="text.html"/>
-      <record id="1520310209wdxm2pslhj" name="Практическое руководство. Настройка шрифтов и цветов в элементе управления DataGridView в Windows Forms" author="" url="https://docs.microsoft.com/ru-ru/dotnet/framework/winforms/controls/how-to-set-font-and-color-styles-in-the-windows-forms-datagridview-control" tags="DataGridView" ctime="20180408141848" dir="15203102091saezw4pu6" file="text.html"/>
-      <record id="1520310342fgqwm6t3pu" name="Стили ячеек элемента управления DataGridView в Windows Forms" author="" url="https://docs.microsoft.com/ru-ru/dotnet/framework/winforms/controls/cell-styles-in-the-windows-forms-datagridview-control" tags="DataGridView" ctime="20180408141850" dir="1520310342s8k4wkh5gk" file="text.html"/>
-      <record id="1520329478h0lvdvw5nn" name="Выровнять по центру" author="" url="http://www.cyberforum.ru/vb-net/thread1013343.html" tags="DataGridView" ctime="20180408141852" dir="1520329478mgf1fbg9kx" file="text.html"/>
-      <record id="1520393254goua3lcptp" name="DataGridView. Выровнять текст в ячейке" author="" url="http://studassistent.ru/vb-net/datagridview-vyrovnyat-tekst-v-yacheyke-visual-basic-net" tags="DataGridView" ctime="20180408141854" dir="15203932542wzm8f3u28" file="text.html"/>
-      <record id="1520396105ppd9rhjr1n" name="Объект для отображения табличной информации DataGridView. Настройка свойств столбцов в DataGridView" author="" url="https://www.intuit.ru/studies/courses/502/358/lecture/8537" tags="DataGridView" ctime="20180408141857" dir="1520396105s6ipth4a3e" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
-  <node crypt="" icon="" id="1530364271b5u91z9u70" name="Linux">
-   <recordtable>
-    <record id="1530365191761yssk08p" name="Абсолютная и относительная адресация. Команда cd" author="" url="https://younglinux.info/bash/cd.php" tags="Linux, cd, командная строка" ctime="20180630162631" dir="1530365191x58pw54a8l" file="text.html"/>
-    <record id="15303652664ldfgidnt8" name="Как работать в командной строке Linux" author="" url="https://younglinux.info/bash/input.php" tags="Linux, командная строка" ctime="20180630162746" dir="1530365266cbiy82dkcv" file="text.html"/>
-    <record id="1530365335ps04utp7q5" name="Командная оболочка Linux" author="" url="https://younglinux.info/bash/terminal.php" tags="командная строка, Linux" ctime="20180630162855" dir="153036533583frbtqimo" file="text.html"/>
-   </recordtable>
-  </node>
   <node crypt="" icon="" id="1482729291ru4mgxjbmj" name="Корзина"/>
-  <node crypt="" id="1694884880k9h58b0x1s" name="!История">
-   <node crypt="" id="1694884894vx4ew8dir5" name="2023">
-    <node crypt="" id="1694884894hj8de0zjm1" name="Сентябрь">
-     <recordtable>
-      <record id="1694884894vta76yzyty" name="001" ctime="20230916202134" dir="1694884894lfpahk0o7e" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
-  <node crypt="" id="1694885944mp9mcogzoh" name="@Список">
-   <recordtable>
-    <record id="1694885981kzhmgmnwj4" name="001" ctime="20230916203941" dir="1694885981ooayne87ud" file="text.html"/>
-   </recordtable>
-  </node>
  </content>
 </root>
