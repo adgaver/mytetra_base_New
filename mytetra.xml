@@ -4092,14 +4092,5 @@
     </node>
    </node>
   </node>
-  <node crypt="" id="1694964625gb91qmoljq" name="!История">
-   <node crypt="" id="1694964656hhw6kjl34f" name="2023">
-    <node id="169496465636dyszcqmg" name="Сентябрь">
-     <recordtable>
-      <record id="1694964656phafltozdr" name="001" ctime="20230917183056" dir="1694964656sn3t2ww52o" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-  </node>
  </content>
 </root>
