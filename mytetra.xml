@@ -3946,7 +3946,7 @@
 				<recordtable>
 					<record id="1521926767ubh2x0z9ky" name="Подогнать текст под размер Label, сократив его точками" author="" url="http://pamirych.ru/category/vb-net-faq/page/5/" tags="VB, " ctime="20180408141725" dir="152192676757lp7hqmu9" file="text.html"/>
 					<record id="15231880011z6iemuc7l" name="Форматирование цвета и шрифта ListBox и ComboBox" author="" url="" tags="vb,ListBox, ComboBox" ctime="20180408144709" dir="1523188001ppuaed5toc" file="text.html"/>
-				</recordtable>
+					<record id="1694965232p5gxna29l0" name="./mytetra --control --reload" author="" url="" tags="" ctime="20230917184032" dir="1694965232gqnootoy0c" file="text.html"/></recordtable>
 				<node crypt="" icon="" id="1523186259uoimqb17tu" name="DataGridView">
 					<recordtable>
 						<record id="15231861699ofkohmxj0" name="Автоподбор высоты строки в DataGridView" author="" url="http://pamirych.ru/%d0%b0%d0%b2%d1%82%d0%be%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80-%d0%b2%d1%8b%d1%81%d0%be%d1%82%d1%8b-%d1%81%d1%82%d1%80%d0%be%d0%ba%d0%b8-%d0%b2-datagridview-2/" tags="VB,DataGridView" ctime="20180408141744" dir="1523186169w8gaa023rs" file="text.html"/>
@@ -4080,9 +4080,20 @@
 						<record id="1694544103wx55riveyb" name="VBA Excel. Функция Format (синтаксис, параметры, примеры)" author="" url="https://vremya-ne-zhdet.ru/vba-excel/funktsiya-format/" tags="" ctime="20230917182844" dir="1694544103ibsj8ewxwx" file="text.html"/>
 						<record id="1694598015c91jbjddxr" name="VBA Excel. Вставка рисунка в ячейку" author="https://vremya-ne-zhdet.ru" url="https://vremya-ne-zhdet.ru/vba-excel/vstavka-risunka-v-yacheyku/" tags="VBA Excel, Shapes, EXCEL" ctime="20230917182844" dir="1694598015hqa4yhy0xj" file="text.html"/>
 						<record id="169480152437kx8etcuh" name="VBA Excel. Открыть файл другой программы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/otkryt-fayl-drugoy-programmy/" tags="VBA, FollowHyperlink, Wscript.Shell, run" ctime="20230917182844" dir="1694801524m7yxwwt4fs" file="text.html"/>
-						<record id="16949646563i9ows0p6n" name="VBA Excel. Логические операторы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/logicheskiye-operatory/" tags="" ctime="20230917183056" dir="16949646566y740ddb6a" file="text.html"/><record id="1694964738itsb857dtk" name="VBA Excel. Арифметические операторы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/arifmeticheskiye-operatory/" tags="" ctime="20230917183218" dir="1694964738y0ilz2c1y8" file="text.html"/><record id="16949649179lfofblcma" name="VBA Excel. Ошибки в таблице – поиск и исправление" author="" url="https://vremya-ne-zhdet.ru/vba-excel/oshibki-v-tablitse/" tags="" ctime="20230917183517" dir="1694964917s4jzh6qyc3" file="text.html"/><record id="1694964937fmc1mm9jdc" name="VBA Excel. Ошибки в таблице – поиск и исправление" author="" url="https://vremya-ne-zhdet.ru/vba-excel/oshibki-v-tablitse/" tags="" ctime="20230917183537" dir="1694964937v5kazimiiw" file="text.html"/></recordtable>
+						<record id="16949646563i9ows0p6n" name="VBA Excel. Логические операторы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/logicheskiye-operatory/" tags="" ctime="20230917183056" dir="16949646566y740ddb6a" file="text.html"/>
+						<record id="1694964738itsb857dtk" name="VBA Excel. Арифметические операторы" author="" url="https://vremya-ne-zhdet.ru/vba-excel/arifmeticheskiye-operatory/" tags="" ctime="20230917183218" dir="1694964738y0ilz2c1y8" file="text.html"/>
+						<record id="1694964937fmc1mm9jdc" name="VBA Excel. Ошибки в таблице – поиск и исправление" author="" url="https://vremya-ne-zhdet.ru/vba-excel/oshibki-v-tablitse/" tags="" ctime="20230917183537" dir="1694964937v5kazimiiw" file="text.html"/>
+						<record id="1694965449t5szmk1l0q" name="VBA Excel. Раннее и позднее связывание" author="" url="https://vremya-ne-zhdet.ru/vba-excel/ranneye-i-pozdneye-svyazyvaniye/" tags="" ctime="20230917184409" dir="1694965449001adhyber" file="text.html"/></recordtable>
 				</node>
 			</node>
 		</node>
-		<node crypt="" id="1694964625gb91qmoljq" name="!История"><node name="2023" id="1694964656hhw6kjl34f"><node name="Сентябрь" id="169496465636dyszcqmg"><recordtable><record id="1694964656phafltozdr" name="001" ctime="20230917183056" dir="1694964656sn3t2ww52o" file="text.html"/></recordtable></node></node></node>
+		<node crypt="" id="1694964625gb91qmoljq" name="!История">
+			<node crypt="" id="1694964656hhw6kjl34f" name="2023">
+				<node id="169496465636dyszcqmg" name="Сентябрь">
+					<recordtable>
+						<record id="1694964656phafltozdr" name="001" ctime="20230917183056" dir="1694964656sn3t2ww52o" file="text.html"/>
+					</recordtable>
+				</node>
+			</node>
+		</node>
 	</content></root>
