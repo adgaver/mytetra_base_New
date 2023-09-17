@@ -3970,7 +3970,7 @@
 		</node>
 		<node crypt="" icon="" id="1482729291ru4mgxjbmj" name="Корзина"/>
 		<node crypt="" id="1694964502lvpkz5eptw" name="MSO">
-			<node crypt="" id="1694964510j5tf6hhk0w" name="Excel">
+			<recordtable><record id="169497520490rmnznkf2" name="Таблица регионов России по порядку возрастания кода" author="" url="https://mygeografi.ru/spisok-regionov-rossii-2019-god" tags="" ctime="20230917212644" dir="1694975204y6ymkjq0ns" file="text.html"/></recordtable><node crypt="" id="1694964510j5tf6hhk0w" name="Excel">
 				<node crypt="" id="16949645242fxbnlcp4l" name="VBA Excel">
 					<recordtable>
 						<record id="1694801345ynmy0qlgq9" name="VBA Excel. Содержание рубрики" author="" url="https://vremya-ne-zhdet.ru/vba-excel/soderzhaniye-rubriki/" tags="VBA Excel" ctime="20230917182844" dir="1694801345oq7kholjhb" file="text.html"/>
