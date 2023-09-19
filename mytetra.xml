@@ -668,11 +668,7 @@
     <record id="15206838091v1mvqgrt7" name="Работа с датами, временем" author="" url="http://pamirych.ru/%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%81-%D0%B4%D0%B0%D1%82%D0%B0%D0%BC%D0%B8-%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%B5%D0%BC/" tags="VB" ctime="20230919122506" dir="1520683809hvvea3nzzw" file="text.html"/>
     <record id="1520590371zwrf25hzx7" name="Работа с наборами данных в Visual Studio" author="" url="https://msdn.microsoft.com/ru-ru/library/8bw9ksd6.aspx" tags="" ctime="20230919122506" dir="1520590371yyoyjx40wd" file="text.html"/>
     <record id="1582450588rfqw77m433" name="Рабочее время" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=8&amp;TID=28069&amp;MID=357441#message357441" tags="РАБЧАСОВ, рабочее время, Working_Hours" ctime="20230919122506" dir="158245058842dndbl0b3" file="text.html"/>
-    <record id="1484410088oquxojkyet" name="Размер папок © http://www.bestfree.ru/soft/file/size-folder.php" author="" url="http://www.bestfree.ru/soft/file/size-folder.php" tags="" ctime="20230919122506" dir="1484410088odgn0vuarp" file="text.html">
-     <files>
-      <file id="1484410114s2ujdxcnln" fileName="Размер папок — бесплатная программа.pdf" type="file"/>
-     </files>
-    </record>
+    <record id="1484410088oquxojkyet" name="Размер папок © http://www.bestfree.ru/soft/file/size-folder.php" author="" url="http://www.bestfree.ru/soft/file/size-folder.php" tags="" ctime="20230919122506" dir="1484410088odgn0vuarp" file="text.html"/>
     <record id="1612979547yey9xeqj68" name="Распоряжайтесь окнами сами" author="" url="http://www.codenet.ru/progr/vbasic/wnd.php" tags="VBA, окна, Window" ctime="20230919122506" dir="1612979547vnk8hc5s76" file="text.html"/>
     <record id="1520396159mjzhgul002" name="Решаем проблему с кодировкой приложений Windows" author="" url="http://feanor184.ru/windows/reshaem-problemu-s-kodirovkoy-prilozheniy-windows.html" tags="кодировка приложений windows" ctime="20230919122506" dir="1520396159iefimibvaa" file="text.html"/>
     <record id="1514663581uh7ywje48a" name="Сбор данных из множества текстовых файлов с разделителями " author="" url="http://excelvba.ru/code/DATfolder2Array" tags="" ctime="20230919122506" dir="1514663581r7cs5h74j7" file="text.html"/>
@@ -682,16 +678,6 @@
     <record id="15210895128g5jky6eiy" name="Сжатие, изменение размеров изображений - VB»" author="" url="http://studassistent.ru/visual-basic/szhatie-izmenenie-razmerov-izobrazheniy-vb" tags="" ctime="20230919122507" dir="15210895122pp768id4x" file="text.html"/>
     <record id="1525015211z0hwflw9he" name="Символ переноса в VBA" author="" url="http://www.excelworld.ru/forum/10-4922-1" tags="перенос строки, Chr" ctime="20230919122507" dir="1525015211w69g6ndcpy" file="text.html"/>
     <record id="14844099819znikbf1l9" name="Синхронизация © http://www.bestfree.ru/soft/file/synchronization.php" author="" url="http://www.bestfree.ru/soft/file/synchronization.php" tags="" ctime="20230919122507" dir="148440998120lb2ija1y" file="text.html"/>
-    <record id="1514720490meujjala6k" name="Скачивание (загрузка) текста web-страницы в текстовый файл" author="" url="http://excelvba.ru/code/GetWebPageText" tags="vba, InternetExplorer, web" ctime="20230919122507" dir="1514720490nvlvrn4abr" file="text.html">
-     <files>
-      <file id="15147205505lp9irov0y" fileName="WebPageText.xls" type="file"/>
-     </files>
-    </record>
-    <record id="1514720528hogi6n5oci" name="Скачивание исходного кода web-страницы в текстовый файл" author="" url="http://excelvba.ru/code/GetHTTPResponse" tags="vba, InternetExplorer, web" ctime="20230919122507" dir="1514720528pdad8ouv8h" file="text.html">
-     <files>
-      <file id="1514720555el53iic81a" fileName="GetHTTPResponse.xls" type="file"/>
-     </files>
-    </record>
     <record id="1520590164pzvjm3ry1f" name="Смена разрешения экрана" author="" url="about:reader?url=http%3A%2F%2Fpamirych.ru%2F%25d1%2581%25d0%25bc%25d0%25b5%25d0%25bd%25d0%25b0-%25d1%2580%25d0%25b0%25d0%25b7%25d1%2580%25d0%25b5%25d1%2588%25d0%25b5%25d0%25bd%25d0%25b8%25d1%258f-%25d1%258d%25d0%25ba%25d1%2580%25d0%25b0%25d0%25bd%25d0%25b0%2F" tags="" ctime="20230919122507" dir="1520590164lbjyes2kki" file="text.html"/>
     <record id="1484021759jdhppe6jhi" name="Создаем расширенный список выбора в Excel с помощью VBA" author="" url="http://www.programm-school.ru/rasshirenye_spiski_v_excel_vba.html" tags="Form, Списки, Форма" ctime="20230919122507" dir="1484021759pjrl7506gd" file="text.html">
      <files>
@@ -1345,6 +1331,16 @@
      <record id="1563334687ig4gayh8j8" name="Как с помощью VBA извлекать информацию из Web-страниц" author="" url="https://compress.ru/article.aspx?id=12471" tags="VBA Web, " ctime="20230919122024" dir="1563334687a1h2x8rmg2" file="text.html"/>
      <record id="1563334839sm3nhxv2pf" name="Получение данных через SOAP в Access  [new]" author="" url="https://www.sql.ru/forum/886218/poluchenie-dannyh-cherez-soap-v-access?mid=11410921#11410921" tags="VBA Web, " ctime="20230919122024" dir="1563334839fzxjdbw8as" file="text.html"/>
      <record id="1563334853nqifohbg0n" name="web запросы через vba  [new]" author="" url="https://www.sql.ru/forum/992943/web-zaprosy-cherez-vba" tags="VBA Web, " ctime="20230919122024" dir="1563334853m60xbyf5ff" file="text.html"/>
+     <record id="1514720490meujjala6k" name="Скачивание (загрузка) текста web-страницы в текстовый файл" author="" url="http://excelvba.ru/code/GetWebPageText" tags="vba, InternetExplorer, web" ctime="20230919161717" dir="1514720490nvlvrn4abr" file="text.html">
+      <files>
+       <file id="15147205505lp9irov0y" fileName="WebPageText.xls" type="file"/>
+      </files>
+     </record>
+     <record id="1514720528hogi6n5oci" name="Скачивание исходного кода web-страницы в текстовый файл" author="" url="http://excelvba.ru/code/GetHTTPResponse" tags="vba, InternetExplorer, web" ctime="20230919161721" dir="1514720528pdad8ouv8h" file="text.html">
+      <files>
+       <file id="1514720555el53iic81a" fileName="GetHTTPResponse.xls" type="file"/>
+      </files>
+     </record>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695115231oftkid0sm4" name="VBA ZIP">
