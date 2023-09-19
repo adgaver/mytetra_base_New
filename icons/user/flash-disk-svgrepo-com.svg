@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 68.915 68.915" xmlns="http://www.w3.org/2000/svg">
+  <g id="Group_53" data-name="Group 53" transform="translate(-625.907 -421.086)">
+    <path id="Path_148" data-name="Path 148" d="M658.612,436.982a.815.815,0,0,1,0,1.152L642.954,453.79a.812.812,0,0,1-1.15,0l-15.658-15.656a.815.815,0,0,1,0-1.152L641.8,421.324a.814.814,0,0,1,1.15,0Z" fill="#dce2e9"/>
+    <path id="Path_149" data-name="Path 149" d="M641.8,421.324l-.574.575a.814.814,0,0,1,1.15,0l15.656,15.659a.811.811,0,0,1,0,1.15l.576-.574a.815.815,0,0,0,0-1.152l-15.658-15.658A.814.814,0,0,0,641.8,421.324Z" fill="#bfc8d5"/>
+    <path id="Path_150" data-name="Path 150" d="M642.38,453.216l-15.658-15.658a.812.812,0,0,1,0-1.151l-.576.575a.815.815,0,0,0,0,1.152L641.8,453.79a.812.812,0,0,0,1.15,0l.576-.575A.814.814,0,0,1,642.38,453.216Z" fill="#ffffff" opacity="0.5" style="mix-blend-mode: screen;isolation: isolate"/>
+    <path id="Path_151" data-name="Path 151" d="M638.273,456.466l28.767,28.767a16.274,16.274,0,0,0,23.016-23.013l-28.768-28.768Z" fill="#ffc52f"/>
+    <path id="Path_152" data-name="Path 152" d="M688.9,484.083a16.271,16.271,0,0,1-23.013,0l1.15,1.15a16.274,16.274,0,0,0,23.016-23.013l-1.153-1.151A16.272,16.272,0,0,1,688.9,484.083Z" fill="#ffc52f" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Path_153" data-name="Path 153" d="M686.788,481.968a13.534,13.534,0,0,1-19.117,0l-25.334-25.335,19.117-19.116,25.334,25.335A13.53,13.53,0,0,1,686.788,481.968ZM644.64,456.633l24.181,24.183A11.891,11.891,0,1,0,685.638,464l-24.184-24.184Z" fill="#ffc52f" opacity="0.5" style="mix-blend-mode: screen;isolation: isolate"/>
+    <path id="Path_154" data-name="Path 154" d="M660.2,455.421l1.6,4.256.035-.038.895-.894,8.336,8.336-4.268-.2a1.572,1.572,0,0,1-1.035-.459l-.459-.459a1.775,1.775,0,1,0-.834.817l.467.466a2.722,2.722,0,0,0,1.806.8l4.582.219a2.429,2.429,0,0,1,1.582.688,2.727,2.727,0,1,0,.842-.837l-.623-.624v0l-.99-.991a3.05,3.05,0,0,1-.891-2.147V460.3a2.628,2.628,0,0,0-.761-1.838l-.512-.512.8-.8-2.444-2.445-2.447,2.445,2.447,2.448.819-.822.511.514a1.439,1.439,0,0,1,.422,1.011l0,4.05.006.1-6.527-6.527.906-.9Z" fill="#ffc52f" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Rectangle_29" data-name="Rectangle 29" d="M.814,0H4.157A.813.813,0,0,1,4.97.813V3.1a.813.813,0,0,1-.813.813H.813A.813.813,0,0,1,0,3.1V.814A.814.814,0,0,1,.814,0Z" transform="translate(633.626 441.01) rotate(-45)" fill="#5a6271"/>
+    <path id="Rectangle_30" data-name="Rectangle 30" d="M.34,0h1.4A.342.342,0,0,1,2.08.342V1.3a.34.34,0,0,1-.34.34H.342A.342.342,0,0,1,0,1.3V.34A.34.34,0,0,1,.34,0Z" transform="translate(640.163 443.458) rotate(-45)" fill="#dce2e9" opacity="0.4" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Rectangle_31" data-name="Rectangle 31" d="M.34,0h1.4A.339.339,0,0,1,2.08.339V1.3a.34.34,0,0,1-.34.34H.342A.342.342,0,0,1,0,1.295V.34A.34.34,0,0,1,.34,0Z" transform="matrix(0.707, -0.707, 0.707, 0.707, 646.748, 436.871)" fill="#dce2e9" opacity="0.4" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <path id="Rectangle_32" data-name="Rectangle 32" d="M.814,0H4.158a.813.813,0,0,1,.813.813V3.1a.814.814,0,0,1-.814.814H.814A.814.814,0,0,1,0,3.1V.814A.814.814,0,0,1,.814,0Z" transform="matrix(0.707, -0.707, 0.707, 0.707, 642.256, 432.38)" fill="#5a6271"/>
+  </g>
+</svg>
