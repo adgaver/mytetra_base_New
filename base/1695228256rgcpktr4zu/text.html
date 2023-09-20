@@ -1,0 +1,8 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:11pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Вы не можете сделать это напрямую из командной строки.</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Вам нужно позвонить <span style=" font-family:'Courier New'; color:#000000;">page.pause()</span>из вашего скрипта (где вы уже запустили браузер без безопасности), это приостановит выполнение скрипта и откроет новое окно кодегена (помимо браузера).</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:40px; margin-right:40px; -qt-block-indent:0; text-indent:0px;">Если вы хотите использовать codegen в какой-то нестандартной настройке (например, use <span style=" font-family:'Courier New'; color:#000000;">browserContext.route(url, handler[, options]))</span>), можно вызвать <span style=" font-family:'Courier New'; color:#000000;">page.pause()</span>это, чтобы открыть отдельное окно с элементами управления codegen.</p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">См. пример <a href="https://playwright.dev/docs/codegen#record-using-custom-setup"><span style=" text-decoration: underline; color:#0000ff;">https://playwright.dev/docs/cli/#codegen-with-custom-setup .</span></a></p></body></html>
