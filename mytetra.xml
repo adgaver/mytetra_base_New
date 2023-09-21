@@ -1641,13 +1641,7 @@
      <record id="1695217040sgxsl8imby" name="launchPersistentContext" author="" url="https://playwright.dev/docs/next/api/class-browsertype" tags="launchPersistentContext, playwright" ctime="20230920163720" dir="1695217040g5p4rqusyc" file="text.html"/>
      <record id="1695217075bolj6nsyil" name="launchPersistentContext Возвращает экземпляр постоянного контекста браузера." author="" url="https://playwright.dev/docs/next/api/class-browsertype" tags="launchPersistentContext, playwright" ctime="20230920163755" dir="1695217075v2lcr2tufk" file="text.html"/>
      <record id="1695281578v0wedlydjd" name="time.sleep()приводит к устаревшему " author="" url="https://playwright.dev/python/docs/library#known-issues" tags="" ctime="20230921103258" dir="16952815783y2lxcy18x" file="text.html"/>
-     <record id="1695282985p8jdr2yest" name="1" author="" url="" tags="" ctime="20230921105625" dir="1695282985kohs33sr9m" file="text.html"/>
-     <record id="1695283031ysnr81sro8" name="2" author="" url="" tags="" ctime="20230921105711" dir="1695283031j76tndolfl" file="text.html"/>
-     <record id="16952830559j8d0v79fu" name="3" author="" url="" tags="" ctime="20230921105735" dir="1695283055ntvyoot7df" file="text.html"/>
-     <record id="1695283075fsfwj55z4h" name="4" author="" url="" tags="" ctime="20230921105755" dir="1695283075fnuaxjih2x" file="text.html"/>
-     <record id="1695283090vhedz10gle" name="5" author="" url="" tags="" ctime="20230921105810" dir="1695283090p4r5h6rcts" file="text.html"/>
-     <record id="1695283110xlbpxphuv9" name="6" author="" url="" tags="" ctime="20230921105830" dir="1695283110uiksyaw83i" file="text.html"/>
-     <record id="1695283146a7ifuk8ts1" name="7" author="" url="" tags="" ctime="20230921105906" dir="1695283146q1jus8sn8i" file="text.html"/>
+     <record id="1695283110xlbpxphuv9" name="Playwright: полный гайд + FAQ" author="" url="https://testengineer.ru/playwright-tutorial/" tags="Playwright" ctime="20230921105830" dir="1695283110uiksyaw83i" file="text.html"/>
      <record id="1695283175xbqw60g5vl" name="8 Циклы в Python" author="" url="" tags="" ctime="20230921105935" dir="1695283175688wl0uhf3" file="text.html"/>
      <record id="16952906547h4ta13pwe" name="Как дождаться загрузки страницы с помощью Playwright?" author="" url="https://qaa-engineer.ru/kak-dozhdatsya-zagruzki-straniczy-s-pomoshhyu-playwright-2/" tags="" ctime="20230921130414" dir="169529065495as9mmh6e" file="text.html"/>
      <record id="1695316613jjnywuzv0w" name="Start playwright driver session but not incognito " author="" url="https://stackoverflow.com/questions/69255853/start-playwright-driver-session-but-not-incognito" tags="" ctime="20230921201653" dir="1695316613lhbwc89v4f" file="text.html"/>
