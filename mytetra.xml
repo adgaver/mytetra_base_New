@@ -1621,7 +1621,9 @@
 				<record id="1695122484yx0br75fms" name="Передача параметров в скрипт Python из командной строки" author="" url="https://writegamepython.wordpress.com/2018/06/15/%d0%bf%d0%b5%d1%80%d0%b5%d0%b4%d0%b0%d1%87%d0%b0-%d0%bf%d0%b0%d1%80%d0%b0%d0%bc%d0%b5%d1%82%d1%80%d0%be%d0%b2-%d0%b2-%d1%81%d0%ba%d1%80%d0%b8%d0%bf%d1%82-python-%d0%b8%d0%b7-%d0%ba%d0%be%d0%bc%d0%b0/" tags="Python, param, параметр" ctime="20230919142124" dir="1695122484lus0thfv8w" file="text.html"/>
 				<record id="16951224849ray16n02k" name="Отслеживаем прогресс выполнения в Python " author="" url="https://habr.com/ru/articles/483400/" tags="Python, progress bar" ctime="20230919142124" dir="1695122484vp1dczxtl0" file="text.html"/>
 				<record id="1695276208yx2erafkan" name="Циклы в Python" author="" url="https://python-scripts.com/loops-for-while" tags="" ctime="20230921090328" dir="1695276208r6q51h2wix" file="text.html"/>
-				<record id="1695299595pk2re4nxz8" name="Как получить полное имя пользователя Windows на python?" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.19be4f2d-650c350e-77cd6011-74722d776562/https/stackoverflow.com/questions/21766954/how-to-get-windows-users-full-name-in-python" tags="" ctime="20230921153315" dir="1695299595cltenijx0k" file="text.html"/></recordtable>
+				<record id="1695299595pk2re4nxz8" name="Как получить полное имя пользователя Windows на python?" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.19be4f2d-650c350e-77cd6011-74722d776562/https/stackoverflow.com/questions/21766954/how-to-get-windows-users-full-name-in-python" tags="" ctime="20230921153315" dir="1695299595cltenijx0k" file="text.html"/>
+				<record id="1695305374yz8xefwg75" name="List Outdated Dependencies with Pip (Получение списка устаревших пакетов с помощью Pip)" author="" url="https://blog.dbrgn.ch/2013/4/26/pip-list-outdated/" tags="python, pip" ctime="20230921170934" dir="1695305374hczhd4lihu" file="text.html"/>
+				<record id="1695305498u6vfp46crv" name="Поиск устаревших / обновляемых пакетов pip" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.464da993-650c4dcb-a48d6c3e-74722d776562/https/superuser.com/questions/259474/find-outdated-updatable-pip-packages" tags="" ctime="20230921171138" dir="1695305498h52jcla1rc" file="text.html"/></recordtable>
 			<node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
 				<recordtable>
 					<record id="1695122484cr6bdlx6lc" name="Открытый курс машинного обучения. Тема 2: Визуализация данных c Python" author="" url="https://m.habr.com/ru/company/ods/blog/323210/" tags="" ctime="20230919142124" dir="1695122484r2ajjzng4l" file="text.html"/>
@@ -1644,7 +1646,8 @@
 					<record id="1695283110xlbpxphuv9" name="6" author="" url="" tags="" ctime="20230921105830" dir="1695283110uiksyaw83i" file="text.html"/>
 					<record id="1695283146a7ifuk8ts1" name="7" author="" url="" tags="" ctime="20230921105906" dir="1695283146q1jus8sn8i" file="text.html"/>
 					<record id="1695283175xbqw60g5vl" name="8 Циклы в Python" author="" url="" tags="" ctime="20230921105935" dir="1695283175688wl0uhf3" file="text.html"/>
-					<record id="16952906547h4ta13pwe" name="Как дождаться загрузки страницы с помощью Playwright?" author="" url="https://qaa-engineer.ru/kak-dozhdatsya-zagruzki-straniczy-s-pomoshhyu-playwright-2/" tags="" ctime="20230921130414" dir="169529065495as9mmh6e" file="text.html"/></recordtable>
+					<record id="16952906547h4ta13pwe" name="Как дождаться загрузки страницы с помощью Playwright?" author="" url="https://qaa-engineer.ru/kak-dozhdatsya-zagruzki-straniczy-s-pomoshhyu-playwright-2/" tags="" ctime="20230921130414" dir="169529065495as9mmh6e" file="text.html"/>
+				</recordtable>
 			</node>
 			<node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
 				<node crypt="" icon="" id="16951224846j6g6xor7u" name="Qt">
