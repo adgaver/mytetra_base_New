@@ -1629,6 +1629,7 @@
     <record id="1695371120db0pciw47o" name="Python, Манипуляции с файлами и папками" author="" url="https://pykili.github.io/prog/22-file-manipulation" tags="python, file,folser, dir" ctime="20230922112520" dir="1695371120d1ku90t4sz" file="text.html"/>
     <record id="1695372309l8jcnbmv89" name="Распаковка файлов из архивов zip или tar.gz с помощью Python" author="" url="https://pythonist.ru/raspakovka-fajlov-iz-zip-ili-tar-gz-s-pomoshhyu-python/" tags="python, zip" ctime="20230922114509" dir="16953723097ouqjjrlxa" file="text.html"/>
     <record id="1695372572cdsx6ucu0k" name="Запись и чтение архивных zip-файлов" author="" url="https://metanit.com/python/tutorial/4.7.php" tags="python, zip" ctime="20230922114932" dir="1695372572k1tgurkxvh" file="text.html"/>
+    <record id="1695736964gafjtw2lq6" name="Как определить значение по умолчанию, если пустой пользовательский ввод в Python?" author="" url="https://stackoverflow.com/questions/22402548/how-to-define-default-value-if-empty-user-input-in-python" tags="python, input" ctime="20230926170244" dir="1695736964llc6m8shdt" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
     <recordtable>
