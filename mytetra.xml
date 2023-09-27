@@ -1631,6 +1631,9 @@
     <record id="1695372572cdsx6ucu0k" name="Запись и чтение архивных zip-файлов" author="" url="https://metanit.com/python/tutorial/4.7.php" tags="python, zip" ctime="20230922114932" dir="1695372572k1tgurkxvh" file="text.html"/>
     <record id="1695736964gafjtw2lq6" name="Как определить значение по умолчанию, если пустой пользовательский ввод в Python?" author="" url="https://stackoverflow.com/questions/22402548/how-to-define-default-value-if-empty-user-input-in-python" tags="python, input" ctime="20230926170244" dir="1695736964llc6m8shdt" file="text.html"/>
     <record id="1695796710aq60gasgat" name="Определение пути приложения в EXE-файле Python" author="" url="https://stackoverflow.com/questions/404744/determining-application-path-in-a-python-exe-generated-by-pyinstaller" tags="python, root, path," ctime="20230927093830" dir="1695796710h8iuf5dgyp" file="text.html"/>
+    <record id="1695796870f8cybmm6wh" name="8 команд для Python по работе с файлами и файловой системой, которые обязательно нужно знать" author="" url="https://habr.com/ru/companies/selectel/articles/547290/" tags="python, root, path, rmdir, remove, rmtree, shutil, delete" ctime="20230927094110" dir="16957968708dwbgkrcu0" file="text.html"/>
+    <record id="169579713732d1wxe5dq" name="Удаление файла или папки в Python" author="" url="https://sky.pro/media/udalenie-fajla-ili-papki-v-python/" tags="python, root, path, rmdir, remove, rmtree, shutil, delete" ctime="20230927094537" dir="16957971371efnry1uc3" file="text.html"/>
+    <record id="16957971716re72a3zsn" name="Удаление файла в python — пошаговое руководство" author="" url="https://pythonist.ru/udalenie-fajla-poshagovoe-rukovodstvo/" tags="python, root, path, rmdir, remove, rmtree, shutil, delete" ctime="20230927094611" dir="1695797171x0td0t8uwd" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
     <recordtable>
