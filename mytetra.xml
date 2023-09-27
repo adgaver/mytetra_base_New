@@ -2046,6 +2046,7 @@
      <record id="1570878680uwr2f85wjr" name="Как определить, существует ли книга в папке" author="" url="https://excelpedia.ru/makrosi-v-excel/suschestvuet_li_kniga" tags="" ctime="20230919155635" dir="1570878680wpo6nysp78" file="text.html"/>
      <record id="1570883191j7f3rjfnqv" name="Как открыть все рабочие книги в папке" author="" url="https://excelpedia.ru/makrosi-v-excel/otkrit-vse-rabochie-knigi" tags="" ctime="20230919155635" dir="1570883191s7duh4kxsk" file="text.html"/>
      <record id="1694072804ku2831yzfk" name="Как показывать подсказки при написании пользовательской функции в Excel?" author="" url="https://stackoverflow.com/questions/11004445/how-to-show-hints-when-writing-function-in-excel" tags="UDF, пользовательские функции, определенные пользователем, EXCEL, VBA" ctime="20230919155635" dir="1694072804s24qyko7ua" file="text.html"/>
+     <record id="1695805652hub3isn3h1" name="поиск значения в диапазоне" author="" url="" tags="VBA, Range, each, поиск" ctime="20230927120732" dir="16958056528n0s1oqtds" file="text.html"/>
     </recordtable>
     <node crypt="" icon="" id="16951225796z6hpzohot" name="Формулы">
      <recordtable>
@@ -2328,6 +2329,7 @@
        <record id="1570884827o04l89u72z" name="Фильтры на VBA (AutoFilter Method): самое подробное руководство в рунете" author="" url="https://excelpedia.ru/makrosi-v-excel/macros-filters-autofilter-method" tags="Фильтр, Filter, AutoFilter, Mode, AutoFilterMode, Sort" ctime="20230919155813" dir="15708848276cw525xzd1" file="text.html"/>
        <record id="1530019629ns56l3i8mp" name="Сортировка столбца на листе" author="" url="" tags="Сортировка столбца на листе, Sort Key, Sort, Сортировка" ctime="20230919155813" dir="1530019629cqb2d8p8vq" file="text.html"/>
        <record id="16119253818uf39gbng5" name="Сортировка" author="Zheltov Alexey" url="https://micro-solution.ru/excel/vba/sorting-algorithm" tags="Сортировка, sorting, array" ctime="20230919155813" dir="1611925381ttsj81s85m" file="text.html"/>
+       <record id="1695805979lfx2dtzu7k" name="фильтр по столбцу, сброс фильтра" author="" url="" tags="VBA, Фильтр, Filter, AutoFilter, Mode, AutoFilterMode" ctime="20230927121259" dir="1695805979a013rr057r" file="text.html"/>
       </recordtable>
      </node>
     </node>
