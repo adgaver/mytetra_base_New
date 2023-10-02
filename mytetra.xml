@@ -1660,6 +1660,7 @@
      <record id="1695316827phkxjr2y07" name="Record using custom setup (Запись с использованием индивидуальной настройки)" author="" url="https://playwright.dev/docs/codegen#record-using-custom-setup" tags="codegen, playwright" ctime="20230921202027" dir="1695316827ceugmd25be" file="text.html"/>
      <record id="169531687658li0rh495" name="Preserve authenticated state​ (Сохранять аутентификацию)" author="" url="https://playwright.dev/docs/codegen#preserve-authenticated-state" tags="" ctime="20230921202116" dir="1695316876qfsox0vkwa" file="text.html"/>
      <record id="1695316912vkiun6e7he" name="Emulate viewport size" author="" url="https://playwright.dev/docs/codegen#emulate-viewport-size" tags="viewport" ctime="20230921202152" dir="1695316912ounjxfynrg" file="text.html"/>
+     <record id="1696242126lqgzwp7pf7" name="Как работает Page.waitForLoadState в Playwright?" author="" url="https://qaa-engineer.ru/kak-rabotaet-page-waitforloadstate-v-playwright/" tags="Playwright, load" ctime="20231002132206" dir="169624212658ahb283fq" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
