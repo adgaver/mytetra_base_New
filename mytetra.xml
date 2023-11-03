@@ -4230,8 +4230,6 @@
    </node>
   </node>
   <node crypt="" icon="/user/trash_z7fgo67p1fh0.svg" id="1482729291ru4mgxjbmj" name="Корзина"/>
-  <node crypt="" id="1694970516dqel0r05tv" name="!История">
-   <node crypt="" id="1694970599n4zn4m6d0e" name="2023"/>
-  </node>
+  <node crypt="" id="1694970516dqel0r05tv" name="!История"/>
  </content>
 </root>
