@@ -1660,7 +1660,7 @@
 					<record id="169771390154xuo0ahwx" name="Pandas: как удалить строки, содержащие определенную строку" author="" url="https://www.codecamp.ru/blog/pandas-drop-rows-that-contain-string/" tags="" ctime="20231019141141" dir="1697713901ous5zznh5t" file="text.html"/>
 					<record id="1697713973jzdvf7hqr5" name="Как удалить повторяющиеся строки в Pandas DataFrame" author="" url="https://www.codecamp.ru/blog/pandas-drop-duplicates/" tags="" ctime="20231019141253" dir="1697713973btu1d627yx" file="text.html"/>
 					<record id="16989197432o9e6pavus" name="Построение Pandas DataFrame из значений в переменных дает «ValueError: если вы используете все скалярные значения, вы должны передать индекс»" author="" url="https://stackoverflow.com/questions/17839973/constructing-pandas-dataframe-from-values-in-variables-gives-valueerror-if-usi" tags="Python, DataFrame, df, pandas, ошибка" ctime="20231102130903" dir="1698919743s59aiz9lf8" file="text.html"/>
-				</recordtable>
+					<record id="16990134685ufn15hgj9" name="Как читать excel-файлы (xlsx) при помощи Python" author="" url="https://pythonist.ru/kak-chitat-excel-fajl-xlsx-v-python/" tags="" ctime="20231103151108" dir="1699013468v3lkrwb52w" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
 				<recordtable>
