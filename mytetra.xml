@@ -50,8 +50,8 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="169489631419bablcxsv" name="!Дневник"/>
-  <node crypt="" id="1694896331v7tmji95hp" name="@Список"/>
+  <node crypt="" icon="" id="169489631419bablcxsv" name="!Дневник"/>
+  <node crypt="" icon="" id="1694896331v7tmji95hp" name="@Список"/>
   <node crypt="" icon="/Gnome/color_gnome_2_computer.svg" id="1481864368od0rjrzens" name="Комп">
    <recordtable>
     <record id="1513309014ws4pud7fuv" name="101 комбинация на клавиатуре" author="" url="https://vk.com/wall-81294248_58725" tags="клавиатура, keys, горячие клавиши" ctime="20171215063654" dir="15133090141mwyos49m3" file="text.html"/>
@@ -1381,7 +1381,7 @@
      <record id="1595097128ofb5blaquk" name="https://regexr.com/" author="" url="https://regexr.com/" tags="Регулярные выражения, RegExp" ctime="20230919122054" dir="1595097128k4nuu4ab2p" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1695115263o1iuk2nci8" name="Операции с файлами">
+   <node crypt="" icon="" id="1695115263o1iuk2nci8" name="Операции с файлами">
     <recordtable>
      <record id="1693476865g3qwxx9s4i" name="КАК УДАЛИТЬ ПАПКУ ИЛИ ВСЕ ФАЙЛЫ ИЗ ПАПКИ ЧЕРЕЗ VBA" author="" url="https://www.excel-vba.ru/chto-umeet-excel/kak-udalit-papku-ili-vse-fajly-iz-papki-cherez-vba/" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230919122103" dir="1693476865g8527neb14" file="text.html"/>
      <record id="1693477551cwa6xihq7j" name="VBA Переместить файл в корзину windows" author="" url="https://www.cyberforum.ru/vba/thread2874062.html" tags="VBA, del, delete, rd, RmDir, Kill" ctime="20230919122103" dir="1693477551gl8c211rej" file="text.html"/>
@@ -1394,7 +1394,7 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" icon="/user/autohotkey-svgrepo-com.svg" id="1695115662qpb18xltcg" name="AHK">
+  <node crypt="" icon="/user/autohotkey.svg" id="1695115662qpb18xltcg" name="AHK">
    <recordtable>
     <record id="15145771060us02ljv5r" name="Документация AutoIt" author="" url="http://autoit-script.ru/autoit3_docs/" tags="AutoIt, автоматизация" ctime="20230919123021" dir="151457710612p6kctxiw" file="text.html"/>
     <record id="154472652926eg8p53j4" name="Скриптовый язык AutoIT" author="" url="http://www.script-coding.com/AutoIT.html" tags="AHK, AutoIT" ctime="20230919123028" dir="1544726529fzh91wxpee" file="text.html"/>
@@ -1654,7 +1654,7 @@
     <record id="16978144711uj12njb4p" name="Как посчитать количество файлов в каталоге с помощью Python" author="" url="https://stackoverflow.com/questions/2632205/how-to-count-the-number-of-files-in-a-directory-using-python" tags="" ctime="20231020180751" dir="1697814471t46qgrx24n" file="text.html"/>
     <record id="1698917420q27yen24cd" name="Как добавить элемент в словарь" author="" url="https://pythonist.ru/kak-dobavit-element-v-slovar/" tags="Python, словарь" ctime="20231102123020" dir="1698917420yxoua0iyzu" file="text.html"/>
    </recordtable>
-   <node crypt="" id="1697713662iz5cf33uyu" name="Pandas">
+   <node crypt="" icon="" id="1697713662iz5cf33uyu" name="Pandas">
     <recordtable>
      <record id="1697713522m39sif8gck" name="Добавить данные в конец существующего Excelsheet" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.f57f6c4d-6530d814-9f9e5168-74722d776562/https/stackoverflow.com/questions/60968539/append-data-to-the-end-of-an-existing-excelsheet" tags="Python, DataFrame, df, pandas" ctime="20231019140756" dir="16977135225lyjy4wmk3" file="text.html"/>
      <record id="1697713702ynx1q928gw" name="Как удалить строки в Pandas DataFrame на основе условия" author="" url="https://www.codecamp.ru/blog/pandas-drop-rows-with-condition/" tags="Python, DataFrame, df, pandas" ctime="20231019140822" dir="1697713702jngw9w6yhg" file="text.html"/>
@@ -2069,7 +2069,7 @@
      </record>
      <record id="1518974958u1xycj6zqf" name="Как открыть Word из Excel макросом VBA? Запуск Word из Excel" author="" url="http://macros-vba.ru/makrosy/excel/159-kak-otkryt-word-iz-excel-makrosom-zapusk-word-iz-excel" tags="Word из Excel" ctime="20230919155635" dir="1518974958jpi7ho30um" file="text.html"/>
      <record id="15206962247kfkbwjdke" name="Границы ячеек" author="" url="http://www.cyberforum.ru/vba/thread1071873.html" tags="Границы ячеек, Borders, LineStyle" ctime="20230919155635" dir="1520696224kg4ey8fvi8" file="text.html"/>
-     <record id="15230020468h2thcxevw" name="Экспорт диаграмм из Excel в Power Point с помощью VBA&#9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/eksport-diagramm-iz-excel-v-power-point-s-pomoshhyu-vba/" tags="vba_excel, vba_powerpoint" ctime="20230919155635" dir="15230020464kbwyolc3z" file="text.html"/>
+     <record id="15230020468h2thcxevw" name="Экспорт диаграмм из Excel в Power Point с помощью VBA&#x9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/eksport-diagramm-iz-excel-v-power-point-s-pomoshhyu-vba/" tags="vba_excel, vba_powerpoint" ctime="20230919155635" dir="15230020464kbwyolc3z" file="text.html"/>
      <record id="1523184173nw4bahfc9o" name="Кнопка на ленте MS Office с изменяемой надписью" author="" url="https://officemacro.wordpress.com/2015/05/16/ribbon-getlabel/" tags="лента, Ribbon,vba" ctime="20230919155635" dir="1523184173tco3770wqm" file="text.html"/>
      <record id="15305925743tzsphb1gk" name="SaveAs.xlsb" author="" url="" tags="SaveAs.xlsb" ctime="20230919155635" dir="1530592574r65t3zqvty" file="text.html"/>
      <record id="1530611360jxt6mbr7hb" name="изменить именованный диапазон" author="" url="" tags="VBA, Names, изменить именованный диапазон" ctime="20230919155635" dir="15306113605wpvpr4fh4" file="text.html"/>
@@ -2218,7 +2218,7 @@
       <record id="1521088632ds3q7n0sq3" name="VBA Excel. Цвет текста в ячейке " author="" url="" tags="VBA, Excel, Color, Цвет, Cells" ctime="20230919155726" dir="1521088632qb4dodctzj" file="text.html"/>
       <record id="15219258234swq02ezu7" name="VBA Excel. Цвет текста (шрифта) в ячейке" author="" url="http://vremya-ne-zhdet.ru/vba-excel/tsvet-teksta-shrifta-v-yacheyke/#3" tags="Цвет, Color, RGB" ctime="20230919155726" dir="1521925823xo6yuudjgj" file="text.html"/>
       <record id="1523001452j0ygg9n051" name="CheckBox в ячейках Excel" author="" url="http://opennotes.ru/knowledge/vba-knowledge/checkbox-v-yachejkax-excel/" tags="CheckBox, Excel" ctime="20230919155726" dir="1523001452adw9hirvdn" file="text.html"/>
-      <record id="1523001914ib5c007lwv" name="Создание форматированного примечания с помощью VBA&#9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/sozdanie-formatirovannogo-primechaniya-s-pomoshhyu-vba/" tags="vba_excel, примечания" ctime="20230919155726" dir="1523001914i1fxcyk4sn" file="text.html"/>
+      <record id="1523001914ib5c007lwv" name="Создание форматированного примечания с помощью VBA&#x9;" author="" url="http://opennotes.ru/knowledge/vba-knowledge/sozdanie-formatirovannogo-primechaniya-s-pomoshhyu-vba/" tags="vba_excel, примечания" ctime="20230919155726" dir="1523001914i1fxcyk4sn" file="text.html"/>
       <record id="1530688992ib1cg1rtbf" name="Событие при выделении ячейки" author="" url="" tags="VBA, Events, Target, Cells, События" ctime="20230919155726" dir="1530688992ncao2uztnj" file="text.html"/>
       <record id="15308744716x1mg6qg72" name="m_Plus_Minus" author="" url="" tags="Plus_Minus, плюс_минус" ctime="20230919155726" dir="1530874471duk4zpzmpy" file="text.html"/>
       <record id="1562066313fh31kvqlpk" name="Очистка значения от мусора" author="" url="" tags="Trim, Application.Clean" ctime="20230919155726" dir="1562066313lg5ox8fsge" file="text.html"/>
@@ -2433,7 +2433,7 @@
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="169512630909r1hqkqlx" name="VBA Excel">
+   <node crypt="" icon="" id="169512630909r1hqkqlx" name="VBA Excel">
     <recordtable>
      <record id="1694801345ynmy0qlgq9" name="VBA Excel. Содержание рубрики" author="" url="https://vremya-ne-zhdet.ru/vba-excel/soderzhaniye-rubriki/" tags="VBA Excel" ctime="20230919152509" dir="1694801345oq7kholjhb" file="text.html"/>
      <record id="16944526056kzin5j1me" name="VBA Excel START" author="" url="https://vremya-ne-zhdet.ru/category/vba-excel/page/13/" tags="VBA Excel START" ctime="20230919152509" dir="1694452605j20h7la2qb" file="text.html"/>
@@ -2981,8 +2981,8 @@
     </node>
     <node crypt="" icon="" id="1695128589a00aiow31o" name="leadersoft.ru">
      <recordtable>
-      <record id="1531370328moosqy479a" name="Работа с датами DateSerial &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11959" tags="SQL Access" ctime="20230919160309" dir="1531370328x2qvhnv9eq" file="text.html"/>
-      <record id="1531370525ev1e2ik9f6" name="Автозагрузка файлов в таблицу &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11936" tags="" ctime="20230919160309" dir="1531370525b3tv25dgan" file="text.html"/>
+      <record id="1531370328moosqy479a" name="Работа с датами DateSerial &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11959" tags="SQL Access" ctime="20230919160309" dir="1531370328x2qvhnv9eq" file="text.html"/>
+      <record id="1531370525ev1e2ik9f6" name="Автозагрузка файлов в таблицу &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11936" tags="" ctime="20230919160309" dir="1531370525b3tv25dgan" file="text.html"/>
       <record id="1531370676u0mf36rxh6" name="036. Использование серийных номеров дисков" author="" url="http://www.leadersoft.ru/rus/market/db/products/60/help/849.html" tags="" ctime="20230919160309" dir="15313706766bx5ivlp4f" file="text.html"/>
       <record id="1531370719wvqo0sbg4z" name="034. Использование календаря: ActiveX Calendar" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/861.html" tags="" ctime="20230919160309" dir="1531370719ievfgibhkx" file="text.html"/>
       <record id="1531370763sb063j2ii9" name="031. Использование StatusBar в Microsoft Access" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/844.html" tags="" ctime="20230919160309" dir="15313707638eeo2rh4s6" file="text.html"/>
@@ -2996,9 +2996,9 @@
       <record id="1531371664zu1tn2humy" name="065. Открытие таблиц в ADO и DAO" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/899.html" tags="" ctime="20230919160309" dir="1531371664gpqdcgehb6" file="text.html"/>
       <record id="1531371720n1xxamsqal" name="000 Все примеры Microsoft Access - VBA" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/827.html" tags="" ctime="20230919160309" dir="1531371720ml8cs3ufsp" file="text.html"/>
       <record id="1531372808q0vebczey4" name="061. Общая информация о Windows" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/871.html" tags="" ctime="20230919160309" dir="15313728088y5iddn076" file="text.html"/>
-      <record id="15313733909fcolk2xqx" name="Диспетчер связанных таблиц &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11949" tags="" ctime="20230919160309" dir="15313733905swt5cw1zj" file="text.html"/>
-      <record id="1531373401wfn7lu0moh" name="Отправить письмо из Outlook &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11860" tags="" ctime="20230919160309" dir="15313734011aq6tadvhd" file="text.html"/>
-      <record id="1531373424ovfyyifnbs" name="Использование календаря: ActiveX Calendar &#9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11879" tags="" ctime="20230919160309" dir="1531373424nfeoc0lv3y" file="text.html"/>
+      <record id="15313733909fcolk2xqx" name="Диспетчер связанных таблиц &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11949" tags="" ctime="20230919160309" dir="15313733905swt5cw1zj" file="text.html"/>
+      <record id="1531373401wfn7lu0moh" name="Отправить письмо из Outlook &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11860" tags="" ctime="20230919160309" dir="15313734011aq6tadvhd" file="text.html"/>
+      <record id="1531373424ovfyyifnbs" name="Использование календаря: ActiveX Calendar &#x9;" author="" url="http://www.leadersoft.ru/Rus/help/code/Default.aspx?go=product&amp;ProductID=11879" tags="" ctime="20230919160309" dir="1531373424nfeoc0lv3y" file="text.html"/>
       <record id="1531373449gze72ylt8l" name="064. Открытие бинарного файла." author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/912.html" tags="" ctime="20230919160309" dir="1531373449x7ale9tzq2" file="text.html"/>
       <record id="1531373529jub8gns755" name="085. Работа с датами DateSerial" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/840.html" tags="" ctime="20230919160309" dir="1531373529fnvi6sv1pp" file="text.html"/>
       <record id="1531373578dssdtkzu65" name="060. Обработка ошибок разными методами" author="" url="http://www.leadersoft.ru/Rus/Market/Db/Products/60/help/898.html" tags="" ctime="20230919160309" dir="1531373578vzt9ytdry7" file="text.html"/>
@@ -3018,7 +3018,7 @@
       <record id="1531933194zvrmvhqwlo" name="Программное создание базы данных с помощью ADOX - Часть 2 (исходники)" author="" url="http://www.interface.ru/home.asp?artId=18110" tags="VBA, CreateDataBase, создание базы данных" ctime="20230919160318" dir="1531933194tl1aytxku6" file="text.html"/>
       <record id="1531933162c2pcwzuamz" name="Блокировка (монопольное открытие) таблицы" author="" url="http://msa.polarcom.ru/st/s0000289.htm" tags="" ctime="20230919160318" dir="1531933162f46ymhyt3x" file="text.html"/>
       <record id="1531933134ofdb6v8co0" name="Автоматическое обнуление подтаблиц в базе данных (для повышения производительности)" author="" url="http://msa.polarcom.ru/st/s0000337.htm" tags="" ctime="20230919160318" dir="1531933134ycdio6f5bu" file="text.html"/>
-      <record id="1531934076rnt3wfvm14" name="00 VBA, MS Access &#9;MS Access в примерах" author="" url="http://msa.polarcom.ru/st/f0000043.htm" tags="" ctime="20230919160318" dir="15319340763oj6dgvann" file="text.html"/>
+      <record id="1531934076rnt3wfvm14" name="00 VBA, MS Access &#x9;MS Access в примерах" author="" url="http://msa.polarcom.ru/st/f0000043.htm" tags="" ctime="20230919160318" dir="15319340763oj6dgvann" file="text.html"/>
      </recordtable>
      <node crypt="" icon="" id="1695128598m0dlxf578j" name="01 Базы Данных">
       <recordtable>
@@ -3562,7 +3562,7 @@
      <record id="15230023484f3qtuvkz7" name="Автоматическая отправка письма через Excel" author="" url="http://opennotes.ru/knowledge/vba-knowledge/avtomaticheskaya-otpravka-pisma-cherez-excel/" tags="VBA_Outlook, отправка письма" ctime="20230919155916" dir="1523002348onwfpa4gqq" file="text.html"/>
      <record id="1523002472z9emfr079t" name="Автоматическое копирование вложений из писем в папку" author="" url="http://opennotes.ru/knowledge/vba-knowledge/avtomaticheskoe-kopirovanie-vlozhenij-iz-pisem-v-papku/" tags="vba_outlook, вложения почты, attach" ctime="20230919155916" dir="152300247218nuh8kq6e" file="text.html"/>
      <record id="1524471753av2pfore6f" name="Обработка вложенгий" author="" url="http://www.sql.ru/forum/768040/obrabotka-vseh-vhodyashhih-pisem-outlook?mid=8965669#8965669" tags="VBA, Outlook, attach" ctime="20230919155916" dir="1524471753nhoz5jrwba" file="text.html"/>
-     <record id="15244718688d4q042k7m" name="Пересылка входящих писем Outlook посредством VBA &#9;[В закладки] [Окно ответа] #2" author="" url="http://www.cyberforum.ru/vba/thread1386589.html" tags="vba, outlook, " ctime="20230919155916" dir="1524471868mfduugmih5" file="text.html"/>
+     <record id="15244718688d4q042k7m" name="Пересылка входящих писем Outlook посредством VBA &#x9;[В закладки] [Окно ответа] #2" author="" url="http://www.cyberforum.ru/vba/thread1386589.html" tags="vba, outlook, " ctime="20230919155916" dir="1524471868mfduugmih5" file="text.html"/>
      <record id="1524471916n89rqnbbn0" name="Как создать свое правило в VBA для Microsoft Outlook? Событие ItemAdd для папки Входящие" author="" url="http://www.potolook.ru/blog/p,209/" tags="VB_Outlook, rules" ctime="20230919155916" dir="1524471916wurloijpm0" file="text.html"/>
      <record id="1532092227o9fbl7xcsb" name="Посмотреть" author="" url="" tags="" ctime="20230919155916" dir="1532092227d542nm0o60" file="text.html"/>
      <record id="1532118222nm3mxcfxis" name="Поиск электронной почты Outlook (и ответа на него) с помощью Excel VBA" author="" url="https://stackoverrun.com/ru/q/9898146/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B9-%D0%BF%D0%BE%D1%87%D1%82%D1%8B-outlook-%D0%B8-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D0%B0-%D0%BD%D0%B0-%D0%BD%D0%B5%D0%B3%D0%BE-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-excel-vba" tags="" ctime="20230919155916" dir="1532118222qlc3a7gqgc" file="text.html"/>
@@ -3570,7 +3570,7 @@
      <record id="1532118460xmgj46mbor" name="Как отправить электронное письмо в Outlook в определенную папку" author="" url="https://stackoverrun.com/ru/q/7260322/%D0%BA%D0%B0%D0%BA-%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE-%D0%B2-outlook-%D0%B2-%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%83%D1%8E-%D0%BF%D0%B0%D0%BF%D0%BA%D1%83" tags="" ctime="20230919155916" dir="1532118460dug9ulqou6" file="text.html"/>
      <record id="1532202580xbx2xixnr1" name="Событие Application.NewMailEx (Outlook)" author="" url="https://msdn.microsoft.com/ru-ru/vba/outlook-vba/articles/application-newmailex-event-outlook" tags="NewMail" ctime="20230919155916" dir="15322025801knrv4s5dg" file="text.html"/>
      <record id="1532419352xp3m8wq3mw" name="Просмотр всех папок почты" author="" url="" tags="Просмотр всех папок почты" ctime="20230919155916" dir="15324193528jjj46zvwo" file="text.html"/>
-     <record id="1533247866byrta92pcr" name="Способы интеграции MS ACCESS и MS Outlook &#9;Печать &#9;E-mail" author="" url="http://hiprog.com/index.php?option=com_content&amp;task=view&amp;id=251661546" tags="" ctime="20230919155916" dir="1533247866s67tp9dwqb" file="text.html"/>
+     <record id="1533247866byrta92pcr" name="Способы интеграции MS ACCESS и MS Outlook &#x9;Печать &#x9;E-mail" author="" url="http://hiprog.com/index.php?option=com_content&amp;task=view&amp;id=251661546" tags="" ctime="20230919155916" dir="1533247866s67tp9dwqb" file="text.html"/>
      <record id="1532202968v573fsrhfm" name="Outlook - это приложения с одним экземпляром, нет необходимости определять, открыт ли Outlook, потому что вы может работать только одна копия Outlook" author="" url="http://qaru.site/questions/3489/vba-determining-whether-an-existing-outlook-instance-is-open" tags="" ctime="20230919155917" dir="1532202968tuhbk585yj" file="text.html"/>
      <record id="1570884404wqoyt6v76b" name="Как отправить письмо со ссылкой на наши файлы" author="" url="https://excelpedia.ru/makrosi-v-excel/otpravit-pismo-so-ssilkoi-na-fail" tags="" ctime="20230919155917" dir="157088440491v435uh3w" file="text.html"/>
      <record id="158645291105v1lxpxdx" name="Как узнать список папок Outlook " author="" url="http://visualprogs.ru/states/3.html" tags="VBA_Outlook" ctime="20230919155917" dir="1586452911gtvye5i03u" file="text.html"/>
@@ -3657,15 +3657,15 @@
    </node>
    <node crypt="" icon="/Justafew/nocolor_justafew_jf--icon_server.svg" id="16951225790lje1s3558" name="DAX">
     <recordtable>
-     <record id="1677842765uelzzhz5ju" name="DAX_Месяцы.txt" author="" url="" tags="" ctime="20230919142259" dir="1677842765b0u45a63gf" file="text.html" crypt="0"/>
-     <record id="16778428103wo8ylug32" name="DAX_Таблица справочник (2).txt" author="" url="" tags="" ctime="20230919142259" dir="1677842810jccd3zqkch" file="text.html" crypt="0"/>
-     <record id="1677842859iuxg9wo9m0" name="DAX Календарь.txt" author="" url="" tags="" ctime="20230919142259" dir="1677842859ilnkl6vzyl" file="text.html" crypt="0"/>
-     <record id="1677842927hxki2fo3si" name="DAX_ранг-доля.txt" author="" url="" tags="" ctime="20230919142259" dir="16778429275gtn8zakrd" file="text.html" crypt="0"/>
-     <record id="1677843105gg5s0huq26" name="DAX_Время" author="" url="" tags="" ctime="20230919142259" dir="1677843105gf1heeii2p" file="text.html" crypt="0"/>
-     <record id="16778438228zkqtd3x9q" name="DAX количество с фильтром.txt" author="" url="" tags="" ctime="20230919142259" dir="16778438222twvk73jak" file="text.html" crypt="0"/>
-     <record id="1653411890dn7yubcluy" name="PBI CALENDARAUTO, CALENDAR" author="" url="" tags="PBI, CALENDAR" ctime="20230919142259" dir="16534118907v7w0hqxrj" file="text.html" crypt="0"/>
-     <record id="1653413419rhg0bd8reh" name="PBI Рейтинг, Доля" author="" url="" tags="" ctime="20230919142259" dir="1653413419xcirib3in3" file="text.html" crypt="0"/>
-     <record id="1610703795xkh4ooy6lh" name="ISO 8601 Неделя в DAX" author="" url="https://blog.gbrueckl.at/2012/04/iso-8601-week-in-dax/" tags="Power Pivot, WeekISO" ctime="20230919142259" dir="1610703795y8bl1x70bk" file="text.html" crypt="0"/>
+     <record id="1677842765uelzzhz5ju" name="DAX_Месяцы.txt" author="" url="" tags="" ctime="20230919142259" dir="1677842765b0u45a63gf" file="text.html"/>
+     <record id="16778428103wo8ylug32" name="DAX_Таблица справочник (2).txt" author="" url="" tags="" ctime="20230919142259" dir="1677842810jccd3zqkch" file="text.html"/>
+     <record id="1677842859iuxg9wo9m0" name="DAX Календарь.txt" author="" url="" tags="" ctime="20230919142259" dir="1677842859ilnkl6vzyl" file="text.html"/>
+     <record id="1677842927hxki2fo3si" name="DAX_ранг-доля.txt" author="" url="" tags="" ctime="20230919142259" dir="16778429275gtn8zakrd" file="text.html"/>
+     <record id="1677843105gg5s0huq26" name="DAX_Время" author="" url="" tags="" ctime="20230919142259" dir="1677843105gf1heeii2p" file="text.html"/>
+     <record id="16778438228zkqtd3x9q" name="DAX количество с фильтром.txt" author="" url="" tags="" ctime="20230919142259" dir="16778438222twvk73jak" file="text.html"/>
+     <record id="1653411890dn7yubcluy" name="PBI CALENDARAUTO, CALENDAR" author="" url="" tags="PBI, CALENDAR" ctime="20230919142259" dir="16534118907v7w0hqxrj" file="text.html"/>
+     <record id="1653413419rhg0bd8reh" name="PBI Рейтинг, Доля" author="" url="" tags="" ctime="20230919142259" dir="1653413419xcirib3in3" file="text.html"/>
+     <record id="1610703795xkh4ooy6lh" name="ISO 8601 Неделя в DAX" author="" url="https://blog.gbrueckl.at/2012/04/iso-8601-week-in-dax/" tags="Power Pivot, WeekISO" ctime="20230919142259" dir="1610703795y8bl1x70bk" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695128099u7pws31h2l" name="VBA / Excel / Access / Word">
@@ -4230,6 +4230,6 @@
    </node>
   </node>
   <node crypt="" icon="/user/trash_z7fgo67p1fh0.svg" id="1482729291ru4mgxjbmj" name="Корзина"/>
-  <node crypt="" id="1694970516dqel0r05tv" name="!История"/>
+  <node crypt="" icon="" id="1694970516dqel0r05tv" name="!История"/>
  </content>
 </root>
