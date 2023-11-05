@@ -1569,7 +1569,7 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" icon="/user/python_77kr6nf0l4k0.svg" id="1695122484ykbqr7sfsh" name="Python">
+  <node crypt="" icon="/user/python-svgrepo-com.svg" id="1695122484ykbqr7sfsh" name="Python">
    <recordtable>
     <record id="16951224849oeo8sr84m" name="Как изменить системную переменную path в Windows 7" author="" url="http://info-comp.ru/vseowindowsst/388-change-the-system-path-variable.html" tags="PATH, переменные среды" ctime="20230919142124" dir="1695122484uu1x9svwp4" file="text.html"/>
     <record id="169512248463c6zumzbr" name="Приступая к работе" author="" url="http://opentechschool.github.io/python-beginners/ru/getting_started.html" tags="" ctime="20230919142124" dir="1695122484bngabw8fkt" file="text.html"/>
