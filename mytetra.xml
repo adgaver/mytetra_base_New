@@ -1669,6 +1669,7 @@
     <record id="1700058038icor8lod2j" name="Словари (dict) в Python: создание, основные методы, функции и операции" author="" url="https://fullstacker.ru/slovari-v-python-metody-funktsii-i-kak-s-nimi-rabotat" tags="" ctime="20231115172038" dir="1700058038xwb9v37oub" file="text.html"/>
     <record id="1700058053hjh7kxwkk4" name="Кортежи (tuple) в Python: основные методы и функции" author="" url="https://fullstacker.ru/kortezhi-v-python-otlichiya-ot-strok-i-kak-s-nimi-rabotat" tags="" ctime="20231115172053" dir="1700058053fbk8etm17v" file="text.html"/>
     <record id="1700058469v5z02mnnx1" name="Множества (set) в Python: основные методы, операции и функции" author="" url="https://fullstacker.ru/mnozhestva-v-python-osnovnye-operatsii-metody-i-funktsii" tags="" ctime="20231115172749" dir="1700058469bgwa2wag3z" file="text.html"/>
+    <record id="1695283175xbqw60g5vl" name="8 Циклы в Python" author="" url="" tags="" ctime="20231121135118" dir="1695283175688wl0uhf3" file="text.html"/>
    </recordtable>
    <node crypt="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
@@ -1713,7 +1714,6 @@
      <record id="1695217075bolj6nsyil" name="launchPersistentContext Возвращает экземпляр постоянного контекста браузера." author="" url="https://playwright.dev/docs/next/api/class-browsertype" tags="launchPersistentContext, playwright" ctime="20230920163755" dir="1695217075v2lcr2tufk" file="text.html"/>
      <record id="1695281578v0wedlydjd" name="time.sleep()приводит к устаревшему " author="" url="https://playwright.dev/python/docs/library#known-issues" tags="" ctime="20230921103258" dir="16952815783y2lxcy18x" file="text.html"/>
      <record id="1695283110xlbpxphuv9" name="Playwright: полный гайд + FAQ" author="" url="https://testengineer.ru/playwright-tutorial/" tags="Playwright" ctime="20230921105830" dir="1695283110uiksyaw83i" file="text.html"/>
-     <record id="1695283175xbqw60g5vl" name="8 Циклы в Python" author="" url="" tags="" ctime="20230921105935" dir="1695283175688wl0uhf3" file="text.html"/>
      <record id="16952906547h4ta13pwe" name="Как дождаться загрузки страницы с помощью Playwright?" author="" url="https://qaa-engineer.ru/kak-dozhdatsya-zagruzki-straniczy-s-pomoshhyu-playwright-2/" tags="" ctime="20230921130414" dir="169529065495as9mmh6e" file="text.html"/>
      <record id="1695316613jjnywuzv0w" name="Start playwright driver session but not incognito " author="" url="https://stackoverflow.com/questions/69255853/start-playwright-driver-session-but-not-incognito" tags="" ctime="20230921201653" dir="1695316613lhbwc89v4f" file="text.html"/>
      <record id="1695316706abpdjmzic7" name="Вы не можете сделать это напрямую из командной строки." author="" url="https://stackoverflow.com/questions/69388102/how-to-execute-playwright-codegen-with-disabling-web-security" tags="playwright, codegen" ctime="20230921201826" dir="1695316706l3obxwk93j" file="text.html"/>
