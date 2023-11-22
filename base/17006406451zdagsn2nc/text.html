@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;" bgcolor="#ffffff">
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Cортировка import с isort для Python в Visual Studio Code </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">В этом кратком руководстве мы рассмотрим, как настроить Visual Studio Code для автоматической организации импорта Python с помощью isort при сохранении файлов исходного кода. </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Вы можете настроить Visual Studio Code для автоматической сортировки и организации импорта Python модулей при сохранении файлов. </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Установка isort </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Первым делом нам необходимо установить библиотеку isort </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">pip install isort</span> </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Использование isort </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Откройте настройки с помощью ⇧ ⌘ P или Ctrl + Shift + P, затем выполните поиск настроек: Настроить параметры языка…. Нажмите клавишу Enter, а затем выполните поиск Python. </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#000000;">В settings.json файле, который будет открыт, добавьте следующие настройки</span><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">: </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">&quot;[python]&quot;: { </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">    &quot;editor.codeActionsOnSave&quot;: { </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">        &quot;source.organizeImports&quot;: true </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">    } </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Consolas'; font-size:11pt; color:#0000ff;">} </span></p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Заключение </p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Теперь после сохранения файлов с расширением .py, Visual Studio Code будет автоматически сортировать библиотеки. </p></body></html>
