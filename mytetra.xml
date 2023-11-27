@@ -1686,6 +1686,7 @@
     <record id="1700662682ghgo9h1zvd" name="Примеры скриптов на Python" author="" url="https://tokmakov.msk.ru/blog/item/60" tags="" ctime="20231122171802" dir="1700662682nphydb0vx3" file="text.html"/>
     <record id="1700732425yquby4mvv2" name="Меморандум по работе Excel с pywin32 (win32com) Python" author="" url="https://memotut.com/en/150745ae0cc17cb5c866/" tags="" ctime="20231123124025" dir="1700732425ioavphnlqy" file="text.html"/>
     <record id="17007420978k5m4lgits" name="Форматирование даты и времени в Python" author="" url="" tags="" ctime="20231123152137" dir="1700742097rh4dhjyya0" file="text.html"/>
+    <record id="17010830163d1h1pwyt8" name="Как узнать тип переменной Python" author="" url="https://urn.su/code/python/isinstance.php#diff" tags="Python, type, isinstance" ctime="20231127140336" dir="1701083016g4h2u77bc1" file="text.html"/>
    </recordtable>
    <node crypt="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
