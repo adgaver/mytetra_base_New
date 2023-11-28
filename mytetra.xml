@@ -1687,6 +1687,10 @@
     <record id="1700732425yquby4mvv2" name="Меморандум по работе Excel с pywin32 (win32com) Python" author="" url="https://memotut.com/en/150745ae0cc17cb5c866/" tags="" ctime="20231123124025" dir="1700732425ioavphnlqy" file="text.html"/>
     <record id="17007420978k5m4lgits" name="Форматирование даты и времени в Python" author="" url="" tags="" ctime="20231123152137" dir="1700742097rh4dhjyya0" file="text.html"/>
     <record id="17010830163d1h1pwyt8" name="Как узнать тип переменной Python" author="" url="https://urn.su/code/python/isinstance.php#diff" tags="Python, type, isinstance" ctime="20231127140336" dir="1701083016g4h2u77bc1" file="text.html"/>
+    <record id="17011547762ldl2b6wy7" name="11 Мощных методов Итерации по списку в Python" author="" url="https://pythobyte.com/python-iterate-through-list-50415/" tags="" ctime="20231128095936" dir="17011547762a8v4rgkb6" file="text.html"/>
+    <record id="170116963066rmjzby9p" name="Руководство по модулю клавиатуры Python" author="" url="https://habr.com/ru/articles/579942/" tags="Python, keyboard" ctime="20231128140710" dir="1701169630hxxuz60qti" file="text.html"/>
+    <record id="1701180438dbzkjf7b6z" name="Как скрыть COM-объект, отправленный из Python" author="" url="https://stackoverflow.com/questions/4439689/how-to-hide-com-object-dispatched-from-python" tags="Python, win32com.client, win32com, win32gui" ctime="20231128170718" dir="1701180438tpfqwh4cwk" file="text.html"/>
+    <record id="1701180457c294c1z2p2" name="как закрыть окно с дескриптором, используя win32gui в Python" author="" url="https://stackoverflow.com/questions/27586411/how-do-i-close-window-with-handle-using-win32gui-in-python/27658320#27658320" tags="" ctime="20231128170737" dir="1701180457hqqvh7t537" file="text.html"/>
    </recordtable>
    <node crypt="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
