@@ -1700,6 +1700,8 @@
     <record id="1701424742m9k4g8lntm" name="Применение библиотеки FuzzyWuzzy для нечёткого сравнения в Python. Расстояние Левенштейна (редакционное расстояние)" author="" url="https://habr.com/ru/articles/491448/" tags="Python, FuzzyWuzzy" ctime="20231201125902" dir="1701424742abc58unjg5" file="text.html"/>
     <record id="17016730522h8huwnx5j" name="Изменение строки в Python – метод replace" author="" url="https://all-python.ru/osnovy/replace.html" tags="Python, replace" ctime="20231204095732" dir="1701673052v03h7y7kii" file="text.html"/>
     <record id="1701692004nj3pci97gh" name="TheFuzz (FuzzyWuzzy) — нечёткое сравнение строк" author="" url="" tags="" ctime="20231204151324" dir="17016920047299u4iriy" file="text.html"/>
+    <record id="17016956315ha6rdvo26" name="Анализ текстовых данных с помощью NLTK и Python" author="" url="https://habr.com/ru/companies/otus/articles/774498/" tags="" ctime="20231204161351" dir="1701695631qbuwi6nn8g" file="text.html"/>
+    <record id="1701697996dg0b6k1652" name="Как удалить дубликаты из списка python? Полезные советы и методы!" author="" url="https://pythonhelp.ru/python/kak-udalit-dublikaty-iz-spiska-python/" tags="" ctime="20231204165316" dir="1701697996oblt3ahb65" file="text.html"/>
    </recordtable>
    <node crypt="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
