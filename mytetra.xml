@@ -2261,6 +2261,7 @@
       <record id="1704883950rcgbknxb4c" name="Оператор IN в M/Power Query" author="" url="https://gorilla.bi/power-query/in-operator/" tags="" ctime="20240110135230" dir="1704883950kxw7oqr0sb" file="text.html"/>
       <record id="1704884001ns4xqmb83q" name="Создание значений таблицы в Power Query M (более 40 примеров)" author="" url="https://gorilla.bi/power-query/creating-tables/" tags="" ctime="20240110135321" dir="1704884001m8jwjj8o88" file="text.html"/>
       <record id="1704884131501immugzr" name="Текстовые функции в Power Query M (более 150 примеров)" author="" url="https://gorilla.bi/power-query/text-functions/" tags="" ctime="20240110135531" dir="17048841312agr3eu4uf" file="text.html"/>
+      <record id="1705501216a9wd189ybs" name="PQ_Преобразование типов (fn_Date)" author="" url="" tags="type, power query, TransformColumns" ctime="20240117172016" dir="17055012160f2vachqdj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="16951282122umkrj5jy7" name="Shapes">
