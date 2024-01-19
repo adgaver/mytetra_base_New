@@ -2015,6 +2015,7 @@
    <recordtable>
     <record id="1570681108upj0m8eqlx" name="Справочник по VBA для Office" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/overview/" tags="VBA" ctime="20230919142259" dir="1570681108wlhti2glgl" file="text.html"/>
     <record id="16876113611qngwtt5hj" name="Месяц в родительном падеже (VBA)" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=8&amp;TID=42009&amp;MID=355403#message355403" tags="VBA" ctime="20230919142259" dir="1687611361aaiixbk1yv" file="text.html"/>
+    <record id="170565620125rguarf50" name="Как удалить все строки в таблице с помощью сценариев Office" author="" url="https://stackoverflow.com/questions/63250671/how-to-delete-all-rows-in-a-table-using-office-scripts" tags="офисные скрипты" ctime="20240119122321" dir="170565620112vkckqc1q" file="text.html"/>
    </recordtable>
    <node crypt="" icon="/user/microsoft-excel-2013-logo-svgrepo-com.svg" id="1695122579zcjwirnk3c" name="Excel">
     <recordtable>
