@@ -2263,6 +2263,7 @@
       <record id="1704884001ns4xqmb83q" name="Создание значений таблицы в Power Query M (более 40 примеров)" author="" url="https://gorilla.bi/power-query/creating-tables/" tags="" ctime="20240110135321" dir="1704884001m8jwjj8o88" file="text.html"/>
       <record id="1704884131501immugzr" name="Текстовые функции в Power Query M (более 150 примеров)" author="" url="https://gorilla.bi/power-query/text-functions/" tags="" ctime="20240110135531" dir="17048841312agr3eu4uf" file="text.html"/>
       <record id="1705501216a9wd189ybs" name="PQ_Преобразование типов (fn_Date)" author="" url="" tags="type, power query, TransformColumns" ctime="20240117172016" dir="17055012160f2vachqdj" file="text.html"/>
+      <record id="17067937044mvp2rff9e" name="PowerQuery - Группировка строк по нечеткому текстовому совпадению" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=read&amp;FID=1&amp;TID=154069&amp;TITLE_SEO=154069-powerquery-_-gruppirovka-strok-po-nechetkomu-tekstovomu-sovpadeniyu" tags="PowerQuery, FuzzyNestedJoin," ctime="20240201162144" dir="1706793704ei4g2yo4e7" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="16951282122umkrj5jy7" name="Shapes">
