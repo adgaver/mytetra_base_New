@@ -1707,6 +1707,7 @@
     <record id="170177997755cgs7bco7" name="Полное руководство по использованию индикаторов выполнения в Python" author="" url="https://scmax.ru/articles/258303/" tags="" ctime="20231205153937" dir="1701779977s69gvif549" file="text.html"/>
     <record id="1702033181xyyz2ky68l" name="Что такое Div и mod в Python: примеры и применение" author="" url="https://zdrons.ru/veb-programmirovanie/chto-takoe-div-i-mod-v-python-primery-i-primenenie/" tags="python, mod, округление" ctime="20231208135941" dir="170203318191letrqhul" file="text.html"/>
     <record id="17052334712j88jocl3v" name="Вывод числа с ведущими нолями" author="" url="https://ru.stackoverflow.com/questions/628701/Вывод-числа-с-ведущими-нолями" tags="ноль" ctime="20240114145751" dir="17052334719wkyckbgy0" file="text.html"/>
+    <record id="1707298787r8g7af537j" name="Коды форматирования для функций .strftime() и .strptime(). модуля datetime" author="" url="https://docs-python.ru/standart-library/modul-datetime-python/kody-formatirovanija-strftime-strptime-modulja-datetime/" tags="Python, strftime, strptime, datetime" ctime="20240207123947" dir="1707298787d066k8g89k" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
