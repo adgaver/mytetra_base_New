@@ -1553,7 +1553,7 @@
 					<record id="1552768259gxnii0nwce" name="Microsoft SQL 2012 [Часть 1]" author="" url="https://vk.com/wall-16108331_147038" tags="" ctime="20230919123230" dir="15527682595pp4h48ke6" file="text.html"/>
 					<record id="155611095240molacjae" name="MS SQL - по необходимости " author="" url="https://kbss.ru/blog/mssql/" tags="" ctime="20230919123230" dir="15561109527uam07lysp" file="text.html"/>
 					<record id="1564405979w5ydvdh22k" name="Полный список инструментов и утилит для Microsoft SQL Server" author="" url="https://m.habr.com/ru/post/303724/" tags="SQL server" ctime="20230919123230" dir="1564405979x66v2y1wr4" file="text.html"/>
-				</recordtable>
+					<record id="1707999643vtg89a7xgo" name="Памятка/шпаргалка по SQL" author="" url="https://habr.com/ru/articles/564390/" tags="" ctime="20240215152043" dir="1707999643zvvzgkghys" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1695115958stgryt0t5c" name="VBA_Sql_Server">
 				<recordtable>
