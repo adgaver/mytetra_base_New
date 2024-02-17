@@ -1784,6 +1784,7 @@
      <record id="1696320692nfbb3v9ag7" name="Как проверить, присутствует элемент или нет, используя параметр Playwright и timeout" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.ea873c4b-651bc887-938d8d51-74722d776562/https/stackoverflow.com/questions/73234979/how-to-check-if-element-is-present-or-not-using-playwright-and-timeout-parameter" tags="Playwright, each element, timeout" ctime="20231003111132" dir="1696320692f7z0t136jx" file="text.html"/>
      <record id="1702633685pshsk6q4im" name="Шпаргалка по Playwright" author="" url="https://testengineer.ru/playwright-cheatsheet/" tags="" ctime="20231215124805" dir="1702633685lzxzm512to" file="text.html"/>
      <record id="1707294460zaufbrlb46" name="Эмуляция наведения мыши на элемент в Playwright: подробное руководство" author="" url="" tags="Playwright, page.hover" ctime="20240207112740" dir="17072944603pllm8nwh5" file="text.html"/>
+     <record id="17081732716ap0dvac1g" name="Расширения Chrome" author="" url="https://playwright.dev/python/docs/chrome-extensions" tags="playwright, extension, python, расширения" ctime="20240217153431" dir="17081732716yl0ff6jmr" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
