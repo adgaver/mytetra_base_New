@@ -1724,6 +1724,8 @@
     <record id="1707497924t48cbk8vbc" name="Как писать чистый код на Python" author="" url="https://pythonist.ru/kak-pisat-chistyj-kod-na-python/" tags="" ctime="20240209195844" dir="1707497924pcf1553ojf" file="text.html"/>
     <record id="1707499859wiy0ocw5my" name="Виртуальные окружения Python и инструменты для управления ими" author="" url="https://pythonist.ru/virtualnye-okruzheniya-python-i-instrumenty-dlya-upravleniya-imi/" tags="Python, venv" ctime="20240209203059" dir="17074998597d43smmtz4" file="text.html"/>
     <record id="17075083642c90nizwdm" name="Как извлечь метаданные из изображений с помощью Python" author="" url="https://skine.ru/articles/67828/" tags="" ctime="20240209225244" dir="1707508364p8rgexu968" file="text.html"/>
+    <record id="17082007557sefy7musl" name="Python: Сделать окно активным" author="" url="https://www.articleshub.net/2023/04/python-sdelat-okno-aktivnim.html" tags="title, hwnd, python" ctime="20240217231235" dir="1708200755r6y6ae7d6a" file="text.html"/>
+    <record id="1708201988yq6iaj7htc" name="Python как сделать управление клавиатурой" author="" url="https://www.articleshub.net/2023/06/python-kak-sdelat-upravlenie-klaviaturoi.html" tags="title, hwnd, python, press, нажатие клавиш, sendkeys" ctime="20240217233308" dir="1708201988tt292ad1ou" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
