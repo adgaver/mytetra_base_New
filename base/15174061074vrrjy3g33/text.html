@@ -1,62 +1,60 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
 <html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
 p, li { white-space: pre-wrap; }
-</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:9pt; font-weight:400; font-style:normal;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Times New Roman,serif'; font-size:19.5pt; color:#336600;">Существует ли файл?</span> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">Несколько полезных функций для проверки существования файла или папки.</span> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Определение существования файла</span> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"> </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Function FileExists(fname) As Boolean </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">   On Error Resume Next </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">   FileExists = Dir(fname) &lt;&gt; vbNullString </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">   If Err.Number &lt;&gt; 0 Then FileExists = False </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">   On Error GoTo 0 </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">End Function </p>
-<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Существует ли папка?</span> </p>
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Times New Roman,serif'; font-size:19.5pt; color:#336600;">Существует ли файл?</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">Несколько полезных функций для проверки существования файла или папки.</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Определение существования файла</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">Function FileExists(fname) As Boolean </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">   On Error Resume Next </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">   FileExists = Dir(fname) &lt;&gt; vbNullString </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">   If Err.Number &lt;&gt; 0 Then FileExists = False </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">   On Error GoTo 0 </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">End Function </span></p>
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;"><br /></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Существует ли папка?</span><span style=" font-size:9pt;"> </span></p>
 <table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" width="0" cellspacing="0" cellpadding="0">
 <tr>
 <td style=" padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
-<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"> </p></td>
+<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;"> </span></p></td>
 <td width="685" style=" padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Public Function ExistDir(ByVal dirName As String) As Boolean </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    ExistDir = False 'Считаем, что пока что не существует </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    On Error GoTo f1 'В случае ошибки покидаем функцию </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    'Меньше двух символов в названии папки быть не может!    </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    If Len(dirName) &lt; 2 Then GoTo f1 </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    'Последний знак \ или / нам не нужен </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    If Right(dirName, 1) = &quot;\&quot; Or Right(dirName, 1) = &quot;/&quot; Then </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">        dirName = Left(dirName, Len(dirName) - 1) </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    End If </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    'Собственно, ответ на интересующий вопрос </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    ExistDir = (Dir(dirName, vbDirectory) &lt;&gt; &quot;&quot;) </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    'Покидаем функцию без ошибок </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">f1: </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">    On Error GoTo 0 </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">End Function </p>
-<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p>
-<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></td></tr></table>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Определение существавания пути</span> </p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">Public Function ExistDir(ByVal dirName As String) As Boolean </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    ExistDir = False 'Считаем, что пока что не существует </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    On Error GoTo f1 'В случае ошибки покидаем функцию </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    'Меньше двух символов в названии папки быть не может!    </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    If Len(dirName) &lt; 2 Then GoTo f1 </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    'Последний знак \ или / нам не нужен </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    If Right(dirName, 1) = &quot;\&quot; Or Right(dirName, 1) = &quot;/&quot; Then </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">        dirName = Left(dirName, Len(dirName) - 1) </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    End If </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    'Собственно, ответ на интересующий вопрос </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    ExistDir = (Dir(dirName, vbDirectory) &lt;&gt; &quot;&quot;) </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    'Покидаем функцию без ошибок </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">f1: </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">    On Error GoTo 0 </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">End Function </span></p>
+<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;"><br /></p>
+<p style="-qt-paragraph-type:empty; margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:9pt;"><br /></p></td></tr></table>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; font-weight:600;">Определение существавания пути</span><span style=" font-size:9pt;"> </span></p>
 <table border="0" style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;" width="0" cellspacing="0" cellpadding="0">
 <tr>
 <td style=" padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
-<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"> </p></td>
+<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;"> </span></p></td>
 <td width="694" style=" padding-left:0; padding-right:0; padding-top:0; padding-bottom:0;">
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">Function PathExists(pname) As Boolean </span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">  </span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">  On Error Resume Next </span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">  PathExists = GetAttr(pname) And vbDirectory = vbDirectory </span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">  </span></p>
-<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" color:#0a106a;">End Function </span></p></td></tr></table>
-<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">А если вопрос о существовании объектов файловой системы решён, то с помощью этого макроса можно по заданному шаблону </span><a href="http://vba.valemak.com/vba/macros/search-files-in-the-folder/"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; text-decoration: underline; color:#336600;">получить файлы из папки</span></a><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">.</span> </p>
-<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Times New Roman,serif'; font-size:13.5pt; color:#003333;">Добавить комментарий</span> </p>
-<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">Для отправки комментария вы должны </span><a href="http://vba.valemak.com/wp-login.php?redirect_to=http%3A%2F%2Fvba.valemak.com%2Fvba%2Fmacros%2Fif-a-file-exists%2F"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; text-decoration: underline; color:#336600;">авторизоваться</span></a><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">.</span> </p>
-<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  </p></body></html>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt; color:#0a106a;">Function fn_PathExists(str_path) As Boolean</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt; color:#0a106a;">    On Error Resume Next</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt; color:#0a106a;">    fn_PathExists = GetAttr(str_path) And vbDirectory = vbDirectory</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:4px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt; color:#0a106a;">End Function</span></p></td></tr></table>
+<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">А если вопрос о существовании объектов файловой системы решён, то с помощью этого макроса можно по заданному шаблону </span><a href="http://vba.valemak.com/vba/macros/search-files-in-the-folder/"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; text-decoration: underline; color:#336600;">получить файлы из папки</span></a><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">.</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Times New Roman,serif'; font-size:13.5pt; color:#003333;">Добавить комментарий</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:12px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">Для отправки комментария вы должны </span><a href="http://vba.valemak.com/wp-login.php?redirect_to=http%3A%2F%2Fvba.valemak.com%2Fvba%2Fmacros%2Fif-a-file-exists%2F"><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt; text-decoration: underline; color:#336600;">авторизоваться</span></a><span style=" font-family:'Arial,sans-serif'; font-size:10.5pt;">.</span><span style=" font-size:9pt;"> </span></p>
+<p style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-size:9pt;">  </span></p></body></html>
