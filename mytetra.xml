@@ -1729,6 +1729,7 @@
     <record id="17082007557sefy7musl" name="Python: Сделать окно активным" author="" url="https://www.articleshub.net/2023/04/python-sdelat-okno-aktivnim.html" tags="title, hwnd, python" ctime="20240217231235" dir="1708200755r6y6ae7d6a" file="text.html"/>
     <record id="1708201988yq6iaj7htc" name="Python как сделать управление клавиатурой" author="" url="https://www.articleshub.net/2023/06/python-kak-sdelat-upravlenie-klaviaturoi.html" tags="title, hwnd, python, press, нажатие клавиш, sendkeys" ctime="20240217233308" dir="1708201988tt292ad1ou" file="text.html"/>
     <record id="1709127728ypjn1zw8m2" name="ошибки SSL протокола" author="" url="https://ru.stackoverflow.com/questions/1005694/%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-ssl-%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0" tags="python, verify, SSL, серификат" ctime="20240228164208" dir="1709127728ukfbgy3bub" file="text.html"/>
+    <record id="1709129320kh5oofvrx9" name="Предупреждения TLS " author="" url="https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings" tags="python, verify, SSL, серификат" ctime="20240228170840" dir="1709129320xg34g8mzji" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
