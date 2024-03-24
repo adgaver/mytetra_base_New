@@ -1732,6 +1732,9 @@
     <record id="1709129320kh5oofvrx9" name="Предупреждения TLS " author="" url="https://urllib3.readthedocs.io/en/latest/advanced-usage.html#tls-warnings" tags="python, verify, SSL, серификат" ctime="20240228170840" dir="1709129320xg34g8mzji" file="text.html"/>
     <record id="171126783518f1w881cb" name="Функция print и её параметры" author="" url="https://all-python.ru/osnovy/vyvod-v-konsol.html" tags="python, print, format" ctime="20240324111035" dir="17112678356httu4it71" file="text.html"/>
     <record id="1711268425cnpr54muze" name="Диалог с пользователем через командную строку: программа Yes/No на Python" author="" url="https://all-python.ru/raznoe/yes-no.html" tags="" ctime="20240324112025" dir="17112684255r84nc5qer" file="text.html"/>
+    <record id="1711268581fcq9g9arum" name="CSV в Python" author="" url="https://all-python.ru/osnovy/csv.html" tags="" ctime="20240324112301" dir="17112685815zuhm6dfgd" file="text.html"/>
+    <record id="17112691344fsrg5yqsc" name="Символы в языке Python" author="" url="https://all-python.ru/osnovy/simvol.html" tags="" ctime="20240324113214" dir="17112691346u2ang818s" file="text.html"/>
+    <record id="17112696769fcgo5in3q" name="Модуль datetime" author="" url="https://all-python.ru/osnovy/modul-datetime.html" tags="datetime, timedelta, strftime" ctime="20240324114116" dir="1711269676on3kva8r1o" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
