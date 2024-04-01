@@ -2348,7 +2348,6 @@
       <record id="1523002220xn0l0egwdz" name="Как добавить линию уровня на график с помощью VBA?" author="" url="http://opennotes.ru/knowledge/vba-knowledge/kak-dobavit-liniyu-urovnya-na-grafik-s-pomoshhyu-vba/" tags="vba_excel, графики" ctime="20230919155652" dir="1523002220fl7t2jk3zz" file="text.html"/>
       <record id="1526044111xlthfqa909" name="Сохранить выделенный диапазон в картинку" author="" url="http://www.excel-vba.ru" tags="VBA_Excel, Shape, Shapes, SaveRange, CopyPicture" ctime="20230919155652" dir="1526044111sw0b77c6hy" file="text.html"/>
       <record id="1534800059t8syhxitu2" name="Удаление объектов на листе" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20230919155652" dir="1534800059qhir5kp0ba" file="text.html"/>
-      <record id="1535698002q700mtrj42" name="УдалениеКартинок" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20230919155652" dir="1535698002xo72ljjebi" file="text.html"/>
       <record id="16918644719cokhzq68h" name="Shape" author="" url="" tags="" ctime="20230919155652" dir="1691864471cgzkgc3f8m" file="text.html"/>
      </recordtable>
     </node>
@@ -2412,6 +2411,7 @@
       <record id="15907502212nw66xakn9" name="Листаем список" author="" url="" tags="Validation, Листаем список" ctime="20230919155743" dir="1590750221z1mbtq0uwy" file="text.html"/>
       <record id="1698989659cgc7orrfg0" name="Использование многоуровневых зависимых списков в MS Excel для маппинга организационных структур" author="" url="https://habr.com/ru/articles/771214/" tags="" ctime="20231103083419" dir="1698989659j4x9dzd6nm" file="text.html"/>
       <record id="1709300796vlzy9ftnpd" name="Удаление имен, связей, кнопок, подключений" author="" url="" tags="VBA, Excel, delete, con, Shapes, Links, Names" ctime="20240301164636" dir="17093007966jktf1r6xq" file="text.html"/>
+      <record id="1535698002q700mtrj42" name="УдалениеКартинок" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20240401124234" dir="1535698002xo72ljjebi" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1695128274n4b3zne0dk" name="условное форматирование">
@@ -2484,6 +2484,7 @@
       <record id="1518974742048zfyvj2k" name="Как удалить скрытые столбцы? Программное удаление скрытых столбцов макросом VBA." author="" url="http://macros-vba.ru/makrosy/excel/112-kak-udalit-skrytye-stolbtsy-udalenie-skrytyh-stolbtsov-makrosom" tags="удаление столбцов" ctime="20230919155813" dir="1518974742o2i9nbduhy" file="text.html"/>
       <record id="1530614655h68nv2nekn" name="поиск и выделение даты в столбце" author="" url="" tags="Activate, поиск и выделение даты в столбце" ctime="20230919155813" dir="15306146552sr03c74k1" file="text.html"/>
       <record id="1535461930rmylht2avn" name="Удаление-создание листа" author="" url="" tags="Удаление создание листа" ctime="20230919155813" dir="1535461930acrjtqrgms" file="text.html"/>
+      <record id="1507283310d123ox46iw" name="Добавить/удалить лист (по имени)" author="" url="" tags="" ctime="20230919155813" dir="1507283310t32csnhe46" file="text.html"/>
       <record id="15377679286h26vgyb6n" name="Экспорт нескольких листов в PDF" author="" url="" tags="VBA, PDF, Export_PDF" ctime="20230919155813" dir="15377679281tpkag1ciu" file="text.html"/>
       <record id="15384526804zf1uffov8" name="код для определения имен выделенных листов" author="" url="http://www.cyberforum.ru/vba/thread473101.html" tags="vba_excel, selectedsheets" ctime="20230919155813" dir="1538452680k2pgd3rt7c" file="text.html"/>
       <record id="1540539876l4ymrx3m1w" name="Сброс фильтра в &quot;умной таблице&quot;" author="" url="" tags="VBA_Excel, ListObject, AutoFilter, Filters, Фильтр" ctime="20230919155813" dir="1540539876nu2jmkl16p" file="text.html"/>
@@ -2493,7 +2494,6 @@
        </files>
       </record>
       <record id="1503632439c2gmz9tmog" name="Модуль на открытие и закрытие книги" author="" url="" tags="VBA, Workbook_Open, Workbook_BeforeClose" ctime="20230919155813" dir="1503632439n2fnliu0c1" file="text.html"/>
-      <record id="1507283310d123ox46iw" name="Добавить/удалить лист (по имени)" author="" url="" tags="" ctime="20230919155813" dir="1507283310t32csnhe46" file="text.html"/>
       <record id="1570883130w6qmt6kfau" name="Свойства и методы Worksheet" author="" url="https://excelpedia.ru/makrosi-v-excel/worksheet" tags="" ctime="20230919155813" dir="1570883130ask03uho8o" file="text.html"/>
       <record id="1570884755q1piitbysz" name="Объект листа (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Worksheet" tags="" ctime="20230919155813" dir="1570884755dir2tvkjag" file="text.html"/>
       <record id="15711161183ssorq8zmf" name="FollowHyperlink" author="" url="" tags="followhyperlink, гиперссылки, hyperlink" ctime="20230919155813" dir="1571116118pz577is4ai" file="text.html"/>
