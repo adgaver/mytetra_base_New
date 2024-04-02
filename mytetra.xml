@@ -733,6 +733,7 @@
     <record id="1514656800mqilqz1exs" name="перезапуск скрипта с сохранением исходных аргументов" author="" url="https://safezone.cc/threads/obrazcy-koda-vbscript.23346/" tags="Shell" ctime="20230919122508" dir="1514656800ja2vtj6401" file="text.html"/>
     <record id="1544099178epgm9dtbkh" name="подсчет количества вхождений одной строки в другую" author="" url="http://qaru.site/questions/4364858/how-to-count-the-number-of-a-specific-character-in-a-cell-with-excel-vba" tags="подсчет количества вхождений одной строки в другую" ctime="20230919122508" dir="1544099178bsc5el80ir" file="text.html"/>
     <record id="1537650161ipvd98mj3a" name="функцию прописи денежных рублевых сумм" author="" url="http://www.cyberforum.ru/ms-access/thread60797-page2.html" tags="" ctime="20230919122508" dir="15376501619y1rokcbxw" file="text.html"/>
+    <record id="1711745784itrmvlwkby" name="Перейти на один уровень папки" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.06c36bc1-66072745-19ce507d-74722d776562/https/stackoverflow.com/questions/39637185/go-up-one-folder-level" tags="path_parrent, parrent, уровень, выше" ctime="20240329235624" dir="1711745784u74vo853ep" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1695115040eifewx6qhb" name="Меню VB-справка">
     <recordtable>
@@ -2347,7 +2348,6 @@
       <record id="1523002220xn0l0egwdz" name="Как добавить линию уровня на график с помощью VBA?" author="" url="http://opennotes.ru/knowledge/vba-knowledge/kak-dobavit-liniyu-urovnya-na-grafik-s-pomoshhyu-vba/" tags="vba_excel, графики" ctime="20230919155652" dir="1523002220fl7t2jk3zz" file="text.html"/>
       <record id="1526044111xlthfqa909" name="Сохранить выделенный диапазон в картинку" author="" url="http://www.excel-vba.ru" tags="VBA_Excel, Shape, Shapes, SaveRange, CopyPicture" ctime="20230919155652" dir="1526044111sw0b77c6hy" file="text.html"/>
       <record id="1534800059t8syhxitu2" name="Удаление объектов на листе" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20230919155652" dir="1534800059qhir5kp0ba" file="text.html"/>
-      <record id="1535698002q700mtrj42" name="УдалениеКартинок" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20230919155652" dir="1535698002xo72ljjebi" file="text.html"/>
       <record id="16918644719cokhzq68h" name="Shape" author="" url="" tags="" ctime="20230919155652" dir="1691864471cgzkgc3f8m" file="text.html"/>
      </recordtable>
     </node>
@@ -2397,6 +2397,7 @@
        </files>
       </record>
       <record id="1624361294sxhse88x4r" name="Набор диапазона(закрасить ячейки диапазона по условию)" author="" url="https://ru.stackoverflow.com/questions/603852/%D0%9A%D0%B0%D0%BA-%D0%B2-vba-excel-%D0%B7%D0%B0%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D1%82%D1%8C-%D1%8F%D1%87%D0%B5%D0%B9%D0%BA%D0%B8-%D0%B4%D0%B8%D0%B0%D0%BF%D0%B0%D0%B7%D0%BE%D0%BD%D0%B0-%D0%BF%D0%BE-%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8E" tags="range, cell, ColorIndex, Interior, Color" ctime="20230919155736" dir="16243612941lz90nttcp" file="text.html"/>
+      <record id="1711744341flt2kxm339" name="Re:Как узнать, какие строки выделил пользователь в отфильтрованной умной таблице?" author="" url="https://www.excel-vba.ru/forum/index.php?topic=6604.0" tags="" ctime="20240329233221" dir="1711744341verpe5m43l" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1695128263jao322yhl5" name="Names">
@@ -2410,6 +2411,7 @@
       <record id="15907502212nw66xakn9" name="Листаем список" author="" url="" tags="Validation, Листаем список" ctime="20230919155743" dir="1590750221z1mbtq0uwy" file="text.html"/>
       <record id="1698989659cgc7orrfg0" name="Использование многоуровневых зависимых списков в MS Excel для маппинга организационных структур" author="" url="https://habr.com/ru/articles/771214/" tags="" ctime="20231103083419" dir="1698989659j4x9dzd6nm" file="text.html"/>
       <record id="1709300796vlzy9ftnpd" name="Удаление имен, связей, кнопок, подключений" author="" url="" tags="VBA, Excel, delete, con, Shapes, Links, Names" ctime="20240301164636" dir="17093007966jktf1r6xq" file="text.html"/>
+      <record id="1535698002q700mtrj42" name="УдалениеКартинок" author="" url="" tags="VBA_Excel, Shape, Shapes" ctime="20240401124234" dir="1535698002xo72ljjebi" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1695128274n4b3zne0dk" name="условное форматирование">
@@ -2482,6 +2484,7 @@
       <record id="1518974742048zfyvj2k" name="Как удалить скрытые столбцы? Программное удаление скрытых столбцов макросом VBA." author="" url="http://macros-vba.ru/makrosy/excel/112-kak-udalit-skrytye-stolbtsy-udalenie-skrytyh-stolbtsov-makrosom" tags="удаление столбцов" ctime="20230919155813" dir="1518974742o2i9nbduhy" file="text.html"/>
       <record id="1530614655h68nv2nekn" name="поиск и выделение даты в столбце" author="" url="" tags="Activate, поиск и выделение даты в столбце" ctime="20230919155813" dir="15306146552sr03c74k1" file="text.html"/>
       <record id="1535461930rmylht2avn" name="Удаление-создание листа" author="" url="" tags="Удаление создание листа" ctime="20230919155813" dir="1535461930acrjtqrgms" file="text.html"/>
+      <record id="1507283310d123ox46iw" name="Добавить/удалить лист (по имени)" author="" url="" tags="" ctime="20230919155813" dir="1507283310t32csnhe46" file="text.html"/>
       <record id="15377679286h26vgyb6n" name="Экспорт нескольких листов в PDF" author="" url="" tags="VBA, PDF, Export_PDF" ctime="20230919155813" dir="15377679281tpkag1ciu" file="text.html"/>
       <record id="15384526804zf1uffov8" name="код для определения имен выделенных листов" author="" url="http://www.cyberforum.ru/vba/thread473101.html" tags="vba_excel, selectedsheets" ctime="20230919155813" dir="1538452680k2pgd3rt7c" file="text.html"/>
       <record id="1540539876l4ymrx3m1w" name="Сброс фильтра в &quot;умной таблице&quot;" author="" url="" tags="VBA_Excel, ListObject, AutoFilter, Filters, Фильтр" ctime="20230919155813" dir="1540539876nu2jmkl16p" file="text.html"/>
@@ -2491,7 +2494,6 @@
        </files>
       </record>
       <record id="1503632439c2gmz9tmog" name="Модуль на открытие и закрытие книги" author="" url="" tags="VBA, Workbook_Open, Workbook_BeforeClose" ctime="20230919155813" dir="1503632439n2fnliu0c1" file="text.html"/>
-      <record id="1507283310d123ox46iw" name="Добавить/удалить лист (по имени)" author="" url="" tags="" ctime="20230919155813" dir="1507283310t32csnhe46" file="text.html"/>
       <record id="1570883130w6qmt6kfau" name="Свойства и методы Worksheet" author="" url="https://excelpedia.ru/makrosi-v-excel/worksheet" tags="" ctime="20230919155813" dir="1570883130ask03uho8o" file="text.html"/>
       <record id="1570884755q1piitbysz" name="Объект листа (Excel)" author="" url="https://docs.microsoft.com/ru-ru/office/vba/api/Excel.Worksheet" tags="" ctime="20230919155813" dir="1570884755dir2tvkjag" file="text.html"/>
       <record id="15711161183ssorq8zmf" name="FollowHyperlink" author="" url="" tags="followhyperlink, гиперссылки, hyperlink" ctime="20230919155813" dir="1571116118pz577is4ai" file="text.html"/>
@@ -4099,7 +4101,7 @@
       <record id="1564600805smlcs5zco0" name="UkM1U0lNUANCRYZW22DHIfSHQPGEcz+naExXCuWCUS74tHeV8XX1roTUw/ftxIyk0R/rGkZCqSPiGMGNlZzbwgcdr00hv7vjBhHi+GPNbRtys7gWtMXM2kSFdKWN55ED6odgTtt9TS+gE+wl/mhs+AlNZ8kHeY47" author="" url="UkM1U0lNUAPjE5rykHhn15ykoBjo0dUlCLUxkEAF20WuUn0sqyjAiZYw8PUhBPqGd2XM1J8ONZXceCTC3LOPOsTUouOmMODOQII0t2hDPz1w65SG4m1LSke8WoAK78GqejMcL/QABgQ5ixKHTgQDCA==" tags="UkM1U0lNUAPKzRPB5tsB7zSZV3KTzIB9+mpQXwrkoG/Ghd3BQCTSkgMudQyZ9eIC" ctime="20190731222101" dir="15646008055ko6d621a3" file="text.html" crypt="1"/>
       <record id="1584263172x2e8dlgo6p" name="UkM1U0lNUANv81u3mA2WsJYPpEu4DTGHk6As1vVBSVxXN9iXiIemoLQ6DqE5CYNpgDw5UJDxz8lxvg5uZY8HZyEzvGxQyxN7EUImocdQib0oGw6P9Uq6hLKIJX+gcUR3wwR4fRTUFJf/rNPG06HCTQ==" author="" url="UkM1U0lNUANV8h7DxpiItsHj9ULEVdoBZcSoJox0FOFjlxu7rnXR1wdZyxlN7KL5eCyUKsNRRY9PSXK+BbjuNiCB+hZG5KmCgazSxuCj0WTQuLUycCXarA==" tags="UkM1U0lNUAO5kaLWc5wRFN+MyX3JS2XyxHCZUjiEt5bSCAed71FCG2spKevlNoow" ctime="20200315120612" dir="1584263172gc71tfemwn" file="text.html" crypt="1"/>
       <record id="15962905143lmfbxa33p" name="UkM1U0lNUANSYX0Ez3q/00fsjc+VSMN7xhrbiUDx/tKQpG6jrvk+CJ5cBHzzWDfllwGlQ09oHCRP1Gn0QzkyMar4GCmBIeAd" author="" url="UkM1U0lNUAM3sqyyMLIp/Re/YAbKXb+wgVY7/sApsZ36eg8tHwR05Q3QAgnJ8rGFai/NjsQxlMK885cgBnTwiBDFoe6Z56D3jrsPubNUgQU=" tags="UkM1U0lNUAPaVHszrsOmi7+zx6+w03BnAM454MfVDBons+p6ypzb21/CXoQAC2bF" ctime="20200801170154" dir="15962905147ehs8rczsw" file="text.html" crypt="1"/>
-      <record id="1613362783s93kk2p4g1" name="UkM1U0lNUAMjl7FzrmwS6g8a96fFtxKozynR6fe1lWSrn751Wt4g7X82qPWZui7aKyeL+yZ/N3tCQO8RMeFDdwkSNv7BwQnOMqUl/o7oFmx+D5sIEy5qgRaHubc+qqAa" author="" url="UkM1U0lNUAM01UXoWmXTy9aktv7XYX4733MoKTO77DFeYfCoXUCFczH6pONcXTwhTY1Afkh6PkE/dKWnOynHJxJI64JS5EhA" tags="UkM1U0lNUAPFkErAoaNZ9He1Z9g5JghxDfrpls+k6FqCPpjC95Mx5uVr7gq+v8F5" ctime="20210215071943" dir="1613362783yw7zfsqb1d" file="text.html" crypt="1"/>
+      <record id="1613362783s93kk2p4g1" name="UkM1U0lNUANXNpU2BbPNwA7p5Vb7tShkPuKvX9DV0XI7K4dLETCX1FPGoBBZn4fcDsgeadX8WmilszdIKJnH4LJuo4iHbNFPeVoO6WNcqD8g5raFrjg8K0hJszLzlPJI" author="" url="UkM1U0lNUAOpnejAezQ5zodvWHtNL6TaNV8iyy0q/2DKpAKkAqPy6ltJ0NBmKxCxmqUjzBjHkPsJmyyl6yhjefyaiyrcDGlJ" tags="UkM1U0lNUAPwPigbnbZ/F9wkv2Ld6SRHKHPaZuh7y9DieX+/JillBwZbNXgxxVAvH4R+uRW/KH6i9LPF62Ra0dLa1SCXPycL" ctime="20210215071943" dir="1613362783yw7zfsqb1d" file="text.html" crypt="1"/>
       <record id="16929609072jw2zh6ea5" name="UkM1U0lNUAOJvbSKiveVeHKsuoAH3XVoNnOjYxQ+DTqOoLDEiGRyuR22/IkjGqcK35zhksUOIMTjX+G6HDBOLdD3MnNt8Juh6ofPp58mhd9RwIiFjhbhp0woNNQgU4+ZnbQCzh9cAoQ=" author="" url="UkM1U0lNUANWqITqfWICpsfSKZKiVWq6AdLvvPSYXkuFgfPcke2e+2YTKJxavN2vKDZ1pplPshtX35EsBBeim9tm1g+6Cgpiasrg3yziLdcK5qmo89DkO6hcfxGGh82RxzFp3IH2qoZeDJszAlshuONASmFKn5mxFXXH+xwxjZHYfx/sKNNnMlr/aFIBz0e1" tags="UkM1U0lNUAMGNaFhSYqMJ1uf0U8QFwx7mvJU2pyRjLUNCOjdrI30PhCoQtzFWaA5" ctime="20230825140025" dir="16929609077naknh482t" file="text.html" crypt="1"/>
       <record id="1693162460gm9qbvizp6" name="UkM1U0lNUAPYWxvxX7SNaXq35Yw5UzHlh9E9Xnts09Kt+NP/cGi5IBGOOZ5n1w/a95/vxe76mBuDluRutBp7obrEaZ8d7NXM/FXaVNmy5txyoSXoswFAnhY0zFGE8tDu1RUmT0SZv7k=" author="" url="UkM1U0lNUAO2hCbMKFxYR/SLnMfsAD0mirLFMOJdvC2yE0qu5ARJpGVVP4FZmlQGl7i2FulaT5/t6EEpd+3jttvWWey4gfFM5KZNKY6ivbMcJC7NMF0oS4Mce2BYz5kFP304UP7FBG2kC7/0hqkuOw9MgZNaVE1GaCERs3AxEGHBFdqLgrgfvGpnGWEq2MBYoGP7PIZ3ZAKSUvdfzZxBSXhSxFmKidOuRXo+di/RjLedO2mYt4WxqVAg5vLw1Q8M1AH+wDrmgIVJl3kXVrm4KcWvz5GJfC/RvDzUA/lLlZowh4FbSQT+NWDa223HcuMhYM7xCLl0X8iWLZVX4Fdi2A==" tags="UkM1U0lNUAO6m0m8njTvtZCvMFrileCp58gcUCmI6EJlCiG8UH3YwOHuMX9kOKHZ" ctime="20230827215420" dir="16931624600cwpzr1g3p" file="text.html" crypt="1"/>
       <record id="16958821076b74em87ie" name="UkM1U0lNUAMNxmw89f07rbQl/JDBUSTmOeBXqBIO7nlqXhibbiGFDUrJefIUL/QR3slrRl5A9qLGGTbLAzEWdc2nX98ItdeagaWQzZa375Ig1eVDjfpm4pRThMVhB+l5mYYVQbdlFK0lP+Q3FK5Iu8REMrbqDuKi2FDBibMUT62vAsVohR3NbNurDMyKQU69" author="" url="" tags="UkM1U0lNUAMnOVQ9QqIk6QvLYqHZVxnHbKmE8Vq1i8XmeotuFaR4E3RzudzWV2Zf" ctime="20230928092147" dir="1695882107kd7zksofjt" file="text.html" crypt="1"/>
