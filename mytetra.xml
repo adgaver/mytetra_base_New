@@ -187,8 +187,9 @@
    </node>
    <node crypt="" id="1707510215bfmureybj6" name="FFmpeg">
     <recordtable>
-     <record id="1707510182lfsh9fil3v" name="Как установить программу FFmpeg в Windows" author="" url="https://ru.wikihow.com/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%83-FFmpeg-%D0%B2-Windows" tags="FFmpeg" ctime="20240209232352" dir="1707510182lhis3jm6xb" file="text.html"/>
-     <record id="1707510272figshsv3q6" name="Извлекаем метаданные из фото, аудио и видео файлов с помощью Python" author="" url="https://codeby.net/threads/izvlekaem-metadannye-iz-foto-audio-i-video-fajlov-s-pomoschju-python.80200/" tags="" ctime="20240209232432" dir="1707510272m0jrtbu126" file="text.html"/>
+     <record id="1707510182lfsh9fil3v" name="Как установить программу FFmpeg в Windows" author="" url="https://ru.wikihow.com/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%83-FFmpeg-%D0%B2-Windows" tags="ffmpeg, compress, video" ctime="20240209232352" dir="1707510182lhis3jm6xb" file="text.html"/>
+     <record id="1707510272figshsv3q6" name="Извлекаем метаданные из фото, аудио и видео файлов с помощью Python" author="" url="https://codeby.net/threads/izvlekaem-metadannye-iz-foto-audio-i-video-fajlov-s-pomoschju-python.80200/" tags="ffmpeg, compress, video" ctime="20240209232432" dir="1707510272m0jrtbu126" file="text.html"/>
+     <record id="1712826174mktve35tm8" name="ffmpeg-compress-mp4" author="" url="https://gist.github.com/lukehedger/277d136f68b028e22bed" tags="ffmpeg, compress, video" ctime="20240411120254" dir="1712826174aikdt8fr2b" file="text.html"/>
     </recordtable>
    </node>
   </node>
