@@ -2320,6 +2320,8 @@
       <record id="1706872458n2kdv5g3w7" name="Как в отчете Power BI вывести несколько параметров на графике" author="" url="https://habr.com/ru/articles/669534/" tags="DAX, Switch переключател" ctime="20240202141418" dir="1706872458d66q7do2xv" file="text.html"/>
       <record id="17089574807jyrco63tr" name="POWER QUERY. ПОЛУЧИТЬ КОД ИЗ ТЕКСТА" author="" url="https://comrade-xl.ru/2023/03/16/pq-vars-code-from-text/" tags="power query, Evaluate, код" ctime="20240226172440" dir="1708957480rcgkceftlu" file="text.html"/>
       <record id="1709535180ujdem0po0t" name="Пользовательская функция FnReorderSubsetOfColumns" author="" url="https://baguzin.ru/wp/ot-lovushek-k-robastnym-zaprosam-v-power-query/" tags="ReorderSubsetOfColumns, переупорядоченные" ctime="20240304095300" dir="1709535180z5rw6roe77" file="text.html"/>
+      <record id="1713262473z9e76fu3tj" name="3 способа добавить ведущие нули к числам в Power Query" author="" url="https://gorilla.bi/power-query/add-leading-zeros/" tags="Power Query, ведущие нули" ctime="20240416131433" dir="1713262473a7duj8glru" file="text.html"/>
+      <record id="1713262544ogg42hg18h" name="Date.ToText" author="" url="https://powerquery.how/date-totext/" tags="Date.ToText, Power Query, ведущие нули" ctime="20240416131544" dir="1713262544fbkdwz848y" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="16951282122umkrj5jy7" name="Shapes">
