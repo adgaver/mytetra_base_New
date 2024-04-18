@@ -2223,7 +2223,7 @@
     <node crypt="" icon="" id="1695122579h0zo0vtrh7" name="Power Query">
      <recordtable>
       <record id="159469862566v41w02ls" name="How To Parameterize Your Power Query" author="" url="https://www.howtoexcel.org/power-query/how-to-parameterize-your-power-query/" tags="fnGetParameter, Power Query" ctime="20230919142259" dir="1594698625gfgqge2pjw" file="text.html"/>
-      <record id="1594698859ctxr9sdvhn" name="Параметризация путей к данным в Power Query" author="" url="https://www.planetaexcel.ru/techniques/24/6749/" tags="fnGetParameter, Power Query" ctime="20230919142259" dir="1594698859260jazq3cm" file="text.html"/>
+      <record id="1594698859ctxr9sdvhn" name="Параметризация путей к данным в Power Query" author="" url="https://www.planetaexcel.ru/techniques/24/6749/" tags="fnGetParameter, Power Query, путь, каталог" ctime="20230919142259" dir="1594698859260jazq3cm" file="text.html"/>
       <record id="1594699202dq93hnbsw3" name="Power Query – Using Parameters" author="" url="https://exceloffthegrid.com/power-query-using-parameters/" tags="fnGetParameter, Power Query" ctime="20230919142259" dir="15946992020v357mecba" file="text.html"/>
       <record id="1594699349zpsjjpi58j" name="fnGetParameter" author="" url="https://www.excelguru.ca/forums/archive/index.php/t-9754.html" tags="fnGetParameter, Power Query" ctime="20230919142259" dir="15946993499vzwds8g7p" file="text.html"/>
       <record id="1594707643s97g2u7mkd" name="Import Dynamic Workbook" author="" url="https://www.excelguru.ca/forums/archive/index.php/t-9754.html" tags="fnGetParameter, Power Query" ctime="20230919142259" dir="1594707643fzt35p549b" file="text.html"/>
