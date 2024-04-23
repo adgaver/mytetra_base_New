@@ -2218,6 +2218,12 @@
       </record>
       <record id="1505818013g9nm7ry8if" name="все до первого пробела" author="" url="" tags="" ctime="20230919142259" dir="15058180133vm4e6mkji" file="text.html"/>
       <record id="1544726683vxv9t6jizp" name="Excel производительности: улучшения производительности и ограничений" author="" url="https://docs.microsoft.com/ru-RU/office/vba/excel/concepts/excel-performance/excel-performance-and-limit-improvements" tags="" ctime="20230919142259" dir="15447266839vipg5lzit" file="text.html"/>
+      <record id="1713878933zjlf38m3cf" name="Посчитать количество символов в ячейках Excel" author="" url="https://semtools.guru/ru/extraction-tools/count-characters/" tags="" ctime="20240423162918" dir="171387893300tmzxkj7a" file="text.html"/>
+      <record id="1713879505ekrek8ts1t" name="Нахождение в EXCEL позиции n-го вхождения символа в слове" author="" url="https://excel2.ru/articles/nahozhdenie-v-ms-excel-pozicii-n-go-vhozhdeniya-simvola-v-slove" tags="" ctime="20240423163825" dir="1713879505gdd5htquhg" file="text.html"/>
+      <record id="1713880167q5l725r9og" name="Подсчет вхождений в EXCEL Букв (Символов) в ТЕКСТовой строке" author="" url="https://excel2.ru/articles/podschet-vhozhdeniy-v-ms-excel-bukv-simvolov-v-tekstovoy-stroke" tags="" ctime="20240423164927" dir="17138801672up01q2wkq" file="text.html"/>
+      <record id="1713880185j71cz6d2w2" name="Подсчет символов в диапазоне в EXCEL" author="" url="https://excel2.ru/articles/podschet-simvolov-v-diapazone-v-ms-excel" tags="" ctime="20240423164945" dir="1713880185xphg24r59g" file="text.html"/>
+      <record id="1713880196cpi5338qr4" name="Подсчет слов в ячейке в EXCEL" author="" url="https://excel2.ru/articles/podschet-slov-v-yacheyke-v-ms-excel" tags="" ctime="20240423164956" dir="1713880196uio7zj855p" file="text.html"/>
+      <record id="1713880207dgufvl5x13" name="Подсчет вхождений в EXCEL текстового значения в строке" author="" url="https://excel2.ru/articles/podschet-vhozhdeniy-v-ms-excel-tekstovogo-znacheniya-v-stroke" tags="" ctime="20240423165007" dir="1713880207tzg7s515tl" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1695122579h0zo0vtrh7" name="Power Query">
