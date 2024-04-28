@@ -1735,7 +1735,7 @@
 				<record id="17112691344fsrg5yqsc" name="Символы в языке Python" author="" url="https://all-python.ru/osnovy/simvol.html" tags="Python, char, chr, ord" ctime="20240324113214" dir="17112691346u2ang818s" file="text.html"/>
 				<record id="17112696769fcgo5in3q" name="Модуль datetime" author="" url="https://all-python.ru/osnovy/modul-datetime.html" tags="datetime, timedelta, strftime" ctime="20240324114116" dir="1711269676on3kva8r1o" file="text.html"/>
 				<record id="17112706927mc4hwayqc" name="Как использовать модуль datetime в Python" author="" url="https://pythonru.com/primery/kak-ispolzovat-modul-datetime-v-python" tags="datetime, timedelta, strftime" ctime="20240324115812" dir="1711270692hs3e94gty9" file="text.html"/>
-			</recordtable>
+				<record id="17143042894zsg6qovsw" name="Как установить пакеты в автономном режиме?" author="" url="https://stackoverflow.com/questions/11091623/how-to-install-packages-offline" tags="" ctime="20240428143809" dir="1714304289fcjuaxu60t" file="text.html"/></recordtable>
 			<node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
 				<recordtable>
 					<record id="1699423868ieqm0e86sg" name="Конвертировать XLS-файлы в XLSX в Python 3?" author="" url="https://www.devasking.com/issue/convert-xls-files-to-xlsx-in-python-3" tags="python, win32com.client, python-xl" ctime="20231108094837" dir="1699423868mbgk95ltwm" file="text.html"/>
