@@ -2047,6 +2047,7 @@
      <record id="16951224856u2qrj1rdj" name="bat путь к диску" author="" url="" tags="bat, path, drive" ctime="20230919142125" dir="1695122485rqzmyp5nge" file="text.html"/>
      <record id="16951224851m4mj9vv0a" name="Pip - Fatal error in launcher: Unable to create process using '&quot;'" author="" url="https://stackoverflow.com/questions/37220055/pip-fatal-error-in-launcher-unable-to-create-process-using/39733705#39733705" tags="python, pip, Fatal error" ctime="20230919142125" dir="1695122485xtnxz3b5bg" file="text.html"/>
      <record id="17143321271lnbp79uo8" name="Виртуальное окружение Python (venv)" author="" url="https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv" tags="python, venv" ctime="20240428222207" dir="1714332127y6mih4p9k8" file="text.html"/>
+     <record id="17143349209121mwjsxv" name="Виртуальные среды (venv) в Python" author="" url="https://pythonist.ru/python-virtual-enviroments/" tags="" ctime="20240428230840" dir="17143349207lwm6atgux" file="text.html"/>
     </recordtable>
    </node>
   </node>
