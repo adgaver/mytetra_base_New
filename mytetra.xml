@@ -739,6 +739,7 @@
     <record id="1711745784itrmvlwkby" name="Перейти на один уровень папки" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.06c36bc1-66072745-19ce507d-74722d776562/https/stackoverflow.com/questions/39637185/go-up-one-folder-level" tags="path_parrent, parrent, уровень, выше" ctime="20240329235624" dir="1711745784u74vo853ep" file="text.html"/>
     <record id="1714720594nkehul04dx" name="VBA и парсинг данных с сайтов и файлов" author="" url="https://www.yourtodo.ru/posts/vba-i-parsing-dannyih-s-sajtov-i-fajlov/" tags="" ctime="20240503101634" dir="1714720594wycpxn9jjz" file="text.html"/>
     <record id="17147257203zrwg8n6fo" name="VBA API-запросы" author="" url="https://learntutorials.net/ru/vba/topic/10569/api-%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B" tags="" ctime="20240503114200" dir="1714725720nd8qfe2f12" file="text.html"/>
+    <record id="1714729118q576zbw0k2" name="Назначение строк с повторяющимися символами" author="" url="https://learntutorials.net/ru/vba/topic/3581/%d0%bd%d0%b0%d0%b7%d0%bd%d0%b0%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%82%d1%80%d0%be%d0%ba-%d1%81-%d0%bf%d0%be%d0%b2%d1%82%d0%be%d1%80%d1%8f%d1%8e%d1%89%d0%b8%d0%bc%d0%b8%d1%81%d1%8f-%d1%81%d0%b8%d0%bc%d0%b2%d0%be%d0%bb%d0%b0%d0%bc%d0%b8" tags="space, повтор, символ" ctime="20240503123838" dir="1714729118o5hlrda42t" file="text.html"/>
    </recordtable>
    <node crypt="" icon="" id="1695115040eifewx6qhb" name="Меню VB-справка">
     <recordtable>
@@ -893,6 +894,8 @@
      <record id="1603451558mwq08z8skq" name="Open_Folder2" author="" url="" tags="Open_Folder" ctime="20230919121737" dir="1603451558x9d62w2iza" file="text.html"/>
      <record id="16888831681i3hl8g61j" name="VBA прописать директорию выше относительно файла" author="" url="https://www.programmersforum.ru/showthread.php?t=259781" tags="Каталоги, dir, directory" ctime="20230919121737" dir="1688883168katb68e27p" file="text.html"/>
      <record id="170755879095vnimmd34" name="Объект Folder. Работа с каталогами" author="" url="https://xn--e1akicaccic2c.xn--p1ai/articles/vba/vba-13-obyekt-folder-rabota-s-katalogami.html" tags="" ctime="20240210125310" dir="1707558790flaeuykcn4" file="text.html"/>
+     <record id="17147258182a86tdduvk" name="Scripting.FileSystemObject" author="" url="https://learntutorials.net/ru/vba/topic/990/scripting-filesystemobject" tags="" ctime="20240503114338" dir="17147258181ydpovxoup" file="text.html"/>
+     <record id="1714725850oit06ho063" name="Scripting.FileSystemObject" author="" url="https://learntutorials.net/ru/vba/topic/990/scripting-filesystemobject" tags="" ctime="20240503114410" dir="1714725850740fgjbz0h" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695115079nuw7qubgtn" name="Dictionary-Collection">
