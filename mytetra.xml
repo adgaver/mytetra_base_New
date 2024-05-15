@@ -1757,6 +1757,13 @@
     <record id="1714339186dxtkt4uxvy" name="Ошибка парсера bs4  BeautifulSoup 1" author="" url="https://qna.habr.com/q/1052702" tags="bs4, BeautifulSoup" ctime="20240429001946" dir="1714339186dbg7l98wr3" file="text.html"/>
     <record id="1714339246zrwp2llxfh" name="Ошибка парсера bs4  BeautifulSoup 2 bs4.FeatureNotFound: не удалось найти построитель деревьев с запрошенными вами функциями: lxml. Вам нужно установить библиотеку парсера?" author="" url="https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste" tags="bs4, BeautifulSoup" ctime="20240429002046" dir="1714339246yyb7yqxuxo" file="text.html"/>
    </recordtable>
+   <node crypt="" id="1715764257idcsst6by7" name="datetime">
+    <recordtable>
+     <record id="1715763874morejboy7j" name="Конвертация строк в объекты datetime в Python" author="" url="https://sky.pro/media/konvertacziya-strok-v-obekty-datetime-v-python/" tags="python, datetime, strptime" ctime="20240515121110" dir="1715763874b2m3aazanc" file="text.html"/>
+     <record id="1715764012c2htgbfwqm" name="Преобразование строк в дату со временем" author="" url="https://pythonist.ru/preobrazovanie-strok-v-datu-so-vremenem/" tags="python, datetime, strptime" ctime="20240515121112" dir="1715764012z31okunevc" file="text.html"/>
+     <record id="1715764201n8w293tfc7" name="Метод strptime() и strftime() в Python: инструкция и примеры" author="" url="https://timeweb.cloud/tutorials/python/metod-strptime-i-strftime-v-python" tags="python, datetime, strptime, strftime" ctime="20240515121138" dir="17157642011dsuvt82ao" file="text.html"/>
+    </recordtable>
+   </node>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
     <recordtable>
      <record id="1699423868ieqm0e86sg" name="Конвертировать XLS-файлы в XLSX в Python 3?" author="" url="https://www.devasking.com/issue/convert-xls-files-to-xlsx-in-python-3" tags="python, win32com.client, python-xl" ctime="20231108094837" dir="1699423868mbgk95ltwm" file="text.html"/>
@@ -2041,8 +2048,6 @@
      <record id="16951224857tcupabl1n" name="None (null), или немного о типе NoneType" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/none.html" tags="" ctime="20230919142125" dir="16951224856h6yz27nce" file="text.html"/>
      <record id="1695122485ozgk9508eb" name="Строки. Функции и методы строк" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html" tags="" ctime="20230919142125" dir="16951224859w6qruueec" file="text.html"/>
      <record id="1695122485jnlg7kn4ku" name="Работа со строками в Python: литералы" author="" url="https://pythonworld.ru/tipy-dannyx-v-python/stroki-literaly-strok.html" tags="" ctime="20230919142125" dir="1695122485dp16dp5ey2" file="text.html"/>
-     <record id="1715763874morejboy7j" name="Конвертация строк в объекты datetime в Python" author="" url="https://sky.pro/media/konvertacziya-strok-v-obekty-datetime-v-python/" tags="python, datetime, strptime" ctime="20240515120710" dir="1715763874b2m3aazanc" file="text.html"/>
-     <record id="1715764012c2htgbfwqm" name="Преобразование строк в дату со временем" author="" url="https://pythonist.ru/preobrazovanie-strok-v-datu-so-vremenem/" tags="python, datetime, strptime" ctime="20240515120837" dir="1715764012z31okunevc" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695122485x226vcc438" name="Функции">
