@@ -2263,6 +2263,7 @@
       <record id="1713880185j71cz6d2w2" name="Подсчет символов в диапазоне в EXCEL" author="" url="https://excel2.ru/articles/podschet-simvolov-v-diapazone-v-ms-excel" tags="" ctime="20240423164945" dir="1713880185xphg24r59g" file="text.html"/>
       <record id="1713880196cpi5338qr4" name="Подсчет слов в ячейке в EXCEL" author="" url="https://excel2.ru/articles/podschet-slov-v-yacheyke-v-ms-excel" tags="" ctime="20240423164956" dir="1713880196uio7zj855p" file="text.html"/>
       <record id="1713880207dgufvl5x13" name="Подсчет вхождений в EXCEL текстового значения в строке" author="" url="https://excel2.ru/articles/podschet-vhozhdeniy-v-ms-excel-tekstovogo-znacheniya-v-stroke" tags="" ctime="20240423165007" dir="1713880207tzg7s515tl" file="text.html"/>
+      <record id="1570883999n16nt0dem2" name="Как отобрать и отформатировать все формулы на листе" author="" url="https://excelpedia.ru/makrosi-v-excel/otformatirovat-formuli" tags="" ctime="20240517164211" dir="1570883999tcwm5nils5" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" icon="" id="1695122579h0zo0vtrh7" name="Power Query">
@@ -2626,11 +2627,6 @@
        <record id="1622234206uw99c7klf6" name="Синхронизация по временной шкале(неделя-месяц)" author="" url="" tags="slicer" ctime="20230919155832" dir="1622234206ryrxk7bimk" file="text.html"/>
       </recordtable>
      </node>
-    </node>
-    <node crypt="" icon="" id="1695128320pfhys3xq7b" name="Формулы">
-     <recordtable>
-      <record id="1570883999n16nt0dem2" name="Как отобрать и отформатировать все формулы на листе" author="" url="https://excelpedia.ru/makrosi-v-excel/otformatirovat-formuli" tags="" ctime="20230919155840" dir="1570883999tcwm5nils5" file="text.html"/>
-     </recordtable>
     </node>
    </node>
    <node crypt="" icon="" id="169512630909r1hqkqlx" name="VBA Excel">
