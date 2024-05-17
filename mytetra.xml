@@ -1766,6 +1766,7 @@
      <record id="1715764677ikzxiqr5ao" name="Преобразовать строку в DateTime и наоборот в Python" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.e3d5a881-66447c71-308339aa-74722d776562/https/www.geeksforgeeks.org/python-convert-string-to-datetime-and-vice-versa/" tags="python, datetime" ctime="20240515121757" dir="17157646773ev5kp7fqr" file="text.html"/>
      <record id="17157646957rq2y0h9x3" name="Как преобразовать datetime в date в Python" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.e3d5a881-66447c71-308339aa-74722d776562/https/www.geeksforgeeks.org/how-to-convert-datetime-to-date-in-python/" tags="python, datetime" ctime="20240515121815" dir="1715764695vztlgi7aop" file="text.html"/>
      <record id="1715765088js7icffn36" name="Как отформатировать дату с помощью strftime() в Python?" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.e3d5a881-66447c71-308339aa-74722d776562/https/www.geeksforgeeks.org/how-to-format-date-using-strftime-in-python/" tags="python, datetime" ctime="20240515122448" dir="1715765088wt637kbkm9" file="text.html"/>
+     <record id="1715941976ulceszg72u" name="Форматировать timedelta в строку" author="" url="https://stackoverflow.com/questions/538666/format-timedelta-to-string" tags="python, datetime, timedelta, Длинный формат времени, 24" ctime="20240517133256" dir="1715941976pqbf6zhuks" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
