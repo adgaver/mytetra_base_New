@@ -1756,7 +1756,8 @@
     <record id="17143042894zsg6qovsw" name="Как установить пакеты в автономном режиме?" author="" url="https://stackoverflow.com/questions/11091623/how-to-install-packages-offline" tags="" ctime="20240428143809" dir="1714304289fcjuaxu60t" file="text.html"/>
     <record id="1714339186dxtkt4uxvy" name="Ошибка парсера bs4  BeautifulSoup 1" author="" url="https://qna.habr.com/q/1052702" tags="bs4, BeautifulSoup" ctime="20240429001946" dir="1714339186dbg7l98wr3" file="text.html"/>
     <record id="1714339246zrwp2llxfh" name="Ошибка парсера bs4  BeautifulSoup 2 bs4.FeatureNotFound: не удалось найти построитель деревьев с запрошенными вами функциями: lxml. Вам нужно установить библиотеку парсера?" author="" url="https://stackoverflow.com/questions/24398302/bs4-featurenotfound-couldnt-find-a-tree-builder-with-the-features-you-requeste" tags="bs4, BeautifulSoup" ctime="20240429002046" dir="1714339246yyb7yqxuxo" file="text.html"/>
-    <record id="1717146280i00c496hsy" name="Транслитерировать текст" author="" url="https://www.cyberforum.ru/python-tasks/thread2186279.html" tags="python, транслит" ctime="20240531120440" dir="1717146280stdwcgk8v9" file="text.html"/>
+    <record id="1717146280i00c496hsy" name="Транслитерировать текст" author="" url="https://www.cyberforum.ru/python-tasks/thread2186279.html" tags="python, транслит, символ" ctime="20240531120440" dir="1717146280stdwcgk8v9" file="text.html"/>
+    <record id="1717146470by8bme4dw4" name="5 Способов убрать ненужные символы из строки на Python" author="" url="https://evileg.com/ru/post/642/" tags="python, символ" ctime="20240531120750" dir="17171464706ucznlbiw8" file="text.html"/>
    </recordtable>
    <node crypt="" id="1715764257idcsst6by7" name="datetime">
     <recordtable>
