@@ -1,0 +1,8 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'MS Shell Dlg 2'; font-size:10pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><a href="https://translated.turbopages.org/proxy_u/en-ru.ru.338d421a-6659a0c5-b5235cf3-74722d776562/https/stackoverflow.com/questions/69591454/how-do-i-replace-letters-in-text-using-a-dictionary"><span style=" font-size:xx-large; font-weight:600; text-decoration: underline; color:#0000ff;">Как мне заменить буквы в тексте с помощью словаря?</span></a></p>
+<p style="-qt-paragraph-type:empty; margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:xx-large; font-weight:600; color:#000000;"><br /></p>
+<p style=" margin-top:18px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Нет необходимости использовать <span style=" font-family:'Courier New';">text.split()</span>. Просто выполните итерацию по <span style=" font-family:'Courier New';">text</span> самому себе, чтобы получить буквы. А затем соедините их, используя пустую строку.</p>
+<pre style=" margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Courier New';">res = &quot;&quot;.join(Letters.get(i,i) for i  in text)</span></pre></body></html>
