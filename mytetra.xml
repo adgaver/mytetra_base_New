@@ -2409,7 +2409,7 @@
 						<record id="1709535180ujdem0po0t" name="Пользовательская функция FnReorderSubsetOfColumns" author="" url="https://baguzin.ru/wp/ot-lovushek-k-robastnym-zaprosam-v-power-query/" tags="ReorderSubsetOfColumns, переупорядоченные" ctime="20240304095300" dir="1709535180z5rw6roe77" file="text.html"/>
 						<record id="1713262473z9e76fu3tj" name="3 способа добавить ведущие нули к числам в Power Query" author="" url="https://gorilla.bi/power-query/add-leading-zeros/" tags="Power Query, ведущие нули" ctime="20240416131433" dir="1713262473a7duj8glru" file="text.html"/>
 						<record id="1713262544ogg42hg18h" name="Date.ToText" author="" url="https://powerquery.how/date-totext/" tags="Date.ToText, Power Query, ведущие нули" ctime="20240416131544" dir="1713262544fbkdwz848y" file="text.html"/>
-					</recordtable>
+						<record id="1718088495l6pzi7dcro" name="Экспорт запросов Power из одной книги в другую с помощью VBA" author="" url="https://stackoverflow.com/questions/41127467/export-power-queries-from-one-workbook-to-another-with-vba" tags="" ctime="20240611094815" dir="1718088495ocivfceo6f" file="text.html"/></recordtable>
 				</node>
 				<node crypt="" icon="" id="16951282122umkrj5jy7" name="Shapes">
 					<recordtable>
