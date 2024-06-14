@@ -1726,6 +1726,7 @@
     <record id="1717492590y1qzgmb33z" name="Как использовать глобальную переменную внутри функции в Python?" author="" url="https://ru.hexlet.io/qna/python/questions/kak-ispolzovat-globalnuyu-peremennuyu-vnutri-funktsii-v-python" tags="" ctime="20240604121630" dir="1717492590q3xwfq9n7c" file="text.html"/>
     <record id="1718359477ztsds4gdkr" name="Разница между pip freeze и pip list в Python" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.5ccf7dee-666c1523-c10e712e-74722d776562/https/bobbyhadz.com/blog/python-pip-freeze-pip-list-difference" tags="" ctime="20240614130437" dir="1718359477st8uggblmw" file="text.html"/>
     <record id="171835982887ky7zpifx" name="Как обновить пакет с использованием pip?" author="" url="https://sky.pro/media/kak-obnovit-paket-s-ispolzovaniem-pip/" tags="python, pip, пакеты, install" ctime="20240614131028" dir="1718359828bo669prohv" file="text.html"/>
+    <record id="1718360099o9w6z7z9nx" name="Удаление всех пакетов, установленных через pip" author="" url="https://sky.pro/media/udalenie-vseh-paketov-ustanovlennyh-cherez-pip/" tags="python, pip, пакеты, install, freeze, uninstall" ctime="20240614131459" dir="1718360099700eymjuqc" file="text.html"/>
    </recordtable>
    <node crypt="" id="1717486483q89faam68h" name="Списки">
     <recordtable>
