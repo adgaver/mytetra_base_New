@@ -1883,7 +1883,7 @@
 					<record id="17081732716ap0dvac1g" name="Расширения Chrome" author="" url="https://playwright.dev/python/docs/chrome-extensions" tags="playwright, extension, python, расширения" ctime="20240217153431" dir="17081732716yl0ff6jmr" file="text.html"/>
 					<record id="1708182105vqkt4qmwrq" name="Действия" author="" url="https://playwright.dev/docs/input" tags="" ctime="20240217180145" dir="170818210562dsljyse9" file="text.html"/>
 					<record id="1708197831mh13hrln76" name="Загрузка файла с помощью Playwright Python" author="" url="https://www.way2automation.com/upload-a-file-using-playwright-python/" tags="Загрузка, Playwrigh,t Python, upload" ctime="20240217222351" dir="17081978318rpqu29lxq" file="text.html"/>
-				</recordtable>
+					<record id="1718362731mgurmmi3h3" name="Playwright for Python PyPI version Anaconda version Join Discord" author="" url="https://pypi.org/project/playwright/" tags="" ctime="20240614135851" dir="1718362731hmbbzvncaw" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
 				<node crypt="" icon="" id="16951224846j6g6xor7u" name="Qt">
