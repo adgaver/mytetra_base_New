@@ -1739,7 +1739,7 @@
 					<record id="1700054034ycck10jnji" name="Как заменить значение в списке в Python" author="" url="" tags="" ctime="20240604104755" dir="1700054034wuk6jkk2vp" file="text.html"/>
 					<record id="1701697996dg0b6k1652" name="Как удалить дубликаты из списка python? Полезные советы и методы!" author="" url="https://pythonhelp.ru/python/kak-udalit-dublikaty-iz-spiska-python/" tags="" ctime="20240604104854" dir="1701697996oblt3ahb65" file="text.html"/>
 					<record id="1717492161bv6hqkioyo" name="Как сдвинуть массив вправо python" author="" url="https://ru.hexlet.io/qna/python/questions/kak-sdvinut-massiv-vpravo-python" tags="" ctime="20240604120921" dir="17174921616t1h2x81x4" file="text.html"/>
-				</recordtable>
+					<record id="1718620467n5lp8pdsve" name="Много вещей, которые вы можете сделать со списками Python Вы, возможно, пропустили" author="" url="https://pythobyte.com/many-things-you-can-do-with-python-lists-you-may-have-missed-261p-608645df/" tags="" ctime="20240617133427" dir="17186204678w302w6c78" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" id="1717486544ixcn3c34n9" name="Словари">
 				<recordtable>
@@ -1883,7 +1883,7 @@
 					<record id="17081732716ap0dvac1g" name="Расширения Chrome" author="" url="https://playwright.dev/python/docs/chrome-extensions" tags="playwright, extension, python, расширения" ctime="20240217153431" dir="17081732716yl0ff6jmr" file="text.html"/>
 					<record id="1708182105vqkt4qmwrq" name="Действия" author="" url="https://playwright.dev/docs/input" tags="" ctime="20240217180145" dir="170818210562dsljyse9" file="text.html"/>
 					<record id="1708197831mh13hrln76" name="Загрузка файла с помощью Playwright Python" author="" url="https://www.way2automation.com/upload-a-file-using-playwright-python/" tags="Загрузка, Playwrigh,t Python, upload" ctime="20240217222351" dir="17081978318rpqu29lxq" file="text.html"/>
-					<record id="1718362731mgurmmi3h3" name="Playwright for Python PyPI version Anaconda version Join Discord" author="" url="https://pypi.org/project/playwright/" tags="" ctime="20240614135851" dir="1718362731hmbbzvncaw" file="text.html"/></recordtable>
+					<record id="1718362731mgurmmi3h3" name="Playwright for Python PyPI version Anaconda version Join Discord" author="" url="https://pypi.org/project/playwright/" tags="" ctime="20240614135851" dir="1718362731hmbbzvncaw" file="text.html"/><record id="17186209065flqwa31yv" name="Блокировка ресурсов с драматургом" author="" url="https://pythobyte.com/blocking-resources-with-playwright-3053-898810ad/" tags="" ctime="20240617134146" dir="1718620906vvbsqfs2ms" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
 				<node crypt="" icon="" id="16951224846j6g6xor7u" name="Qt">
