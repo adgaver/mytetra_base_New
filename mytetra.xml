@@ -1729,7 +1729,7 @@
     <record id="1718360099o9w6z7z9nx" name="Удаление всех пакетов, установленных через pip" author="" url="https://sky.pro/media/udalenie-vseh-paketov-ustanovlennyh-cherez-pip/" tags="python, pip, пакеты, install, freeze, uninstall" ctime="20240614131459" dir="1718360099700eymjuqc" file="text.html"/>
     <record id="17183614236l4z920cc6" name="Как удалить все пакеты, установленные pip?" author="" url="https://stackoverflow.com/questions/11248073/how-do-i-remove-all-packages-installed-by-pip" tags="" ctime="20240614133703" dir="171836142308p7epdgra" file="text.html"/>
     <record id="1718693167yjtn8bnhcz" name="Цикл for в Python: тонкости написания" author="" url="https://pythonist.ru/czikl-for-v-python-tonkosti-napisaniya/" tags="python, enum" ctime="20240618094607" dir="171869316718nkri4x1t" file="text.html"/>
-    <record id="1718693179jql1g5s0bw" name="Главная страница » Вопросы с собеседования » Tips &amp; Tricks » Как работает функция enumerate() в Python?" author="" url="https://pythonist.ru/kak-rabotaet-funkcziya-enumerate-v-python/" tags="" ctime="20240618094619" dir="1718693179plm1h7f8xy" file="text.html"/>
+    <record id="1718693179jql1g5s0bw" name="Как работает функция enumerate() в Python?" author="" url="https://pythonist.ru/kak-rabotaet-funkcziya-enumerate-v-python/" tags="python, enum" ctime="20240618094619" dir="1718693179plm1h7f8xy" file="text.html"/>
    </recordtable>
    <node crypt="" id="1717486483q89faam68h" name="Списки">
     <recordtable>
