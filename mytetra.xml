@@ -1853,7 +1853,7 @@
 					<record id="17180101662wl5fcfvqj" name="Примеры применения Pandas в Python" author="" url="https://pythonist.ru/primery-primeneniya-pandas-v-python/" tags="python, usecols, столбцы, pandas" ctime="20240610120246" dir="1718010166zlpjywd1xi" file="text.html"/>
 					<record id="1718011861yap8hud7br" name="Как я могу перебирать строки в DataFrame Pandas?" author="" url="https://stackoverflow.com/questions/16476924/how-can-i-iterate-over-rows-in-a-pandas-dataframe?page=1&amp;tab=scoredesc#tab-top" tags="" ctime="20240610123101" dir="1718011861iy1om60rlp" file="text.html"/>
 					<record id="1718011922yrnjpdk9gg" name="Как я могу перебирать строки в DataFrame Pandas?" author="" url="https://stackoverflow.com/questions/16476924/how-can-i-iterate-over-rows-in-a-pandas-dataframe?page=1&amp;tab=scoredesc#tab-top" tags="" ctime="20240610123202" dir="171801192206ewddgm0v" file="text.html"/>
-				</recordtable>
+					<record id="1718797875gdvr7kxwn2" name="pandas.DataFrame.to_excel " author="" url="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html" tags="" ctime="20240619145115" dir="1718797875oowg9vy7zz" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
 				<recordtable>
