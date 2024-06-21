@@ -2139,7 +2139,7 @@
 					<record id="1695305374yz8xefwg75" name="List Outdated Dependencies with Pip (Получение списка устаревших пакетов с помощью Pip)" author="" url="https://blog.dbrgn.ch/2013/4/26/pip-list-outdated/" tags="python, pip" ctime="20240604105151" dir="1695305374hczhd4lihu" file="text.html"/>
 					<record id="1695305498u6vfp46crv" name="Поиск устаревших / обновляемых пакетов pip" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.464da993-650c4dcb-a48d6c3e-74722d776562/https/superuser.com/questions/259474/find-outdated-updatable-pip-packages" tags="" ctime="20240604105157" dir="1695305498h52jcla1rc" file="text.html"/>
 					<record id="17143042894zsg6qovsw" name="Как установить пакеты в автономном режиме?" author="" url="https://stackoverflow.com/questions/11091623/how-to-install-packages-offline" tags="" ctime="20240604105206" dir="1714304289fcjuaxu60t" file="text.html"/>
-				</recordtable>
+					<record id="1718957513o6c84xska8" name="Как я могу установить пакеты с помощью pip в соответствии с файлом require.txt из локального каталога?" author="" url="https://stackoverflow.com/questions/7225900/how-can-i-install-packages-using-pip-according-to-the-requirements-txt-file-from" tags="" ctime="20240621111153" dir="1718957513akrj3atza1" file="text.html"/></recordtable>
 			</node>
 		</node>
 		<node crypt="" icon="/user/microsoft-office2.svg" id="1695122579njtqb251t9" name="MSO">
