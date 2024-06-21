@@ -1856,7 +1856,7 @@
 					<record id="1718011861yap8hud7br" name="Как я могу перебирать строки в DataFrame Pandas?" author="" url="https://stackoverflow.com/questions/16476924/how-can-i-iterate-over-rows-in-a-pandas-dataframe?page=1&amp;tab=scoredesc#tab-top" tags="" ctime="20240610123101" dir="1718011861iy1om60rlp" file="text.html"/>
 					<record id="1718011922yrnjpdk9gg" name="Как я могу перебирать строки в DataFrame Pandas?" author="" url="https://stackoverflow.com/questions/16476924/how-can-i-iterate-over-rows-in-a-pandas-dataframe?page=1&amp;tab=scoredesc#tab-top" tags="" ctime="20240610123202" dir="171801192206ewddgm0v" file="text.html"/>
 					<record id="1718797875gdvr7kxwn2" name="pandas.DataFrame.to_excel " author="" url="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html" tags="" ctime="20240619145115" dir="1718797875oowg9vy7zz" file="text.html"/>
-				</recordtable>
+					<record id="17189547060rw0qt97l4" name="После сохранения фрейма данных в Excel я не могу открыть файл Excel." author="" url="https://stackoverflow.com/questions/57186307/after-save-dataframe-to-excel-i-cant-open-the-excel-file" tags="" ctime="20240621102506" dir="1718954706qw6o4swbdz" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
 				<recordtable>
