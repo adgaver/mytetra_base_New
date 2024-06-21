@@ -1823,7 +1823,7 @@
 					<record id="1717492231fwceg87j4g" name="Как загрузить csv файл в двумерный массив python" author="" url="https://ru.hexlet.io/qna/python/questions/kak-zagruzit-csv-fayl-v-dvumernyy-massiv-python" tags="" ctime="20240604121031" dir="1717492231eglr49u9zc" file="text.html"/>
 					<record id="17187887967rt8td5q76" name="Python - Удаление листа" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.6760f852-6672a289-8b5914f3-74722d776562/https/stackoverflow.com/questions/38126542/python-deleting-a-sheet" tags="" ctime="20240619122042" dir="1718788796fkmnqsjq12" file="text.html"/>
 					<record id="1718788932mk81ifata0" name="Удаление листа из книги – Python" author="" url="https://stackoverflow.com/questions/58585857/deleting-sheet-from-workbook-python" tags="" ctime="20240619122212" dir="17187889328uyee96a6h" file="text.html"/>
-				</recordtable>
+					<record id="1718953784u7ff3cxdks" name="Работа с модулем XlsxWriter – Python" author="" url="https://www.geeksforgeeks.org/working-with-xlsxwriter-module-python/" tags="" ctime="20240621100944" dir="17189537847gx8cnpyng" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1697713662iz5cf33uyu" name="Pandas">
 				<recordtable>
