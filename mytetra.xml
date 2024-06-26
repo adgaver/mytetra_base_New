@@ -1803,7 +1803,7 @@
 					<record id="17112706927mc4hwayqc" name="Как использовать модуль datetime в Python" author="" url="https://pythonru.com/primery/kak-ispolzovat-modul-datetime-v-python" tags="datetime, timedelta, strftime" ctime="20240604103703" dir="1711270692hs3e94gty9" file="text.html"/>
 					<record id="1697459103fb27et0wm6" name="Datetime текущий год и месяц в Python" author="" url="https://stackoverflow.com/questions/28189442/datetime-current-year-and-month-in-python" tags="current, puthon," ctime="20240604104739" dir="1697459103nxff3lul1j" file="text.html"/>
 					<record id="1697459751uph2np4son" name="дата Python предыдущего месяца" author="" url="https://stackoverflow.com/questions/9724906/python-date-of-the-previous-month" tags="Python, date, datetime" ctime="20240604104747" dir="16974597515acdp2knrm" file="text.html"/>
-				</recordtable>
+					<record id="1719408701adv0vctfrt" name="Функция to_datetime() модуля pandas в Python" author="" url="https://docs-python.ru/packages/modul-pandas-analiz-dannykh-python/to-datetime/" tags="" ctime="20240626163141" dir="1719408701yuq69yr0jn" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="1699426105blr98hksu9" name="python-xl">
 				<recordtable>
