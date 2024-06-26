@@ -1898,7 +1898,8 @@
 					<record id="1708197831mh13hrln76" name="Загрузка файла с помощью Playwright Python" author="" url="https://www.way2automation.com/upload-a-file-using-playwright-python/" tags="Загрузка, Playwrigh,t Python, upload" ctime="20240217222351" dir="17081978318rpqu29lxq" file="text.html"/>
 					<record id="1718362731mgurmmi3h3" name="Playwright for Python PyPI version Anaconda version Join Discord" author="" url="https://pypi.org/project/playwright/" tags="" ctime="20240614135851" dir="1718362731hmbbzvncaw" file="text.html"/>
 					<record id="17186209065flqwa31yv" name="Блокировка ресурсов с драматургом" author="" url="https://pythobyte.com/blocking-resources-with-playwright-3053-898810ad/" tags="" ctime="20240617134146" dir="1718620906vvbsqfs2ms" file="text.html"/>
-				</recordtable>
+					<record id="1719395666toreihu161" name="Как запустить Playwright в безголовом режиме?" author="" url="https://webscraping.ai/faq/playwright/how-can-i-run-playwright-in-headless-mode" tags="Playwright, безголовый, headless" ctime="20240626125426" dir="1719395666rd2cz2sklq" file="text.html"/>
+					<record id="1719396146hnkvkn6opk" name="Могу ли я перемещаться по истории браузера с помощью Playwright?" author="" url="https://webscraping.ai/faq/playwright/can-i-navigate-through-the-browser-history-using-playwright" tags="" ctime="20240626130226" dir="1719396146kjhhu8t7ok" file="text.html"/></recordtable>
 			</node>
 			<node crypt="" icon="" id="16951224841kny7nuje5" name="IDE">
 				<node crypt="" icon="" id="16951224846j6g6xor7u" name="Qt">
@@ -2175,7 +2176,8 @@
 					<record id="1719322275rtutjb0omp" name="DAX для управления диапазоном диаграммы" author="" url="https://www.planetaexcel.ru/forum/index.php?PAGE_NAME=message&amp;FID=1&amp;TID=105507&amp;MID=874463#message874463" tags="DAX, оси, axis" ctime="20240625163115" dir="1719322275icwjjku2xo" file="text.html"/>
 					<record id="17193223070dykkgzfq8" name="DAX для управления диапазоном диаграммы" author="" url="" tags="DAX, оси, axis" ctime="20240625163147" dir="1719322307twv99kjsgx" file="text.html"/>
 					<record id="1719323078gsp08mucmg" name="Создание более простой и удобной таблицы дат в Power BI" author="" url="https://www.sqlbi.com/articles/creating-a-simpler-and-chart-friendly-date-table-in-power-bi/" tags="DAX, календарь" ctime="20240625164438" dir="1719323078903get0lrp" file="text.html"/>
-					<record id="1719323262d32vo19wnj" name="Улучшение временных диаграмм в Power BI с помощью DAX" author="" url="https://www.sqlbi.com/articles/improving-temporal-line-charts-in-power-bi-with-dax/" tags="" ctime="20240625164742" dir="1719323262efq4bm194m" file="text.html"/></recordtable>
+					<record id="1719323262d32vo19wnj" name="Улучшение временных диаграмм в Power BI с помощью DAX" author="" url="https://www.sqlbi.com/articles/improving-temporal-line-charts-in-power-bi-with-dax/" tags="" ctime="20240625164742" dir="1719323262efq4bm194m" file="text.html"/>
+				</recordtable>
 			</node>
 			<node crypt="" icon="/user/microsoft-excel-2013-logo-svgrepo-com.svg" id="1695122579zcjwirnk3c" name="Excel">
 				<recordtable>
