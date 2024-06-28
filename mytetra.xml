@@ -1870,7 +1870,8 @@
      <record id="17189547060rw0qt97l4" name="После сохранения фрейма данных в Excel я не могу открыть файл Excel." author="" url="https://stackoverflow.com/questions/57186307/after-save-dataframe-to-excel-i-cant-open-the-excel-file" tags="" ctime="20240621102506" dir="1718954706qw6o4swbdz" file="text.html"/>
      <record id="17194814721ia9zdprot" name="Как записать список в Excel с помощью Python?" author="" url="https://stackoverflow.com/questions/55508303/how-to-write-a-list-of-list-into-excel-using-python" tags="python, pandas, list, excel" ctime="20240627125219" dir="1719481472hv7uu8e2u6" file="text.html"/>
      <record id="1719507407fzvj4oom1v" name="ModuleNotFoundError: В Python нет модуля с именем «xlsxwriter»" author="" url="https://bobbyhadz.com/blog/python-no-module-named-xlsxwriter" tags="xlsxwriter" ctime="20240627195647" dir="1719507407phfhx9qwok" file="text.html"/>
-     <record id="1719509031yw4whxct4f" name="Как исправить ModuleNotFoundError: в Python нет модуля с именем «xlsxwriter»" author="" url="https://sebhastian.com/python-no-module-named-xlsxwriter/" tags="xlsxwriter" ctime="20240627202351" dir="17195090313z83y0t251" file="text.html"/>
+     <record id="1719509031yw4whxct4f" name="ModuleNotFoundError: в Python нет модуля с именем «xlsxwriter»" author="" url="https://sebhastian.com/python-no-module-named-xlsxwriter/" tags="python, error, ModuleNotFoundError, xlsxwriter" ctime="20240627202351" dir="17195090313z83y0t251" file="text.html"/>
+     <record id="1719569335mh1yyerlgd" name="ModuleNotFoundError: нет модуля с именем «prettytable»" author="" url="https://stackoverflow.com/questions/77342525/modulenotfounderror-no-module-named-prettytable" tags="python, error, ModuleNotFoundError, prettytable" ctime="20240628130855" dir="1719569335fq9lxlkctv" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
