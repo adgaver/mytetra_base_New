@@ -2159,6 +2159,7 @@
      <record id="17143321271lnbp79uo8" name="Виртуальное окружение Python (venv)" author="" url="https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv" tags="python, venv" ctime="20240428222207" dir="1714332127y6mih4p9k8" file="text.html"/>
      <record id="17143349209121mwjsxv" name="Виртуальные среды (venv) в Python" author="" url="https://pythonist.ru/python-virtual-enviroments/" tags="" ctime="20240428230840" dir="17143349207lwm6atgux" file="text.html"/>
      <record id="17195689090gpvrsnj8l" name="Автоматическая активация виртуальной среды в Visual Studio Code" author="" url="https://stackoverflow.com/questions/58433333/auto-activate-virtual-environment-in-visual-studio-code" tags="python, venv, vscode, venva" ctime="20240628130149" dir="1719568909snq1bv5zqr" file="text.html"/>
+     <record id="17195734116fahqnqch9" name="Автоматическая активация виртуальной среды для Python в коде Visual Studio" author="" url="https://www.iditect.com/faq/python/auto-activate-virtual-environment-for-python-in-visual-studio-code.html" tags="python, venv, vscode, venva" ctime="20240628141651" dir="1719573411bhpph7o9fc" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1717487476myr760q38q" name="пакеты">
