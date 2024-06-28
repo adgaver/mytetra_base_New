@@ -314,6 +314,7 @@
     <record id="17147464144y2qxh0dhq" name="Скачать файл с VBS" author="" url="https://stackoverflow.com/questions/2973136/download-a-file-with-vbs" tags="" ctime="20240503172654" dir="1714746414es705gg5wd" file="text.html"/>
     <record id="17147466091ohcnwu04y" name="Загрузка файлов с помощью VBScript" author="" url="https://www.codeproject.com/Tips/506439/Downloading-files-with-VBScript" tags="" ctime="20240503173009" dir="1714746609f3extrxmml" file="text.html"/>
     <record id="17192146307wzlly56im" name="Форматирование текущей даты и времени в VBScript" author="" url="https://translated.turbopages.org/proxy_u/en-ru.ru.0b4c8227-66791eed-912d978e-74722d776562/https/stackoverflow.com/questions/22574092/format-current-date-and-time-in-vbscript" tags="vbs, date, datetime" ctime="20240624103801" dir="1719214630pu2oo5j4wc" file="text.html"/>
+    <record id="16951224856u2qrj1rdj" name="bat путь к диску" author="" url="" tags="bat, path, drive" ctime="20240628123815" dir="1695122485rqzmyp5nge" file="text.html"/>
    </recordtable>
   </node>
   <node crypt="" icon="" id="1514658332h6sn4rnf31" name="Win32API">
@@ -2156,10 +2157,10 @@
      <record id="1695122485lb3markmtp" name="Как установить python на флешку и сделать его портативным" author="" url="https://www.youtube.com/watch?v=lvM9ayZOxoo&amp;t=277s" tags="python, venv" ctime="20230919142125" dir="1695122485vo22jiwe15" file="text.html"/>
      <record id="1695122485214nopvqyi" name="Как устранить «ошибку: требуется Microsoft Visual C++ 14.0 или более поздней версии» при установке пакетов Python?" author="" url="https://stackoverflow.com/questions/64261546/how-to-solve-error-microsoft-visual-c-14-0-or-greater-is-required-when-inst" tags="python, venv" ctime="20230919142125" dir="1695122485nkmg2fzgix" file="text.html"/>
      <record id="1695122485uygryaeix9" name="Python с флешки, как запустить IDLE?" author="" url="https://overcoder.net/q/1362169/python-%D1%81-%D1%84%D0%BB%D0%B5%D1%88%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BA-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D1%82%D0%B8%D1%82%D1%8C-idle" tags="path, python, переменные среды" ctime="20230919142125" dir="1695122485d42kfv8sdf" file="text.html"/>
-     <record id="16951224856u2qrj1rdj" name="bat путь к диску" author="" url="" tags="bat, path, drive" ctime="20230919142125" dir="1695122485rqzmyp5nge" file="text.html"/>
      <record id="16951224851m4mj9vv0a" name="Pip - Fatal error in launcher: Unable to create process using '&quot;'" author="" url="https://stackoverflow.com/questions/37220055/pip-fatal-error-in-launcher-unable-to-create-process-using/39733705#39733705" tags="python, pip, Fatal error" ctime="20230919142125" dir="1695122485xtnxz3b5bg" file="text.html"/>
      <record id="17143321271lnbp79uo8" name="Виртуальное окружение Python (venv)" author="" url="https://pythonchik.ru/okruzhenie-i-pakety/virtualnoe-okruzhenie-python-venv" tags="python, venv" ctime="20240428222207" dir="1714332127y6mih4p9k8" file="text.html"/>
      <record id="17143349209121mwjsxv" name="Виртуальные среды (venv) в Python" author="" url="https://pythonist.ru/python-virtual-enviroments/" tags="" ctime="20240428230840" dir="17143349207lwm6atgux" file="text.html"/>
+     <record id="17195689090gpvrsnj8l" name="Автоматическая активация виртуальной среды в Visual Studio Code" author="" url="https://stackoverflow.com/questions/58433333/auto-activate-virtual-environment-in-visual-studio-code" tags="python, venv, vscode, venva" ctime="20240628130149" dir="1719568909snq1bv5zqr" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1717487476myr760q38q" name="пакеты">
