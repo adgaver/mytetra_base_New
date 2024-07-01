@@ -1737,6 +1737,8 @@
     <record id="171895048287ge9nzuue" name="Как скопировать файлы" author="" url="https://stackoverflow.com/questions/123198/how-to-copy-files" tags="" ctime="20240621091442" dir="17189504822pybm0xz1q" file="text.html"/>
     <record id="17194836029ub0cmfhn9" name="Ленивые вычисления в Python" author="" url="https://pythonist.ru/lenivye-vychisleniya-v-python/" tags="" ctime="20240627132002" dir="1719483602lwz6i0dvla" file="text.html"/>
     <record id="1719554605jjwctb7j72" name="Как в Python сделать вывод таблицей?" author="" url="https://qna.habr.com/q/399232" tags="python, PrettyTable, print" ctime="20240628090325" dir="171955460590b061jtax" file="text.html"/>
+    <record id="171984072422micb7b13" name="Table format tabulate" author="" url="https://pypi.org/project/tabulate/" tags="tabulate, PrettyTable, print" ctime="20240701163204" dir="1719840724dr0tdqae88" file="text.html"/>
+    <record id="1719843241v8vdpkyq6r" name="Как в Python вывести таблицу как в примере?" author="" url="https://qna.habr.com/q/1080722" tags="PrettyTable, print" ctime="20240701171401" dir="1719843241s1l9nb2f61" file="text.html"/>
    </recordtable>
    <node crypt="" id="1717486483q89faam68h" name="Списки">
     <recordtable>
