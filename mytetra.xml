@@ -1740,6 +1740,7 @@
     <record id="171984072422micb7b13" name="Table format tabulate" author="" url="https://pypi.org/project/tabulate/" tags="tabulate, PrettyTable, print" ctime="20240701163204" dir="1719840724dr0tdqae88" file="text.html"/>
     <record id="1719843241v8vdpkyq6r" name="Как в Python вывести таблицу как в примере?" author="" url="https://qna.habr.com/q/1080722" tags="PrettyTable, print" ctime="20240701171401" dir="1719843241s1l9nb2f61" file="text.html"/>
     <record id="1719853757mxmz7qa5w1" name="Как работать с модулем configparser в Python" author="" url="https://sky.pro/media/kak-rabotat-s-modulem-configparser-v-python/" tags="Python, configparser, ini" ctime="20240701200917" dir="1719853757li5gd1vkbp" file="text.html"/>
+    <record id="1719900125v0xf0v3ltj" name="Отправить таблицу в pywin32 outlook по электронной почте" author="" url="https://pythonhint.com/post/1694763779692979/send-table-in-pywin32-outlook-email" tags="Python, pywin32, win32.com, outlook" ctime="20240702090205" dir="17199001254mle0exqun" file="text.html"/>
    </recordtable>
    <node crypt="" id="1717486483q89faam68h" name="Списки">
     <recordtable>
@@ -1872,6 +1873,7 @@
      <record id="1718797875gdvr7kxwn2" name="pandas.DataFrame.to_excel " author="" url="https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_excel.html" tags="" ctime="20240619145115" dir="1718797875oowg9vy7zz" file="text.html"/>
      <record id="17189547060rw0qt97l4" name="После сохранения фрейма данных в Excel я не могу открыть файл Excel." author="" url="https://stackoverflow.com/questions/57186307/after-save-dataframe-to-excel-i-cant-open-the-excel-file" tags="" ctime="20240621102506" dir="1718954706qw6o4swbdz" file="text.html"/>
      <record id="17194814721ia9zdprot" name="Как записать список в Excel с помощью Python?" author="" url="https://stackoverflow.com/questions/55508303/how-to-write-a-list-of-list-into-excel-using-python" tags="python, pandas, list, excel" ctime="20240627125219" dir="1719481472hv7uu8e2u6" file="text.html"/>
+     <record id="17199028233wqffegl15" name="to_html() : DataFrame в html" author="" url="https://www.plus2net.com/python/pandas-to_html.php" tags="python, pandas, to_html" ctime="20240702094703" dir="1719902823b740pd89uu" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
