@@ -1879,6 +1879,7 @@
      <record id="1719910890lxiw82tdvz" name="Pandas добавляет столбец в DataFrame: 7 способов добавить столбцы в Pandas DataFrame" author="" url="https://betterdatascience.com/pandas-add-column-to-dataframe/" tags="" ctime="20240702120130" dir="17199108901izwq1wvbo" file="text.html"/>
      <record id="1719925335zqhldn0q64" name="добавить гиперссылку на таблицу Excel, созданную методом pandas dataframe to_excel" author="" url="https://stackoverflow.com/questions/31820069/add-hyperlink-to-excel-sheet-created-by-pandas-dataframe-to-excel-method" tags="python, pandas, HYPERLINK, dataframe" ctime="20240702160215" dir="17199253351w77y6w3cj" file="text.html"/>
      <record id="1719929645r80712611e" name="Как сохранить в *.xlsx длинный URL в ячейке с помощью Pandas" author="" url="https://stackoverflow.com/questions/35440528/how-to-save-in-xlsx-long-url-in-cell-using-pandas" tags="python, pandas, HYPERLINK, dataframe" ctime="20240702171405" dir="1719929645kxyueh2aer" file="text.html"/>
+     <record id="17199300290w7032vq7j" name="Работа с Pandas и XlsxWriter " author="" url="https://xlsxwriter.readthedocs.io/working_with_pandas.html" tags="python, pandas, XlsxWriter, dataframe" ctime="20240702172029" dir="1719930029lzmm11g6jy" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
