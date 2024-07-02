@@ -1741,6 +1741,7 @@
     <record id="1719843241v8vdpkyq6r" name="Как в Python вывести таблицу как в примере?" author="" url="https://qna.habr.com/q/1080722" tags="PrettyTable, print" ctime="20240701171401" dir="1719843241s1l9nb2f61" file="text.html"/>
     <record id="1719853757mxmz7qa5w1" name="Как работать с модулем configparser в Python" author="" url="https://sky.pro/media/kak-rabotat-s-modulem-configparser-v-python/" tags="Python, configparser, ini" ctime="20240701200917" dir="1719853757li5gd1vkbp" file="text.html"/>
     <record id="1719900125v0xf0v3ltj" name="Отправить таблицу в pywin32 outlook по электронной почте" author="" url="https://pythonhint.com/post/1694763779692979/send-table-in-pywin32-outlook-email" tags="Python, pywin32, win32.com, outlook" ctime="20240702090205" dir="17199001254mle0exqun" file="text.html"/>
+    <record id="1719929291144ftk9b7r" name="Получение URL-адреса гиперссылки из документа Excel" author="" url="https://pythonhint.com/post/8227321573130393/getting-a-hyperlink-url-from-an-excel-document" tags="python, openpyxl, HYPERLINK" ctime="20240702170811" dir="17199292911pfwp1ho5z" file="text.html"/>
    </recordtable>
    <node crypt="" id="1717486483q89faam68h" name="Списки">
     <recordtable>
@@ -1877,6 +1878,7 @@
      <record id="17199028233wqffegl15" name="to_html() : DataFrame в html" author="" url="https://www.plus2net.com/python/pandas-to_html.php" tags="python, pandas, to_html" ctime="20240702094703" dir="1719902823b740pd89uu" file="text.html"/>
      <record id="1719910890lxiw82tdvz" name="Pandas добавляет столбец в DataFrame: 7 способов добавить столбцы в Pandas DataFrame" author="" url="https://betterdatascience.com/pandas-add-column-to-dataframe/" tags="" ctime="20240702120130" dir="17199108901izwq1wvbo" file="text.html"/>
      <record id="1719925335zqhldn0q64" name="добавить гиперссылку на таблицу Excel, созданную методом pandas dataframe to_excel" author="" url="https://stackoverflow.com/questions/31820069/add-hyperlink-to-excel-sheet-created-by-pandas-dataframe-to-excel-method" tags="python, pandas, HYPERLINK, dataframe" ctime="20240702160215" dir="17199253351w77y6w3cj" file="text.html"/>
+     <record id="1719929645r80712611e" name="Как сохранить в *.xlsx длинный URL в ячейке с помощью Pandas" author="" url="https://stackoverflow.com/questions/35440528/how-to-save-in-xlsx-long-url-in-cell-using-pandas" tags="python, pandas, HYPERLINK, dataframe" ctime="20240702171405" dir="1719929645kxyueh2aer" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" icon="" id="1695122484xcsgetoqve" name="Посмотреть">
